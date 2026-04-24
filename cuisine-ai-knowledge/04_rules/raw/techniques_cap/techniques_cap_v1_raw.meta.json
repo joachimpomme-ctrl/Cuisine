@@ -1,0 +1,39 @@
+{
+  "source_document": "0-livret_techniques.pdf",
+  "source_path": "/Users/joachimpommeret/Library/CloudStorage/GoogleDrive-joachimpomme@gmail.com/Mon Drive/Enregistré depuis Chrome/0-livret_techniques.pdf",
+  "nature": "livret CAP cuisine",
+  "status": "raw",
+  "domain_requested": "technique",
+  "reviewed_by": [],
+  "extraction_mode": "sélective",
+  "date": "2026-04-24",
+  "notes": "Extraction sélective centrée sur micro-techniques, hygiène, vocabulaire métier et chaînes techniques courtes. Recettes complètes exclues. Certaines consignes du document sont scolaires ou trop professionnelles pour la cuisine domestique.",
+  "limits": [
+    "source scolaire",
+    "certaines consignes non adaptées à la cuisine domestique",
+    "de nombreuses techniques de cuisson sont déjà couvertes par le lot cuisson",
+    "le domaine 'technique' n'existe pas encore dans le schéma et le validateur actuels"
+  ],
+  "source_pages_exploited": [
+    6,
+    10,
+    15,
+    17,
+    20,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    32,
+    34,
+    35,
+    42,
+    43,
+    60,
+    62,
+    80,
+    99
+  ]
+}

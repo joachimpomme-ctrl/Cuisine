@@ -57,3 +57,11 @@
 - Ne pas multiplier les cycles de refroidissement et de réchauffage.
 - Quand la texture est trop dégradée, mieux vaut parfois réorienter l'usage du plat.
 - Quand le problème vient d'une base mal construite, un correctif spectaculaire aggrave souvent la situation.
+
+## Exécution technique
+
+- Une technique doit servir l'objectif du plat, pas être appliquée mécaniquement.
+- Une découpe régulière facilite une cuisson régulière.
+- Un geste mal exécuté peut créer un défaut que l'assaisonnement ne corrigera pas.
+- Les points critiques techniques doivent être signalés avant l'action.
+- Le vocabulaire métier doit clarifier le geste, pas compliquer la réponse.
