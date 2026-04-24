@@ -1,0 +1,9 @@
+{
+  "source_ai": "claude",
+  "date": "2026-04-24",
+  "domain": "cuisson",
+  "scope": "cuissons fondamentales",
+  "status": "raw",
+  "reviewed_by": [],
+  "notes": "Lot initial de demonstration pour valider le workflow."
+}
