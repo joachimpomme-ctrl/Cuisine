@@ -1,0 +1,39 @@
+{
+  "name": "",
+  "intention": "",
+  "structure": {
+    "base": "",
+    "transformation": "",
+    "sauce_liant": "",
+    "contraste": "",
+    "finition": "",
+    "texture": ""
+  },
+  "logique_de_gout": {
+    "sale": "",
+    "gras": "",
+    "acide": "",
+    "sucre": "",
+    "amer": "",
+    "umami": "",
+    "aromatique": ""
+  },
+  "formule_reutilisable": "[base] + [transformation] + [sauce] + [contraste] + [finition]",
+  "variantes": {
+    "bases": [],
+    "sauces": [],
+    "toppings": [],
+    "herbes_epices": [],
+    "proteines_compatibles": [],
+    "version_simple": "",
+    "version_festive": ""
+  },
+  "points_critiques": [],
+  "erreurs_frequentes": [],
+  "reperes_sensoriels": [],
+  "usage_gemini": {
+    "proposer_quand": [],
+    "eviter_quand": [],
+    "adaptation_rapide": ""
+  }
+}
