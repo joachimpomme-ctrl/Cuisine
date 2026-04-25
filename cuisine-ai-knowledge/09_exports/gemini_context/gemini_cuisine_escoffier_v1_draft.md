@@ -1,3 +1,5 @@
+> Fichier obsolète / draft. Utiliser désormais `gemini_cuisine_escoffier_v1.md`.
+
 # Escoffier — grammaire culinaire utile
 
 ## Rôle de ce fichier
