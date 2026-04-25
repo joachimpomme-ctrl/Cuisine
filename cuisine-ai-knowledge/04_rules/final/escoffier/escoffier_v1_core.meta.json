@@ -1,0 +1,17 @@
+{
+  "version": "v1",
+  "source_branch": "research/escoffier-v1",
+  "source_file": "cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_v1_final_candidate_core.jsonl",
+  "rules_count": 115,
+  "included_lots": [
+    "principes",
+    "associations",
+    "patterns",
+    "vocabulaire"
+  ],
+  "excluded_lots": [
+    "systemes"
+  ],
+  "status": "stable_initial",
+  "notes": "Premier lot Escoffier Core publié après extraction, normalisation, audit, révision ciblée et final_candidate. Le lot systemes reste exclu pour sélection ultérieure."
+}
