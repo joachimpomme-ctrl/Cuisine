@@ -1,6 +1,6 @@
 # Rapport de détection de doublons
 
-- Date : 2026-04-24
+- Date : 2026-04-25
 - Fichiers analysés : 5
 - Enregistrements analysés : 127
 - Groupes de doublons exacts : 0
