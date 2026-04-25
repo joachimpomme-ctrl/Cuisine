@@ -1,0 +1,18 @@
+{
+  "source_document": "Le_guide_culinaire.rtf",
+  "source_path": "/Users/joachimpommeret/Documents/GitHub/Cuisine/documents/Le_guide_culinaire.rtf",
+  "nature": "Guide culinaire classique",
+  "author": "Auguste Escoffier",
+  "status": "raw",
+  "extraction_mode": "massive_selective",
+  "date": "2026-04-24",
+  "notes": "Extraction sélective et modernisée en principes, systèmes, associations, patterns et vocabulaire. Les recettes complètes, proportions historiques et procédés trop datés ont été exclus ou reformulés.",
+  "limits": [
+    "source historique et partiellement datée",
+    "certaines techniques sont trop longues pour un usage domestique courant",
+    "le schéma actuel ne supporte ni le domaine 'escoffier' ni les types 'systeme', 'association', 'pattern', 'vocabulaire'",
+    "le mapping a donc été fait vers des domaines et types existants"
+  ],
+  "rules_count": 36,
+  "source_subset": "escoffier_principes"
+}

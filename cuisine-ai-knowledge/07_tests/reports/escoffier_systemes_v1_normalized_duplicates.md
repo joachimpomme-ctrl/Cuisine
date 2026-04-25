@@ -1,0 +1,59 @@
+# Rapport de détection de doublons
+
+- Date : 2026-04-25
+- Fichiers analysés : 5
+- Enregistrements analysés : 134
+- Groupes de doublons exacts : 0
+- Paires de quasi-doublons : 45
+- Seuil de similarité : 0.88
+
+## Doublons exacts
+
+Aucun doublon exact détecté.
+## Quasi-doublons
+
+- `ESCOFFIER_SYSTEME_042` <-> `ESCOFFIER_SYSTEME_045` | score=0.95 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:28 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:30
+- `ESCOFFIER_SYSTEME_018` <-> `ESCOFFIER_SYSTEME_030` | score=0.95 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:13 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:20
+- `ESCOFFIER_SYSTEME_009` <-> `ESCOFFIER_SYSTEME_018` | score=0.94 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:8 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:13
+- `ESCOFFIER_SYSTEME_039` <-> `ESCOFFIER_SYSTEME_042` | score=0.94 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:27 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:28
+- `ESCOFFIER_SYSTEME_009` <-> `ESCOFFIER_SYSTEME_030` | score=0.94 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:8 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:20
+- `ESCOFFIER_SYSTEME_009` <-> `ESCOFFIER_SYSTEME_015` | score=0.94 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:8 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:10
+- `ESCOFFIER_SYSTEME_039` <-> `ESCOFFIER_SYSTEME_045` | score=0.94 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:27 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:30
+- `ESCOFFIER_SYSTEME_018` <-> `ESCOFFIER_SYSTEME_021` | score=0.93 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:13 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:15
+- `ESCOFFIER_SYSTEME_015` <-> `ESCOFFIER_SYSTEME_018` | score=0.93 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:10 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:13
+- `ESCOFFIER_SYSTEME_009` <-> `ESCOFFIER_SYSTEME_021` | score=0.93 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:8 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:15
+- `ESCOFFIER_SYSTEME_015` <-> `ESCOFFIER_SYSTEME_021` | score=0.93 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:10 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:15
+- `ESCOFFIER_SYSTEME_015` <-> `ESCOFFIER_SYSTEME_030` | score=0.93 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:10 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:20
+- `ESCOFFIER_SYSTEME_009` <-> `ESCOFFIER_SYSTEME_036` | score=0.93 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:8 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:24
+- `ESCOFFIER_SYSTEME_015` <-> `ESCOFFIER_SYSTEME_036` | score=0.93 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:10 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:24
+- `ESCOFFIER_SYSTEME_015` <-> `ESCOFFIER_SYSTEME_039` | score=0.93 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:10 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:27
+- `ESCOFFIER_SYSTEME_015` <-> `ESCOFFIER_SYSTEME_042` | score=0.92 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:10 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:28
+- `ESCOFFIER_SYSTEME_021` <-> `ESCOFFIER_SYSTEME_030` | score=0.92 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:15 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:20
+- `ESCOFFIER_SYSTEME_009` <-> `ESCOFFIER_SYSTEME_045` | score=0.92 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:8 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:30
+- `ESCOFFIER_SYSTEME_015` <-> `ESCOFFIER_SYSTEME_045` | score=0.92 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:10 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:30
+- `ESCOFFIER_SYSTEME_030` <-> `ESCOFFIER_SYSTEME_036` | score=0.92 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:20 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:24
+- `ESCOFFIER_SYSTEME_030` <-> `ESCOFFIER_SYSTEME_048` | score=0.92 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:20 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:32
+- `ESCOFFIER_SYSTEME_018` <-> `ESCOFFIER_SYSTEME_042` | score=0.92 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:13 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:28
+- `ESCOFFIER_SYSTEME_042` <-> `ESCOFFIER_SYSTEME_048` | score=0.91 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:28 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:32
+- `ESCOFFIER_SYSTEME_036` <-> `ESCOFFIER_SYSTEME_048` | score=0.91 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:24 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:32
+- `ESCOFFIER_SYSTEME_009` <-> `ESCOFFIER_SYSTEME_048` | score=0.91 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:8 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:32
+- `ESCOFFIER_SYSTEME_015` <-> `ESCOFFIER_SYSTEME_048` | score=0.91 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:10 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:32
+- `ESCOFFIER_SYSTEME_009` <-> `ESCOFFIER_SYSTEME_042` | score=0.91 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:8 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:28
+- `ESCOFFIER_SYSTEME_018` <-> `ESCOFFIER_SYSTEME_045` | score=0.91 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:13 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:30
+- `ESCOFFIER_SYSTEME_045` <-> `ESCOFFIER_SYSTEME_048` | score=0.91 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:30 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:32
+- `ESCOFFIER_SYSTEME_018` <-> `ESCOFFIER_SYSTEME_036` | score=0.91 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:13 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:24
+- `ESCOFFIER_SYSTEME_018` <-> `ESCOFFIER_SYSTEME_039` | score=0.90 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:13 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:27
+- `ESCOFFIER_SYSTEME_018` <-> `ESCOFFIER_SYSTEME_048` | score=0.90 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:13 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:32
+- `ESCOFFIER_SYSTEME_039` <-> `ESCOFFIER_SYSTEME_048` | score=0.90 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:27 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:32
+- `ESCOFFIER_SYSTEME_021` <-> `ESCOFFIER_SYSTEME_042` | score=0.90 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:15 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:28
+- `ESCOFFIER_SYSTEME_030` <-> `ESCOFFIER_SYSTEME_042` | score=0.90 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:20 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:28
+- `ESCOFFIER_SYSTEME_021` <-> `ESCOFFIER_SYSTEME_036` | score=0.90 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:15 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:24
+- `ESCOFFIER_SYSTEME_036` <-> `ESCOFFIER_SYSTEME_045` | score=0.90 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:24 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:30
+- `ESCOFFIER_SYSTEME_009` <-> `ESCOFFIER_SYSTEME_039` | score=0.90 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:8 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:27
+- `ESCOFFIER_SYSTEME_021` <-> `ESCOFFIER_SYSTEME_045` | score=0.89 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:15 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:30
+- `ESCOFFIER_SYSTEME_030` <-> `ESCOFFIER_SYSTEME_045` | score=0.89 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:20 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:30
+- `ESCOFFIER_SYSTEME_036` <-> `ESCOFFIER_SYSTEME_042` | score=0.89 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:24 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:28
+- `ESCOFFIER_SYSTEME_021` <-> `ESCOFFIER_SYSTEME_039` | score=0.89 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:15 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:27
+- `ESCOFFIER_SYSTEME_021` <-> `ESCOFFIER_SYSTEME_048` | score=0.89 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:15 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:32
+- `ESCOFFIER_SYSTEME_030` <-> `ESCOFFIER_SYSTEME_039` | score=0.89 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:20 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:27
+- `ESCOFFIER_SYSTEME_036` <-> `ESCOFFIER_SYSTEME_039` | score=0.88 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:24 | cuisine-ai-knowledge/04_rules/normalized/escoffier/escoffier_systemes_v1_normalized.jsonl:27

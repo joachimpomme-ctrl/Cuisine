@@ -1,0 +1,25 @@
+# Vocabulaire Escoffier
+
+- fonds
+- fumet
+- essence
+- glace
+- dépouiller
+- vanner
+- réduire
+- tomber à glace
+- mouiller
+- lier
+- monter au beurre
+- passer à l étamine
+- pincer
+- suer
+- étuver
+- braiser
+- poêler
+- clarifier
+- chaud-froid
+- salmis
+- appareil
+- farce
+- garniture
