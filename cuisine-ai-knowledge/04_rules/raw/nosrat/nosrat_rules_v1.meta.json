@@ -1,0 +1,9 @@
+{
+  "source": "Salt, Fat, Acid, Heat",
+  "source_author": "Samin Nosrat",
+  "source_type": "book",
+  "extraction_type": "taste_decision_rules",
+  "status": "raw_structured_source_corpus",
+  "canonical_schema_compliant": false,
+  "notes": "Corpus source structuré au format décisionnel spécifique. À normaliser avant passage en final canonique."
+}
