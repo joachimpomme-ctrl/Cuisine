@@ -34,6 +34,57 @@ Cette séparation est volontaire. Elle évite de mélanger les règles général
 10_research/            Recherche documentaire et protocoles de transformation source -> règle
 ```
 
+## 🧠 Types de knowledge
+
+Le projet distingue plusieurs niveaux de connaissance :
+
+### 1. Règles canoniques
+
+Chemin :
+`04_rules/final/`
+
+Ce sont les règles atomiques validées, conformes au schéma officiel `01_schema/rule.schema.json`.
+Elles servent de base stable, contrôlée et exportable.
+
+### 2. Extractions et corpus sources
+
+Chemins possibles :
+`04_rules/raw/`
+`04_rules/normalized/`
+
+Ces fichiers peuvent contenir des formats intermédiaires issus de Claude, Gemini, Codex ou ChatGPT.
+Ils ne sont pas tous destinés à être utilisés directement par un agent final.
+Ils doivent être normalisés avant passage éventuel en `final`.
+
+### 3. Exports agent
+
+Chemin :
+`09_exports/gemini_context/`
+
+Ces fichiers sont optimisés pour l’usage dans Gemini Gems ou autres agents conversationnels.
+Ils peuvent être synthétiques, orientés décision, et ne respectent pas forcément `rule.schema.json`.
+Ils sont une couche d’usage, pas la source canonique.
+
+### Règle importante
+
+Ne pas confondre :
+
+- `04_rules/final/` = vérité structurée ;
+- `09_exports/gemini_context/` = contexte opérationnel pour agent.
+
+## Modules agent actuels
+
+- Core rules : raisonnement général
+- Cuisson : techniques de cuisson
+- Assaisonnement : équilibre du goût
+- Rattrapage : correction des erreurs
+- CAP techniques : gestes et bases techniques
+- Escoffier : structure des plats
+- McGee : science culinaire
+- Nosrat : décisions rapides de goût
+
+Les modules McGee, Nosrat et Escoffier existent aussi sous forme d’exports Gemini dans `09_exports/gemini_context/`.
+
 ## Rôles des IA
 
 - `Codex` : architecte technique et gardien du repo. Il maintient la structure, les schémas, les scripts, la validation, les exports et la qualité structurelle.
