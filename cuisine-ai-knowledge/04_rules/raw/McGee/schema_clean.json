@@ -1,0 +1,310 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://mcgee-kb.local/schema_clean.json",
+  "title": "McGee KB — Schéma du corpus consolidé v1.0",
+  "description": "Validation des entrées du corpus_clean.jsonl. Tous les champs métadonnées (niveau_utilite, priorite_usage) sont obligatoires.",
+  "oneOf": [
+    {
+      "$ref": "#/definitions/systeme"
+    },
+    {
+      "$ref": "#/definitions/cause_effet"
+    },
+    {
+      "$ref": "#/definitions/erreur"
+    },
+    {
+      "$ref": "#/definitions/seuil"
+    }
+  ],
+  "definitions": {
+    "domaine": {
+      "type": "string",
+      "enum": [
+        "viande",
+        "oeuf",
+        "lait",
+        "creme",
+        "fromage",
+        "sauce",
+        "gelatine",
+        "amidon",
+        "puree",
+        "emulsion",
+        "foam",
+        "poisson",
+        "vegetal",
+        "fruit_legume",
+        "graine",
+        "pate",
+        "sucre",
+        "chocolat",
+        "molecule",
+        "chaleur",
+        "transversal"
+      ]
+    },
+    "niveau_utilite": {
+      "type": "string",
+      "enum": [
+        "action",
+        "diagnostic",
+        "comprehension"
+      ],
+      "description": "action = appliquer immédiatement / diagnostic = expliquer un problème / comprehension = comprendre un mécanisme"
+    },
+    "priorite_usage": {
+      "type": "integer",
+      "enum": [
+        1,
+        2,
+        3
+      ],
+      "description": "1 = réponse immédiate (erreur, seuil) / 2 = diagnostic / 3 = compréhension"
+    },
+    "variantes": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "description": "Variantes du même concept. Permet de regrouper paramètres par sous-cas."
+    },
+    "systeme": {
+      "type": "object",
+      "required": [
+        "type",
+        "nom",
+        "domaine",
+        "principe",
+        "niveau_utilite",
+        "priorite_usage"
+      ],
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": "systeme"
+        },
+        "nom": {
+          "type": "string",
+          "minLength": 3
+        },
+        "domaine": {
+          "$ref": "#/definitions/domaine"
+        },
+        "principe": {
+          "type": "string",
+          "minLength": 20
+        },
+        "niveau_utilite": {
+          "const": "comprehension"
+        },
+        "priorite_usage": {
+          "const": 3
+        },
+        "seuil": {
+          "type": [
+            "string",
+            "number"
+          ]
+        },
+        "seuils": {
+          "type": [
+            "object",
+            "array",
+            "string"
+          ]
+        },
+        "effet": {
+          "type": "string"
+        },
+        "effets": {
+          "type": [
+            "object",
+            "array"
+          ]
+        },
+        "risques": {
+          "type": [
+            "string",
+            "array"
+          ]
+        },
+        "applications": {
+          "type": [
+            "string",
+            "array"
+          ]
+        },
+        "regles_pratiques": {
+          "type": [
+            "array",
+            "object"
+          ]
+        },
+        "regles": {
+          "type": [
+            "object",
+            "array",
+            "string"
+          ]
+        },
+        "methodes": {
+          "type": "object"
+        },
+        "ratios": {
+          "type": [
+            "object",
+            "string"
+          ]
+        },
+        "preparation": {
+          "type": [
+            "array",
+            "object",
+            "string"
+          ]
+        },
+        "test": {
+          "type": [
+            "string",
+            "object"
+          ]
+        },
+        "correctifs": {
+          "type": [
+            "string",
+            "array"
+          ]
+        },
+        "remedes": {
+          "type": "object"
+        },
+        "variantes": {
+          "$ref": "#/definitions/variantes"
+        }
+      }
+    },
+    "cause_effet": {
+      "type": "object",
+      "required": [
+        "type",
+        "domaine",
+        "cause",
+        "effet",
+        "explication",
+        "niveau_utilite",
+        "priorite_usage"
+      ],
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": "cause_effet"
+        },
+        "domaine": {
+          "$ref": "#/definitions/domaine"
+        },
+        "cause": {
+          "type": "string",
+          "minLength": 5
+        },
+        "effet": {
+          "type": "string",
+          "minLength": 5
+        },
+        "explication": {
+          "type": "string",
+          "minLength": 20
+        },
+        "niveau_utilite": {
+          "const": "diagnostic"
+        },
+        "priorite_usage": {
+          "const": 2
+        }
+      }
+    },
+    "erreur": {
+      "type": "object",
+      "required": [
+        "type",
+        "domaine",
+        "probleme",
+        "cause",
+        "correction",
+        "niveau_utilite",
+        "priorite_usage"
+      ],
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": "erreur"
+        },
+        "domaine": {
+          "$ref": "#/definitions/domaine"
+        },
+        "probleme": {
+          "type": "string",
+          "minLength": 5
+        },
+        "cause": {
+          "type": "string",
+          "minLength": 5
+        },
+        "correction": {
+          "type": "string",
+          "minLength": 10
+        },
+        "niveau_utilite": {
+          "const": "action"
+        },
+        "priorite_usage": {
+          "const": 1
+        }
+      }
+    },
+    "seuil": {
+      "type": "object",
+      "required": [
+        "type",
+        "domaine",
+        "T_celsius",
+        "phenomene",
+        "implication",
+        "niveau_utilite",
+        "priorite_usage"
+      ],
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": "seuil"
+        },
+        "domaine": {
+          "$ref": "#/definitions/domaine"
+        },
+        "T_celsius": {
+          "type": "number"
+        },
+        "T_fahrenheit": {
+          "type": "number"
+        },
+        "phenomene": {
+          "type": "string",
+          "minLength": 5
+        },
+        "implication": {
+          "type": "string",
+          "minLength": 15
+        },
+        "niveau_utilite": {
+          "const": "action"
+        },
+        "priorite_usage": {
+          "const": 1
+        },
+        "variantes": {
+          "$ref": "#/definitions/variantes"
+        }
+      }
+    }
+  }
+}
