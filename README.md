@@ -1,145 +1,110 @@
-# 🍳 Cuisine AI Knowledge
+# 🍳 Cuisine — Assistant culinaire IA (knowledge + instructions)
 
-## 🎯 Vision
+Une base de connaissances culinaire et des prompts système standardisés pour transformer
+**Gemini, Claude ou ChatGPT** en assistant de cuisine domestique : clair, direct, actionnable.
 
-Cuisine AI Knowledge est une base de connaissances culinaire conçue pour alimenter un assistant IA de cuisine.
-Le projet aide à transformer des savoirs culinaires fiables en réponses simples, rapides et actionnables.
-Il répond à un besoin concret : aider un utilisateur à réussir un plat, corriger une erreur ou trouver une idée sans recevoir un cours inutile.
-Il s’adresse aux créateurs d’agents IA, aux passionnés de cuisine et aux équipes qui veulent construire un assistant culinaire utile au quotidien.
+L'objectif n'est pas d'impressionner avec du vocabulaire, mais d'**aider à réussir un plat
+maintenant** — corriger un défaut, proposer une idée réalisable, expliquer un raté de cuisson.
 
-## ⚡ Ce que fait le système
+---
 
-Le système permet de :
+## 🎯 Ce que fait l'assistant
 
-* corriger un plat trop fade, trop salé, trop acide, trop lourd ou mal équilibré ;
-* proposer une recette simple à partir d’un besoin, d’un ingrédient ou d’une envie ;
-* expliquer un problème de cuisson, de texture ou d’assaisonnement ;
-* suggérer des idées de plats, d’associations ou de variations ;
-* guider l’utilisateur vers une action principale claire.
+- **Corriger** un plat fade, trop salé, trop acide, trop lourd, mal équilibré.
+- **Proposer** une recette simple à partir d'un ingrédient, d'une envie ou d'un fond de frigo.
+- **Expliquer** un problème de cuisson, de texture ou d'assaisonnement, et donner la parade.
+- **Suggérer** des associations et des variations crédibles.
+- **Gérer vos recettes** : inventaire, archivage de fiches, bibliothèque, profil de préférences (via Google Drive).
+
+---
 
 ## 🧠 Architecture
 
-Le projet repose sur plusieurs couches complémentaires :
+Deux briques complémentaires :
 
-```text
-Rules     → technique cuisine, gestes, cuisson, rattrapage
-McGee     → science culinaire, compréhension des phénomènes
-Nosrat    → goût, équilibre sel / acide / gras / chaleur / umami
-Escoffier → structure des plats, sauces, garnitures, cohérence
-Patterns  → créativité, associations, inspirations
-Recipes   → exécution concrète, étapes, repères sensoriels
+```
+instructions/   →  COMMENT répondre  (le comportement de l'agent, par plateforme)
+knowledge/      →  QUOI savoir        (9 couches de savoir culinaire distillé)
 ```
 
-Chaque couche a un rôle précis.
-L’objectif n’est pas d’accumuler de l’information, mais de produire des réponses utiles, courtes et fiables.
+Les couches de connaissance, mobilisées dans cet ordre de priorité :
 
-## 📂 Structure du repository
-
-```text
-cuisine-ai-knowledge/
-  04_rules/
-  09_exports/
-  07_tests/
+```
+RAISONNEMENT → GOÛT → STRUCTURE → SCIENCE → TECHNIQUE → PATTERNS → ASSOCIATIONS
+   (core)       (Nosrat)  (Escoffier)  (McGee)   (cuissons)  (Ottolenghi)  (Flavor Bible)
 ```
 
-`04_rules/` contient les règles métier structurées : technique, goût, cuisson, rattrapage et logique culinaire.
+---
 
-`09_exports/` contient les fichiers prêts à charger dans un agent IA, notamment les contextes Gemini.
+## 📂 Structure du dépôt
 
-`07_tests/` contient les tests, rapports et validations utilisés pour vérifier la qualité des réponses.
-
-## 🚀 Utilisation
-
-Pour utiliser cette base avec Gemini, charger les fichiers d’export situés dans :
-
-```text
-cuisine-ai-knowledge/09_exports/gemini_context/
+```
+.
+├── README.md
+├── instructions/
+│   ├── README.md          # guide de déploiement + placeholders
+│   ├── gemini.md          # prompt système — Google Gemini (Gems)
+│   ├── claude.md          # prompt système — Anthropic Claude (Projects)
+│   └── chatgpt.md         # prompt système — OpenAI ChatGPT (Custom GPT / Projects)
+└── knowledge/
+    ├── README.md          # index des couches + sources
+    ├── 01-rules-core.md
+    ├── 02-regles-pratiques.md
+    ├── 03-nosrat-gout.md
+    ├── 04-mcgee-science.md
+    ├── 05-mcgee-viande.md
+    ├── 06-escoffier-structure.md
+    ├── 07-cuissons.md
+    ├── 08-ottolenghi-patterns.md
+    └── 09-associations.md
 ```
 
-Les fichiers de connaissance apportent le contenu culinaire : règles, raisonnements, exemples et repères.
+---
 
-Le prompt d’instructions définit le comportement de l’assistant : style, priorité des réponses, niveau de détail et limites.
+## 🚀 Démarrage rapide
 
-En pratique :
+1. **Choisissez votre plateforme** et ouvrez le prompt correspondant dans `instructions/`.
+2. **Remplacez les placeholders** en tête de fichier (`{{INVENTORY_DOC}}`, `{{RECIPE_PREFIX}}`, `{{PROFILE_PREFIX}}`) par vos valeurs. Voir [`instructions/README.md`](instructions/README.md).
+3. **Collez le prompt** dans le champ Instructions de votre Gem / Project / GPT.
+4. **Chargez les 9 fichiers** de `knowledge/` dans le champ Knowledge / Project knowledge.
+5. (Optionnel) **Activez l'accès Google Drive** pour les modes inventaire / sauvegarde / bibliothèque / profil. Sans connecteur, l'agent fonctionne en mode manuel (il génère, vous collez).
 
-* le prompt dit comment répondre ;
-* la knowledge base dit quoi savoir ;
-* l’agent combine les deux pour produire une réponse claire et actionnable.
+> Le prompt dit *comment* répondre, la knowledge base dit *quoi* savoir. L'agent combine les deux.
 
-## 🧪 Exemple d’usage
+---
 
-Utilisateur :
+## 🧪 Exemples
 
-```text
-mon plat est fade
-```
+> **« mon plat est fade »**
+> Ajoute d'abord une petite pincée de sel, mélange, goûte à nouveau. S'il reste plat malgré le sel,
+> c'est sans doute un manque d'acidité — une pointe de citron ou de vinaigre.
 
-Réponse attendue :
+> **« une idée avec du poulet »**
+> Poulet citron-ail à la poêle, riz ou légumes rôtis en garniture. Point clé : bien dorer le poulet
+> *avant* d'ajouter le citron, sinon le résultat est bouilli et sans goût.
 
-```text
-Ajoute d’abord une petite pincée de sel, mélange, puis goûte à nouveau.
-Si le plat reste plat malgré le sel, il faudra probablement ajouter une touche d’acide.
-```
+> **« pourquoi ma viande est dure ? »**
+> Probablement trop cuite ou cuite trop fort. La prochaine fois : baisse la chaleur et arrête dès que
+> la viande est encore légèrement souple au toucher, puis laisse reposer.
 
-Utilisateur :
-
-```text
-donne-moi une idée avec poulet
-```
-
-Réponse attendue :
-
-```text
-Fais un poulet citron-ail à la poêle avec une garniture de riz ou de légumes rôtis.
-Point clé : bien dorer le poulet avant d’ajouter le citron pour garder du goût et éviter un résultat bouilli.
-```
-
-Utilisateur :
-
-```text
-pourquoi ma viande est dure
-```
-
-Réponse attendue :
-
-```text
-Elle a probablement été trop cuite ou cuite trop fort.
-Pour la prochaine fois, baisse la chaleur et arrête la cuisson dès que la viande est encore légèrement souple au toucher.
-```
+---
 
 ## ⚙️ Philosophie
 
-Le projet privilégie l’action plutôt que la théorie.
+- **L'action avant la théorie** : aider à agir maintenant.
+- **Les règles avant les recettes** : elles s'adaptent à ce que vous avez réellement devant vous.
+- **La simplicité avant l'exhaustivité** : une seule bonne action vaut mieux qu'une liste de possibilités.
+- **Le test réel avant la perfection abstraite** : clair, utile, faisable, rapide.
 
-Un bon assistant cuisine doit aider à agir maintenant, pas impressionner avec du vocabulaire.
+---
 
-Les règles sont plus importantes que les recettes : elles permettent de s’adapter à ce que l’utilisateur a réellement devant lui.
+## 📜 Sources & licence
 
-La simplicité passe avant la complexité.
-Une seule bonne action vaut mieux qu’une liste de possibilités difficiles à choisir.
+Les fichiers `knowledge/` sont des **notes de synthèse personnelles et reformulées** (règles, heuristiques,
+repères), inspirées d'ouvrages de référence cités dans [`knowledge/README.md`](knowledge/README.md)
+(*Salt Fat Acid Heat*, *On Food and Cooking*, *Le Guide culinaire*, *The Flavor Bible*, *Ottolenghi Simple*,
+*La Cuisine de référence*…). **Aucun texte intégral de ces ouvrages n'est redistribué ici** ; les droits
+restent à leurs auteurs et éditeurs.
 
-Le test réel compte plus que la perfection abstraite.
-Les réponses doivent être vérifiées par l’usage : est-ce clair, utile, faisable, rapide ?
-
-## 🛣️ Roadmap
-
-Priorités prévues :
-
-* enrichir les recettes exploitables par l’assistant ;
-* améliorer les patterns d’idées et d’associations ;
-* ajouter davantage de tests utilisateurs ;
-* optimiser les exports et instructions pour Gemini.
-
-## 🤝 Contribution
-
-Les contributions doivent rester simples, structurées et orientées usage.
-
-Pour ajouter du contenu :
-
-* placer les règles dans le dossier adapté ;
-* écrire des formulations courtes et actionnables ;
-* éviter les explications longues sans conséquence pratique ;
-* privilégier les règles testables sur des cas réels ;
-* vérifier que l’export final reste lisible par un agent IA.
-
-Une bonne contribution doit aider l’assistant à mieux répondre à une vraie question de cuisine.
+Le contenu original de ce dépôt (prompts, structure, synthèses) est partagé librement à des fins
+personnelles et éducatives.
