@@ -24,7 +24,7 @@ Deux briques complémentaires :
 
 ```
 instructions/   →  COMMENT répondre  (le comportement de l'agent, par plateforme)
-knowledge/      →  QUOI savoir        (9 couches de savoir culinaire distillé)
+knowledge/      →  QUOI savoir        (20 fichiers de savoir culinaire distillé)
 ```
 
 Les couches de connaissance, mobilisées dans cet ordre de priorité :
@@ -46,17 +46,10 @@ RAISONNEMENT → GOÛT → STRUCTURE → SCIENCE → TECHNIQUE → PATTERNS → 
 │   ├── gemini.md          # prompt système — Google Gemini (Gems)
 │   ├── claude.md          # prompt système — Anthropic Claude (Projects)
 │   └── chatgpt.md         # prompt système — OpenAI ChatGPT (Custom GPT / Projects)
-└── knowledge/
-    ├── README.md          # index des couches + sources
-    ├── 01-rules-core.md
-    ├── 02-regles-pratiques.md
-    ├── 03-nosrat-gout.md
-    ├── 04-mcgee-science.md
-    ├── 05-mcgee-viande.md
-    ├── 06-escoffier-structure.md
-    ├── 07-cuissons.md
-    ├── 08-ottolenghi-patterns.md
-    └── 09-associations.md
+├── knowledge/            # 20 fichiers (01-20) — voir knowledge/README.md
+│   ├── 01-rules-core.md … 09-associations.md      # socle (goût, science, structure, patterns, associations)
+│   └── 10-securite-alimentaire.md … 20-planification-menus.md   # sécurité, conservation, substitutions, poissons, etc.
+└── gem-gemini/           # bundle consolidé (9 fichiers) pour le Gem Gemini bridé à 10 fichiers
 ```
 
 ---
@@ -66,7 +59,10 @@ RAISONNEMENT → GOÛT → STRUCTURE → SCIENCE → TECHNIQUE → PATTERNS → 
 1. **Choisissez votre plateforme** et ouvrez le prompt correspondant dans `instructions/`.
 2. **Remplacez les placeholders** en tête de fichier (`{{INVENTORY_DOC}}`, `{{RECIPE_PREFIX}}`, `{{PROFILE_PREFIX}}`) par vos valeurs. Voir [`instructions/README.md`](instructions/README.md).
 3. **Collez le prompt** dans le champ Instructions de votre Gem / Project / GPT.
-4. **Chargez les 9 fichiers** de `knowledge/` dans le champ Knowledge / Project knowledge.
+4. **Chargez les fichiers de connaissance** dans le champ Knowledge / Project knowledge :
+   - **Claude / ChatGPT** (pas de limite) → les **20 fichiers** de `knowledge/`.
+   - **Gemini Gem** (limite ~10 fichiers) → les **9 bundles** de `gem-gemini/`.
+   - ⭐ `10-securite-alimentaire.md` fait autorité : la sécurité prime sur les repères de texture.
 5. (Optionnel) **Activez l'accès Google Drive** pour les modes inventaire / sauvegarde / bibliothèque / profil. Sans connecteur, l'agent fonctionne en mode manuel (il génère, vous collez).
 
 > Le prompt dit *comment* répondre, la knowledge base dit *quoi* savoir. L'agent combine les deux.

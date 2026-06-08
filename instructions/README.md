@@ -5,9 +5,11 @@ d'interaction avec Google Drive change (chaque plateforme expose des outils diff
 
 | Fichier | Plateforme | Où coller |
 |---|---|---|
-| `gemini.md` | Google Gemini (Gems) | Champ **Instructions** du Gem ; knowledge dans le champ **Knowledge** |
-| `claude.md` | Anthropic Claude (Projects) | **Custom instructions** du Project ; knowledge dans **Project knowledge** |
-| `chatgpt.md` | OpenAI ChatGPT (Custom GPT / Projects) | Champ **Instructions** ; knowledge dans **Knowledge** / fichiers du Project |
+| `gemini.md` | Google Gemini (Gems) | Champ **Instructions** ; knowledge = les **9 bundles** de `../gem-gemini/` (Gem limité à ~10 fichiers) |
+| `claude.md` | Anthropic Claude (Projects) | **Custom instructions** ; knowledge = les **20 fichiers** de `../knowledge/` |
+| `chatgpt.md` | OpenAI ChatGPT (Custom GPT / Projects) | Champ **Instructions** ; knowledge = les **20 fichiers** de `../knowledge/` |
+
+> ⭐ `knowledge/10-securite-alimentaire.md` fait autorité sur la sécurité (la sécurité prime sur les repères de texture).
 
 ## ⚙️ Placeholders à remplacer
 

@@ -34,11 +34,26 @@ Refuser toute demande hors périmètre.
 - `02-regles-pratiques.md` — assaisonnement, cuisson, rattrapage
 - `03-nosrat-gout.md` — goût (sel, gras, acide, chaleur)
 - `04-mcgee-science.md` — science culinaire générale
-- `05-mcgee-viande.md` — science de la viande (seuils thermiques, collagène, Maillard)
-- `06-escoffier-structure.md` — structure classique, sauces nommées, garnitures
-- `07-cuissons.md` — 7 méthodes de cuisson, protocoles, sauces émulsionnées
-- `08-ottolenghi-patterns.md` — patterns créatifs et cuisines du monde
+- `05-mcgee-viande.md` — science de la viande (seuils, collagène, Maillard)
+- `06-escoffier-structure.md` — structure classique, sauces, garnitures
+- `07-cuissons.md` — méthodes de cuisson, protocoles, émulsions
+- `08-ottolenghi-patterns.md` — patterns de plats, cuisines du monde
 - `09-associations.md` — associations / pairings d'ingrédients
+- `10-securite-alimentaire.md` — ⭐ sécurité : températures internes, zone de danger, poisson cru (**FAIT AUTORITÉ**)
+- `11-conservation.md` — conservation, restes, congélation, batch cooking
+- `12-substitutions-regimes.md` — substitutions & régimes (végé, végan, sans gluten/lactose, allergies)
+- `13-quantites-conversions.md` — quantités par personne, conversions, mise à l'échelle
+- `14-poissons.md` — poissons & fruits de mer
+- `15-equipement-improvisation.md` — équipement domestique & improvisation
+- `16-profils-saveurs-monde.md` — profils de saveurs & bases aromatiques du monde
+- `17-grains-legumineuses.md` — céréales, riz, pâtes & légumineuses
+- `18-fonds-bouillons.md` — fonds, bouillons & soupes
+- `19-boulangerie-patisserie.md` — pain & pâtisserie de base
+- `20-planification-menus.md` — composition de repas & orchestration du timing
+
+> **Priorité sécurité :** en cas de conflit entre un repère de texture (ex. poisson 50-55 °C) et un seuil sanitaire (63 °C), `10-securite-alimentaire.md` fait autorité.
+
+> **Gem Gemini (limite ~10 fichiers)** : ne pas charger les 20 fichiers ci-dessus ; utiliser à la place les 9 bundles consolidés de `../gem-gemini/` (même contenu, regroupé).
 
 **Règles de parsing :**
 - Respecter les headers sémantiques natifs (`#`, `##`, `###`). Ne pas croiser des scopes non liés.

@@ -31,6 +31,7 @@ Il sert à :
 
 - Viande froide directement dans la poêle → refroidit la poêle, empêche Maillard  
   → tempérer 30 min à l'air libre avant cuisson rapide.
+  ⚠️ La règle des 2h à température ambiante est CUMULATIVE sur toute la vie de l'aliment et tombe à 1h au-dessus de 32°C. Pour tempérer, 30-60 min suffisent pour des pièces moyennes ; inutile et risqué d'aller jusqu'à 2h (zone de danger 4-60°C, voir fichier sécurité).
 
 - Poêle surchargée → humidité s'accumule, T tombe sous 100°C, pas de brunissement  
   → cuire en plusieurs fournées, jamais couvrir pendant la saisie.
@@ -111,8 +112,9 @@ Il sert à :
 - Erreur à éviter : cuire jusqu'à désintégration totale.
 
 ### Volaille rôtie : blanc sec + cuisses crues
-- Cause : le blanc est optimal à 68°C, les cuisses à 73°C ; une cuisson uniforme rate l'un ou l'autre.
+- Cause : le blanc atteint sa cible de sécurité avant les cuisses ; une cuisson uniforme rate l'un ou l'autre.
 - Correction : barder le blanc, ou mettre un carré de papier alu sur le blanc, ou cuire en pièces séparées, ou positionner les cuisses face à la chaleur.
+- Sécurité : l'ensemble de la volaille (blanc ET cuisses) doit atteindre **74°C à cœur**. Le décalage cuisses/blanc est une question de texture, pas un permis de servir le blanc sous 74°C.
 - Erreur à éviter : cuire l'oiseau entier à T unique sans adaptation.
 
 ### Peau de volaille caoutchouteuse
@@ -127,8 +129,12 @@ Il sert à :
 
 ### Viande semblant cuite à la couleur mais insuffisamment cuite
 - Cause : la myoglobine peut être dénaturée avant cuisson (lumière, congélation), sans que la viande soit sûre.
-- Correction : thermomètre obligatoire. Volaille → **74°C** à cœur (usage courant). Viande hachée → 71°C minimum. Porc entier → 63°C avec repos (réf. USDA) — ne mentionner cette valeur que si le contexte est clairement du porc entier, pas de la volaille.
-- Erreur à éviter : se fier à la couleur seule.
+- Correction : thermomètre obligatoire.
+  - Volaille (entière, morceaux ET hachée) → **74°C** à cœur.
+  - Viande rouge HACHÉE (bœuf, agneau, veau) → **71°C** à cœur.
+  - Bœuf/agneau en pièce entière → **63°C + 3 min de repos**.
+  - Porc → **63°C + 3 min de repos**.
+- Erreur à éviter : se fier à la couleur seule, ou appliquer la cible « viande rouge hachée 71°C » à de la volaille hachée (boulettes/farces de volaille → 74°C).
 
 ### Viande cuite à cœur mais encore rose
 - Cause : phénomène normal — cuisson lente (myoglobine survit plus longtemps), ou "pink ring" BBQ (NO2 du combustible).
@@ -146,13 +152,15 @@ Il sert à :
 - `50°C` : bleu — myosine coagulée, encore rouge translucide, juteux.
 - `55°C` : saignant — optimal pour bœuf tendre, collagène de surface commence à fondre.
 - `60°C` : à point — actine dénature + collagène se contracte massivement → expulsion de jus, fermeté maximale.
-- `63°C` : cible USDA bœuf et porc entiers (avec repos).
-- `68°C` : blanc de volaille optimal.
-- `70°C` : bien cuit ; volaille commence à être sûre.
-- `73-74°C` : cuisses de volaille (sécurité recommandée).
-- `75°C` : viande hachée — cible sécurité stricte.
+- `63°C` : cible de **sécurité** bœuf/agneau en pièce et porc — **+ 3 min de repos** (réf. USDA).
+- `68°C` : blanc de volaille — repère de texture optimale (sous le seuil de sécurité, voir avertissement plus bas).
+- `70°C` : bien cuit ; la myoglobine vire au gris.
+- `71°C` : viande rouge HACHÉE (bœuf, agneau, veau) — cible **sécurité**.
+- `74°C` : volaille (entière, morceaux ET hachée) — cible **sécurité** ; correspond aussi à la bonne texture des cuisses.
 - `80-90°C` : zone de dissolution lente du collagène en gélatine (braisage).
 - `90-100°C` : collagène se dissout rapidement → texture "falling-apart".
+
+⚠️ Distinguer toujours **cible texture** (confort, p. ex. blanc 68°C, bleu/saignant 50-55°C) et **cible sécurité** (74°C volaille, 71°C haché rouge, 63°C+repos pièce). Les cibles texture sous le seuil de sécurité supposent une pièce entière saine, une surface saisie, et un public non fragile. Le thermomètre arbitre la sécurité ; la couleur et le toucher ne sont pas des garanties sanitaires.
 
 ## Grands mécanismes
 
@@ -201,6 +209,18 @@ Rose ≠ insuffisamment cuit (confit, BBQ, certaines cuissons lentes).
 Brun ≠ suffisamment cuit (myoglobine peut dénaturer avant cuisson par lumière ou congélation).
 Le thermomètre arbitre toujours.
 
+## Concentrés de fond (glace de viande, demi-glace)
+
+Concentrés de fond pour donner du corps et finir une sauce.
+
+- **Glace de viande** : réduire un fond jusqu'à environ 10% de son volume → ~25% de gélatine, sirupeux et collant, intense en umami. S'ajoute par cuillerées pour donner du corps.
+- **Demi-glace** : réduire à environ 25-40% du volume → moins de gélatine (10-15%), souvent complétée par un peu d'amidon/farine et de tomate.
+- Réduire dans une casserole large pour accélérer l'évaporation.
+- Éviter une ébullition violente prolongée : une chaleur trop forte dégrade les chaînes de gélatine → pouvoir gélifiant et collant amoindris (même logique que le braisage à 80°C, sans bulles franches).
+- Si la glace colle aux dents au service, l'allonger d'un peu d'eau ou de beurre.
+
+_source : McGee viande L1201-1207, 1525_
+
 ## Mécanismes chaleur et matériel
 
 ### Transfert de chaleur
@@ -219,15 +239,29 @@ Le thermomètre arbitre toujours.
 - Beurre noisette : eau s'évapore d'abord, puis solides brunissent à ~120°C (noisette) et ~150°C (noir).
 - Toujours ajouter le vinaigre ou le citron après refroidissement léger pour éviter les projections.
 
-## Sécurité alimentaire — volaille
+## Sécurité alimentaire — viande et volaille
 
-Référence simple à donner : **74°C / 165°F à cœur, mesuré au thermomètre**.
+Cibles de **sécurité** à cœur, mesurées au thermomètre :
 
-- En dessous, la volaille n'est pas sûre pour un usage courant — ne jamais suggérer une température inférieure sans que l'utilisateur demande explicitement une explication avancée (pasteurisation temps/T).
-- La couleur seule ne confirme pas la cuisson sûre de la volaille.
-- Les cuisses atteignent 74°C plus tard que le blanc — prévoir ce décalage (voir section volaille dans Diagnostic).
+- **Volaille (entière, morceaux ET hachée)** : **74°C / 165°F**.
+- **Viande rouge HACHÉE (bœuf, agneau, veau)** : **71°C / 160°F**.
+- **Bœuf/agneau en pièce entière** : **63°C / 145°F + 3 min de repos**.
+- **Porc** : **63°C / 145°F + 3 min de repos**.
 
-Ne pas transformer le Gem en outil sanitaire complet. Donner 74°C comme repère simple, et passer à autre chose.
+Règles transversales :
+- La couleur, le toucher (test du doigt) et le jus clair ne confirment PAS la cuisson sûre de la volaille ni des hachés — le thermomètre est la seule méthode fiable. Le test du doigt ne renseigne que sur la cuisson de surface d'une viande rouge en pièce.
+- Les cuisses de volaille atteignent 74°C plus tard que le blanc — prévoir ce décalage (voir section volaille dans Diagnostic). L'ensemble doit néanmoins atteindre 74°C.
+- **Zone de danger : 4-60°C** (USDA). Ne pas y laisser séjourner la viande plus de 2h cumulées (1h au-dessus de 32°C).
+- **Refroidissement rapide** d'une viande/ragoût cuit à conserver : 60→21°C en ≤2h, puis 21→4°C en ≤4h. Diviser en portions plates, ne pas empiler chaud au frigo.
+- Les durées de congélation sont des repères QUALITÉ (texture/goût), pas des limites de sécurité.
+
+Ne pas transformer le Gem en outil sanitaire complet : donner ces repères simples, renvoyer au fichier sécurité pour le détail, et passer à autre chose.
+
+### Poisson (rappel — détail dans mcgee_v1.md)
+Les poissons ont des seuils différents. Repère rapide :
+- Cible **sécurité** : **63°C à cœur** (chair opaque qui s'effeuille comme secours sans thermomètre).
+- Les cibles texture 50-55°C (nacré, mi-cuit) sont du CONFORT, en pleine zone de danger : réservées à un poisson de qualité, service immédiat, public non fragile.
+- Poisson consommé cru/mariné maison (tartare, gravlax, sushi) : **congélation préventive anti-parasites OBLIGATOIRE** — -20°C/7 jours, OU -35°C jusqu'à solidification puis -35°C/15h, OU -35°C jusqu'à solide puis -20°C/24h. Le sel/sucre ne tuent PAS l'anisakis.
 
 ## Règles transversales viande
 
@@ -254,4 +288,5 @@ Ne pas transformer le Gem en outil sanitaire complet. Donner 74°C comme repère
 - ne pas attendre la couleur grise pour confirmer la cuisson d'une volaille ;
 - ne pas réchauffer un ragoût à ébullition ;
 - ne pas découper sans repos sur les grosses pièces ;
-- ne pas juger la cuisson d'une viande par la couleur seule.
+- ne pas juger la cuisson d'une viande par la couleur seule ;
+- ne pas appliquer la cible « haché rouge 71°C » à de la volaille hachée (→ 74°C).
