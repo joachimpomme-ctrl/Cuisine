@@ -2057,2489 +2057,1136 @@ filet de poisson blanc séché + sel → farine → pâte à frire bière froide
 
 ---
 
-
 ---
 
 ## Compléments issus des sources (enrichissement 2026-06)
 
-_110 entrées ajoutées, auditées (verdict ≠ rejected). Sources : Ottolenghi Simple, Plenty, Ducasse (patterns transposables)._
+_Patterns transposables, audités. Sources : Ottolenghi Simple, Plenty, Ducasse. Élagués : doublons absorbés par le corps (patterns 001-035)._
 
 ### data
 
-**Accords fromage + fruit (Plenty) prets a dresser**
+**Accords fromage + fruit cru (no-cook, à dresser)**
 
-Accords simples fromage/fruit, format "composer sans cuire" :
-- Figues fraiches mures + chevre frais cremeux + roquette/basilic + vinaigrette a la melasse de grenade.
-- Poire (mi-mure, ferme et un peu acidulee, PAS trop mure sinon elle se defait) + chevre affine OU parmesan/pecorino, sur crostini.
-- Dattes Medjool + fromage de brebis sale (ou ricotta/mozzarella de bufflonne) + roquette + amandes grillees + melasse de grenade.
-- Pasteque + feta + basilic + (option oignon rouge tres fin) + filet d'huile : le sucre juteux contre le sale friable.
-Repere figues : lourdes, legerement molles, parfum sucre net, souvent fendues a la base.
+Composer sans cuire, registre sucré juteux contre salé friable (complète le Pattern 018 burrata/grillé, ici tout cru) :
+- Figues mûres + chèvre frais + roquette/basilic + vinaigrette mélasse de grenade.
+- Poire ferme-acidulée (pas trop mûre) + chèvre affiné OU parmesan, sur crostini.
+- Dattes Medjool + brebis salé (ou ricotta) + roquette + amandes grillées + grenade.
+- Pastèque + féta + basilic + option oignon rouge fin + huile.
+Repère figues : lourdes, un peu molles, parfum net, souvent fendues à la base.
 
 ### definition
 
-**Citron/lime seches de Perse : usage et preparation**
+**Citron/lime séchés de Perse**
 
-Citrons (ou limes) seches iraniens : petits agrumes durcis qui apportent une acidite et un parfum unique.
-- Plats mijotes/marinades : en jeter un entier, legerement perfore, qui infuse tout le plat (le retirer avant de servir).
-- Salades/assaisonnements : utiliser en poudre. Ils sont durs comme la pierre, un moulin a epices marche bien ; au robot, tamiser ensuite.
-- La poudre maison est plus puissante que celle du commerce.
-Profil : aigreur vive + arome parfume ; quelques cuilleres suffisent.
+Agrumes durcis iraniens, acidité vive + parfum unique :
+- Mijotés/marinades : un entier perforé qui infuse, retiré avant service.
+- Salades/assaisonnements : en poudre (durs comme pierre, moulin à épices puis tamiser).
+- Poudre maison plus puissante que le commerce ; quelques cuillères suffisent.
 
 ### pattern
 
-**Pattern outil — Panure aux graines (schnitzel revisité)**
+**Crème fouettée parfumée comme nappage salé (alternative au yaourt)**
 
-## Pattern outil — Panure croustillante aux graines + épices
-
-### Intention
-Une panure qui sort de l'ordinaire : panko enrichi de graines variées et d'épices, qui croustille mieux et parfume. Polyvalente sur viande, poisson, légume.
-
-### Pattern réutilisable
+Nappage frais pour poisson poêlé / entrée chic :
 ```text
-farine salée-poivrée → œuf battu → panko + graines (sésame blanc+noir, tournesol concassé, coriandre broyée) + épices (curcuma, cayenne) + sel → frire dans ~1/2 cm d'huile chaude, retourner à mi-cuisson, 5-6 min jusqu'à doré
+crème 35% fouettée ferme + crème sure pliée dedans + jus aromatique (jus de gingembre pressé, zeste) + sel → souple → sous/à côté de la protéine + salsa croquante
 ```
+Clés : presser le gingembre râpé pour extraire le JUS seul ; plier la crème sure délicatement (souple, pas ferme) ; contraste crème froide / poisson chaud peau croustillante ; se réfrigère jusqu'au service.
 
-### Points critiques
-- aplatir la viande (~1 cm) entre deux films pour cuisson rapide et homogène
-- huile **bien chaude** (pas tiède) sinon la panure boit l'huile
-- frire par petites quantités pour ne pas faire chuter la température
-- le mélange panko+graines se prépare en grande quantité et se garde ~1 mois en bocal
-- s'utilise aussi sur lanières de poisson blanc, bâtonnets de courge butternut
+**Salade tiède protéine + légumes grillés poêle striée + vinaigrette vive**
 
-### Usage Gemini
-- proposer quand : « escalope/schnitzel », « panure qui change », « plat que les enfants aiment »
-- déclencheurs : schnitzel, panure graines, poulet pané maison
-
-**Pattern — Crème montée légère parfumée (finition poisson/entrée)**
-
-## Pattern outil — Crème fouettée légère parfumée comme nappage d'entrée
-
-### Intention
-Alternative fraîche au yaourt pour napper un poisson poêlé ou une entrée : crème montée souple, allégée de crème sure, parfumée d'un jus aromatique.
-
-### Pattern réutilisable
+Tout passé à la poêle striée brûlante (marques de grill, noirci), réuni tiède, lié par une vinaigrette acide-relevée. Contraste fumé/frais.
 ```text
-crème 35 % fouettée ferme + crème sure pliée dedans + jus aromatique (jus de gingembre pressé, zeste) + sel → texture souple → déposer sous/à côté de la protéine + salsa croquante
+légumes/fruits robustes (oignon en quartiers, maïs, tomates cerises) grillés SÉPARÉMENT à la poêle striée → protéine grillée en dernier (crevettes, calmar, bifteck) → réunir tiède → vinaigrette (gingembre + sriracha + huile + lime + pincée sucre) + herbe → mélanger délicatement
 ```
+Clés : griller chaque ingrédient à part (cuissons différentes) ; chercher marques + noircissement ; assembler tiède (jamais brûlant ni froid frigo) ; vinaigrette préparable 2 j avant.
+Variantes vinaigrette : soja-sésame-lime, citron-ail-piment.
 
-### Points critiques
-- presser le gingembre râpé dans une passoire pour extraire le JUS seul (pas la pulpe)
-- plier la crème sure délicatement : on veut souple, pas ferme
-- contraste : crème froide / poisson chaud à peau croustillante / salsa croquante
-- se réfrigère jusqu'au service
+**Mijoté fruit de mer (calmar/poulpe) + poivron + zeste orange** _(sous-cas du Pattern 015)_
 
-### Usage Gemini
-- proposer quand : « napper un poisson finement », « entrée chic », alternative au yaourt
-- déclencheurs : crème au gingembre, nappage poisson
-
-**Pattern — Salade tiède de protéine + légumes grillés poêle striée + vinaigrette vive**
-
-## Pattern — Salade de protéine + légumes grillés à la poêle striée + vinaigrette vive
-
-### Intention
-Tout est passé à la poêle striée brûlante (marques de grill, noirci par endroits), réuni tiède, puis lié par une vinaigrette acide et relevée. Le contraste fumé/frais fait le plat.
-
-### Pattern réutilisable
+Délta vs 015 = gestion texture céphalopode + zeste orange final :
 ```text
-légumes/fruits robustes (oignon en quartiers, maïs, tomates cerises) grillés successivement à la poêle striée brûlante jusqu'à marques + noircissement → protéine grillée en dernier (crevettes, calmar, bifteck) → réunir tiède dans un saladier → vinaigrette (gingembre + sriracha + huile + zeste/jus lime + pincée sucre) + herbe (marjolaine, basilic) → mélanger délicatement
+oignon + poivron rouge fondus → ail + épices chaudes (carvi, piment Jamaïque, laurier, thym) → calmar saisi court → pâte tomate + vin rouge → couvert, feu doux ~30 min jusqu'à tendreté → zeste d'orange à la toute fin
 ```
+Clés : le calmar passe par une phase caoutchouteuse puis redevient tendre — ne pas s'arrêter trop tôt ; ajouter de l'eau si trop épais ; zeste hors feu ; meilleur 1-2 j après. Bases : calmar, poulpe, seiche.
 
-### Variantes
-- protéines : crevettes, calmar, bifteck saignant émincé, poulet
-- légumes grillés : maïs, oignon rouge, tomates cerises, poivrons, courgettes
-- vinaigrette : gingembre-sriracha-lime, soja-sésame-lime, citron-ail-piment
+**Barres au frigo chocolat (no-bake, vide-placard)**
 
-### Points critiques
-- griller chaque ingrédient SÉPARÉMENT (temps de cuisson différents) ; bien ventiler la cuisine
-- chercher les marques de grill et le noircissement : c'est la saveur
-- assembler tiède, jamais brûlant (herbes flétries) ni froid frigo
-- vinaigrette préparable jusqu'à 2 jours à l'avance
-
-### Usage Gemini
-- proposer quand : "salade-repas d'été", "crevettes ou calmar à passer", "j'ai une poêle à griller"
-- éviter quand : pas de poêle striée ni grill, repas réconfortant chaud recherché
-
-**Pattern — Mijoté de fruits de mer (calmar/poulpe) + poivron + zeste d'orange**
-
-## Pattern — Fruit de mer mijoté doucement + poivron-tomate + zeste d'agrume final
-
-> Note : la recette source ("calmars au poivron rouge") est déjà citée comme source du Pattern 015 (mijoté à la cocotte). Ce pattern en isole la spécificité fruit de mer (gestion de la texture du calmar, zeste d'orange final), non détaillée dans le 015. À traiter comme sous-cas/renvoi du 015.
-
-### Intention
-Une casserole, mijotage tranquille pendant qu'on fait le reste. Le calmar (ou poulpe), souvent jugé difficile, devient tendre par une cuisson lente à couvert. Meilleur le lendemain.
-
-### Pattern réutilisable
 ```text
-oignon + poivron rouge fondus → ail + épices chaudes (carvi, piment de la Jamaïque, laurier, thym) → calmar en lanières, saisir court → pâte de tomate + vin rouge → couvrir, feu doux, mijoter ~30 min jusqu'à tendreté → zeste d'orange râpé à la toute fin
+chocolats + beurre + sirop doré + pincée sel fondus au bain-marie → hors feu : biscuits cassés + noix concassées + fruits secs (option trempés alcool) → presser dans plat tapissé → frigo 2-3 h → couper, servir froid
 ```
+Tout substituable : chocolats (noir 70%, aromatisés), biscuits (digestifs, spéculoos), noix, fruits secs.
+Clés : bain-marie doux, fond du bol hors de l'eau ; garder un peu de noix en poudre pour le dessus ; bien presser (sinon friable) ; tient 1 semaine au frigo.
 
-### Variantes
-- bases : calmar, poulpe, seiche
-- épices : carvi, piment de la Jamaïque, laurier, thym, paprika fumé
-- liquide : vin rouge, ou bouillon
-- finition : zeste d'orange (signature), persil
+**Gâteau moelleux aux fruits déposés en surface (friand/clafoutis/crème sure)** _(complète le Pattern 024)_
 
-### Points critiques
-- le calmar passe par une phase caoutchouteuse puis redevient tendre : ne pas s'arrêter trop tôt
-- ajouter un peu d'eau si la sauce épaissit trop en fin de cuisson
-- zeste d'agrume APRÈS le feu (arômes volatils)
-- encore meilleur préparé 1-2 jours avant et réchauffé
-
-### Usage Gemini
-- proposer quand : "calmar/poulpe à cuisiner", "plat de la mer à préparer la veille", "tapas"
-- éviter quand : envie de calmar croustillant minute (autre technique)
-
-**Pattern — Barres frigo chocolat-garde-manger (no-bake, vide-placard)**
-
-## Pattern — Barres au frigo : chocolat fondu + biscuits + noix + fruits secs (vide-placard)
-
-### Intention
-Dessert "libère le garde-manger" : on lie au chocolat fondu tout ce qu'on a sous la main. Pas de cuisson, prend au frigo.
-
-### Pattern réutilisable
+Délta vs 024 = formats où les fruits sont posés dessus et le gâteau lève autour :
 ```text
-chocolats + beurre + sirop doré (ou de maïs) + pincée de sel fondus au bain-marie → hors feu, incorporer biscuits cassés + noix concassées + fruits secs (trempés dans alcool, option) → presser dans un plat tapissé → frigo 2-3 h → couper en barres, servir bien froid
+fruits macérés court (sucre + vanille + épice/herbe : laurier, cannelle, thym) → pâte légère (friand : blancs montés + amandes moulues + peu de farine + beurre fondu ; OU clafoutis ; OU crème sure) → verser au plat → fruits + jus dessus → cuire jusqu'à doré et fruits bouillonnants
 ```
+Clés : macérer 30 min MAX (sinon détrempe) ; alu si dore trop vite ; test "le dessus ne tremblote pas" (cure-dent ne ressort pas propre) ; gâteaux noix/amandes sèchent vite (1-2 j).
+Fruits : prunes-mûres, figues, pêches-framboises, pommes, bleuets ; sucre demerara en surface pour croûte.
 
-### Variantes (tout est substituable)
-- chocolats : noir 70 %, aromatisés (menthe, gingembre, chili)
-- biscuits : digestifs, sablés, spéculoos
-- noix : pistaches, noisettes, amandes
-- fruits secs : raisins (trempés rhum), cerises séchées, abricots
+**Gazpacho vert / tarator (délta du Pattern 005 = corps pain + noix)**
 
-### Points critiques
-- fondre au bain-marie doucement, eau frémissante, fond du bol hors de l'eau
-- garder un peu de noix en fine poudre pour parsemer le dessus
-- bien presser/égaliser avant le frigo (sinon barres friables)
-- conservation : 1 semaine en boîte hermétique au frigo
-
-### Usage Gemini
-- proposer quand : "dessert sans cuisson", "vider le placard", "chocolat + biscuits + noix"
-- éviter quand : dessert chaud recherché
-
-**Pattern — Gâteau moelleux aux fruits déposés en surface (friand/clafoutis/gâteau)**
-
-## Pattern — Gâteau moelleux aux fruits déposés en surface (friand, clafoutis, gâteau aux pommes)
-
-> Complète le Pattern 024 (gâteau amande-citron + fruit) en couvrant les formats friand / clafoutis / gâteau crème sure, où les fruits sont déposés en surface et le gâteau lève autour.
-
-### Intention
-Gâteau "maison réconfortant" : pâte simple versée au plat, fruits de saison disposés dessus, le gâteau lève autour d'eux.
-
-### Pattern réutilisable
+Soupe froide verte plus dense qu'un gaspacho, onctuosité sans cuisson via pain + noix :
 ```text
-fruits macérés court (sucre + vanille + épice/herbe : laurier, cannelle, thym) → pâte légère (friand : blancs montés + amandes moulues + peu de farine + beurre fondu ; OU clafoutis : jaunes-farine-crème + blancs en neige pliés ; OU gâteau crème sure) → verser au plat → disposer les fruits + leur jus dessus → cuire jusqu'à doré et fruits bouillonnants
+verts crus (concombre + poivron vert + céleri) + épinard/basilic/persil + ail + piment vert + pain rassis + noix grillées + vinaigre Xérès + huile + yaourt + glaçons + sel → mixer lisse → ajuster eau
 ```
-
-### Variantes
-- fruits : prunes-mûres, figues, pêches-framboises, pommes (Cortland + Granny), bleuets ; substituer selon la saison
-- aromate : laurier, thym, cannelle, mélange épices à tarte, vanille
-- garniture sucre : demerara/cassonade en surface pour croûte croustillante
-
-### Points critiques
-- macérer les fruits 30 min MAX (au-delà ils rendent trop de jus et détrempent)
-- couvrir d'alu en fin de cuisson si ça dore trop vite
-- gâteau aux pommes : le cure-dent ne ressort PAS propre (humidité des fruits) ; tester par "le dessus ne tremblote pas"
-- gâteaux aux noix/amandes : sèchent vite, manger dans les 1-2 jours
-
-### Usage Gemini
-- proposer quand : "gâteau aux fruits de saison", "clafoutis", "dessert maison réconfortant"
-- éviter quand : besoin d'un gâteau qui se conserve longtemps
-
-**Gazpacho vert : crudités + noix + pain + glace mixés (tarator)**
-
-Soupe froide verte, plus dense qu'un gaspacho classique (inspirée du tarator balkanique).
-
-Formule :
-légumes verts crus (concombre + poivron vert + céleri) + épinard/basilic/persil cru + ail + piment vert + pain rassis (corps) + noix grillées (corps + gras) + vinaigre de Xérès + huile + yaourt + glaçons + sel → mixer lisse → ajuster eau.
-
-Clés :
-- noix et pain donnent l'onctuosité sans cuisson
-- glaçons : sert glacé immédiatement et allège
-- finition : croûtons huile-sel maison à part
-
-Différent du gaspacho rouge : registre vert/herbacé, texture plus nappante. (Recoupe le Pattern 005 'soupe froide' mais ajoute le levier corps = pain + noix.)
+Clés : noix + pain = corps ; glaçons servent glacé et allègent ; croûtons huile-sel à part. Registre herbacé, texture nappante.
 
 **Salade de tomates multi-textures (crues + rôties à degrés variés)**
 
-Mettre en valeur plusieurs variétés/couleurs de tomates en jouant les textures.
-
-Principe : maximiser l'effet 'tomate' en cuisant différemment selon le morceau.
-- certaines laissées CRUES (jus, fraîcheur)
-- certaines rôties douces (~20 min à 160°C, sucre brun + balsamique + huile)
-- certaines rôties plus fort/court (~12 min à 200°C)
-→ réunir avec un grain neutre (couscous, fregola, perles), herbes multiples (origan + estragon + menthe), ail, et les jus de rôtissage. Mélanger à la main, délicatement.
-
 Idée transférable : varier les cuissons d'un même légume crée de la profondeur sans ajouter d'ingrédients.
+- certaines tomates CRUES (jus, fraîcheur)
+- certaines rôties douces (~20 min/160°C, sucre brun + balsamique + huile)
+- certaines rôties fort/court (~12 min/200°C)
+→ réunir avec grain neutre (couscous, fregola, perles) + herbes multiples (origan, estragon, menthe) + ail + jus de rôtissage. Mélanger à la main, délicatement.
 
 **Légume-coquille farci aux herbes (saler-égoutter d'abord)**
 
-Entrée provençale rapide : légume évidé, farci d'une farce herbacée.
-
-Formule :
-légume évidé (tomate ferme, courgette) → SALER l'intérieur + retourner pour égoutter l'eau → farce : oignon + ail + olives fondus à l'huile, hors feu + panko + herbes multiples (origan, persil, menthe) + câpres → remplir en dôme → four moyen jusqu'à tendreté.
-
-Clés :
-- saler/égoutter le légume évite une farce détrempée
-- panko ajouté HORS feu garde du croquant
-- olives + câpres = sel/umami sans viande
-
-Servir avec petite salade + chèvre.
-
-**Mijoté légumineuse + acidité INTÉGRÉE dès le départ (tamarin)**
-
-Mijoté qui tient son acidité de l'intérieur, pas seulement en finition.
-
-Formule :
-légumineuse (pois chiches) + légume terreux/amer (blettes blanchies) + base oignon-graines (carvi, coriandre) + tomate + PÂTE DE TAMARIN diluée + sucre → mijoter ~30 min jusqu'à consistance de soupe épaisse.
-
-Idée clé : sur les mijotés 'sérieux', Ottolenghi veut toujours une acidité vive pour casser la lourdeur. Ici elle est dans le plat dès le début (tamarin + blettes), pas seulement un filet de citron à la fin (qu'on peut quand même ajouter, + piment).
-
-Servir sur riz avec cratère central + yaourt + coriandre. (Nuance les Patterns 007/015 SIMPLE où l'acide est surtout une finition.)
-
-**Beurre noisette + amandes/aromates versé sur légume rôti**
-
-## Pattern — Beurre noisette aromatique versé sur légume rôti/grillé [outil de finition]
-
-**Intention** : finition rapide qui donne profondeur et richesse à un légume cuit — beurre bruni avec amandes, câpres frites ou ail, versé chaud au service.
-
-### Pattern réutilisable
 ```text
-légume rôti/grillé → beurre fondu jusqu'à brun foncé (noisette) avec amandes effilées OU câpres OU ail/épice broyée → verser chaud sur le légume → acide (citron) + herbe fraîche en finition
+légume évidé (tomate ferme, courgette) → SALER l'intérieur + retourner pour égoutter → farce : oignon + ail + olives fondus à l'huile, hors feu + panko + herbes (origan, persil, menthe) + câpres → remplir en dôme → four moyen jusqu'à tendre
 ```
+Clés : saler/égoutter évite la farce détrempée ; panko HORS feu garde le croquant ; olives + câpres = sel/umami sans viande. Servir avec salade + chèvre.
 
-### Variantes
-- amandes effilées dorées + câpres frites + aneth (asperges)
-- beurre noisette + ail/carvi + graines de courge + tahini en filet (choux de Bruxelles, ail noir)
-- câpres frites croustillantes seules (sur tout vert)
+**Mijoté légumineuse + acidité INTÉGRÉE dès le départ (tamarin)** _(nuance Patterns 007/015)_
 
-### Points critiques
-- surveiller le beurre : de noisette à brûlé en quelques secondes
-- câpres bien épongées avant friture (éclaboussent) ; cuire jusqu'à ce qu'elles s'ouvrent et croustillent
-- servir immédiatement, le beurre fige en refroidissant
-
-### Usage Gemini
-- proposer quand : "finir des asperges/brocolis/choux de manière gourmande", "beurre + légume du week-end"
-- éviter quand : version sans lactose (basculer huile d'olive chaude + aromates)
-
-**Charcuterie épicée + légume-feuille braisé + acide + crème**
-
-## Pattern — Chorizo/charcuterie + légume-feuille braisé + citron confit + crème
-
-**Intention** : un vert robuste rendu gourmand et complet — le gras épicé du chorizo le parfume, le citron confit apporte le punch acide-salé, une cuillerée de crème lie le tout.
-
-### Pattern réutilisable
+Délta : l'acide est dans le plat dès le début, pas seulement en finition.
 ```text
-chorizo/charcuterie + ail + paprika fumé saisis → retirer et réserver
-vert braisé dans le gras parfumé (un peu d'eau, couvert puis découvert jusqu'à tendre-croquant)
-remettre la charcuterie + citron confit haché + jus citron → hors feu, crème sure soulevée délicatement
+légumineuse (pois chiches) + légume terreux/amer (blettes blanchies) + base oignon-graines (carvi, coriandre) + tomate + PÂTE DE TAMARIN diluée + sucre → mijoter ~30 min jusqu'à soupe épaisse
 ```
+Servir sur riz, cratère central + yaourt + coriandre (+ option citron + piment à la fin).
 
-### Variantes
-- chou palmier/kale + chorizo + citron confit + crème sure
-- bette/épinards + lardons/pancetta + citron + crème
-- service : en tapas, ou avec viande/légumes grillés
+**Beurre noisette aromatique versé sur légume rôti/grillé [outil de finition]**
 
-### Points critiques
-- saisir la charcuterie d'abord, la retirer, braiser le vert dans son gras coloré
-- garder les feuilles tendres mais encore un peu croquantes, pas en bouillie
-- crème ajoutée hors feu pour ne pas trancher
-
-### Usage Gemini
-- proposer quand : "chou frisé/bette + du chorizo", "tapas", "accompagnement réconfortant rapide"
-- éviter quand : végétarien (mais le vert braisé + citron confit + crème tient seul)
-
-**Glaçage aigre-doux harissa-miel appliqué AVANT rôtissage**
-
-## Pattern — Glaçage aigre-doux épicé (harissa-miel) appliqué AVANT rôtissage
-
-**Intention** : carottes/racines enrobées d'une marinade épicée-sucrée avant le four, qui caramélise et laque le légume. Différent d'une sauce ajoutée après : ici le glaçage cuit sur le légume.
-
-### Pattern réutilisable
 ```text
-bol : épice (cumin) + sucre (miel) + pâte piquante (harissa) + beurre fondu + huile + sel → enrober le légume → rôtir four très chaud jusqu'à doré mais encore croquant → finition fraîche après (grenade + coriandre + jus citron)
+légume rôti/grillé → beurre fondu jusqu'à brun (noisette) avec amandes effilées OU câpres OU ail/épice → verser chaud → citron + herbe fraîche
 ```
+Variantes : amandes + câpres frites + aneth (asperges) ; beurre noisette + ail/carvi + graines de courge + tahini (choux de Bruxelles) ; câpres frites seules.
+Clés : de noisette à brûlé en quelques secondes ; câpres bien épongées (éclaboussent), cuites jusqu'à ouverture-croustillant ; servir aussitôt (le beurre fige). Sans lactose → huile d'olive chaude + aromates.
 
-### Variantes
-- carottes + cumin + miel + harissa rose + beurre, finition grenade+coriandre
-- racines (panais, betterave) + même glaçage
-- glaçage alternatif : paprika fumé + miel ; ras-el-hanout + miel
+**Chorizo/charcuterie + légume-feuille braisé + citron confit + crème**
 
-### Points critiques
-- le miel dans la marinade fait caraméliser ET peut brûler : surveiller, garder le légume croquant
-- ne pas trop serrer sur la plaque (sinon vapeur, pas de laque)
-- finition fraîche (grenade, herbes, citron) obligatoire pour contraster le sucré-épicé
-
-### Usage Gemini
-- proposer quand : "carottes qui en jettent", "légume rôti coloré et épicé", "à-côté pour agneau/poulet"
-- éviter quand : aversion au piquant (réduire la harissa)
-
-**Sauce chraimeh (épices-ail-tomate-sucre-lime) pour poisson/légumes [outil]**
-
-## Pattern — Sauce chraimeh : pâte d'épices frite + tomate + sucre + lime [outil condiment]
-
-**Intention** : sauce piquante libyenne rouge, intense, qui nappe poisson, légumes ou tofu. Se conserve longtemps, se congèle. Alternative chaleureuse à la sauce tomate banale.
-
-### Pattern réutilisable
 ```text
-pâte : ail pressé + épices (paprika fort + carvi + cumin + cannelle) + huile → frire la pâte 1 min (réveiller les arômes) → pâte de tomate + sucre + jus de lime + sel → eau pour éclaircir → mijoter jusqu'à épaississement → y finir la protéine/le légume
+chorizo/charcuterie + ail + paprika fumé saisis → retirer et réserver → vert braisé dans le gras parfumé (un peu d'eau, couvert puis découvert, tendre-croquant) → remettre charcuterie + citron confit haché + jus citron → hors feu, crème sure soulevée délicatement
 ```
+Variantes : kale + chorizo + citron confit + crème sure ; bette/épinards + lardons + citron + crème. Service tapas ou avec grillé.
+Clés : saisir la charcuterie d'abord puis braiser dans son gras ; feuilles tendres mais croquantes ; crème hors feu (ne tranche pas). Végé : le vert braisé + citron confit + crème tient seul.
 
-### Variantes
-- haricots verts + tofu doré (plat végé)
-- poisson blanc ou poulet poché dans la sauce
-- trempette avec du pain
-- se garde 1 semaine au frigo / 1 mois au congélateur : doubler/tripler
+**Glaçage aigre-doux épicé (harissa-miel) appliqué AVANT rôtissage [outil]**
 
-### Points critiques
-- frire la pâte d'épices+ail dans l'huile AVANT le liquide (sinon arômes plats)
-- pincée de sucre obligatoire pour équilibrer le piquant et l'acide
-- éclaircir à l'eau, ajuster la consistance
-
-### Usage Gemini
-- proposer quand : "sauce épicée pour poisson/tofu/poulet", "changer de la sauce tomate", "batch de condiment à congeler"
-- éviter quand : aversion au piquant fort
-
-**Gratin de légume : crème-fromage-épices + croûte chapelure**
-
-## Pattern — Gratin de légume crémé épicé + croûte chapelure-fromage
-
-**Intention** : un légume (chou-fleur, etc.) en gratin réconfortant mais relevé d'épices, avec une sauce crème-fromage rapide (pas de béchamel) et une croûte croustillante finie sous le gril.
-
-### Pattern réutilisable
+Délta vs sauce ajoutée après : ici le glaçage cuit sur le légume et laque.
 ```text
-légume à peine cuit vapeur (ferme) → sauce express : oignon fondu + épices (cumin/cari/moutarde/piment) + crème + fromage fondu jusqu'à léger épaississement → mêler le légume → couvrir d'un mélange chapelure+fromage+persil → four puis gril jusqu'à doré-croustillant
+bol : épice (cumin) + miel + harissa + beurre fondu + huile + sel → enrober → four très chaud jusqu'à doré mais croquant → finition fraîche après (grenade + coriandre + citron)
 ```
+Variantes : carottes ; racines (panais, betterave) ; glaçage alt. paprika fumé + miel, ras-el-hanout + miel.
+Clés : le miel caramélise ET peut brûler (surveiller, garder croquant) ; ne pas serrer sur la plaque ; finition fraîche obligatoire pour contraster.
 
-### Variantes
-- chou-fleur + cumin/cari/moutarde sèche+graines+piments verts + cheddar vieilli
-- croûte : mie de pain + cheddar + persil
-- préparable la veille jusqu'à l'étape four
+**Sauce chraimeh : pâte d'épices frite + tomate + sucre + lime [outil condiment]**
 
-### Points critiques
-- légume cuit ferme à la vapeur (il finira au four) — pas de bouillie
-- sauce crème-fromage juste épaissie, pas réduite à mort
-- essuyer les parois du plat (la crème brûle) ; surveiller sous le gril pour ne pas carboniser la croûte
+Sauce piquante libyenne rouge, nappe poisson/légumes/tofu ; se conserve, se congèle.
+```text
+pâte : ail pressé + épices (paprika fort + carvi + cumin + cannelle) + huile → frire 1 min → pâte de tomate + sucre + jus de lime + sel → eau pour éclaircir → mijoter jusqu'à épaississement → y finir la protéine/le légume
+```
+Clés : frire la pâte d'épices+ail AVANT le liquide ; pincée de sucre obligatoire ; éclaircir à l'eau. Variantes : haricots verts + tofu doré ; poisson/poulet poché dedans ; trempette pain. Tient 1 sem. frigo / 1 mois congélo.
 
-### Usage Gemini
-- proposer quand : "gratin de chou-fleur qui change", "plat réconfortant à préparer la veille", "à-côté de poulet rôti/saucisses"
-- éviter quand : intolérance lactose, repas léger
+**Gratin de légume crémé épicé + croûte chapelure-fromage** _(distinct du Pattern 034, ici légume, sauce express sans béchamel)_
 
-**Gros champignon farci fromage fondant + duxelles-tomate séchée**
+```text
+légume à peine cuit vapeur (ferme) → sauce express : oignon fondu + épices (cumin/cari/moutarde/piment) + crème + fromage fondu jusqu'à léger épaississement → mêler le légume → couvrir chapelure + fromage + persil → four puis gril jusqu'à doré
+```
+Variantes : chou-fleur + cumin/cari/moutarde + cheddar vieilli. Préparable la veille jusqu'au four.
+Clés : légume ferme (finit au four, pas de bouillie) ; sauce juste épaissie ; essuyer les parois (la crème brûle) ; surveiller sous le gril.
 
-## Pattern — Portobello farci fromage fondant
+**Portobello farci fromage fondant**
+
+```text
+gros champignons pré-rôtis 15 min → farce sautée refroidie (oignon + céleri + tomates séchées + ail + parmesan + herbes) → garnir + tranches de fromage fondant → four jusqu'à fonte et champignon tendre
+```
+Clés : fromage jeune/gras qui fond lisse (taleggio, fontina, mozzarella, scamorza) — les très affinés (gruyère, vieux cheddar) grainent et deviennent huileux ; pré-rôtir pour évacuer l'eau ; saler la farce avec mesure si fromage salé. Farces alt. : duxelles ; épinards-ricotta ; chèvre-noix.
+
+**Salade betterave + agrume + contraste salé**
+
+Trio sucré-acide-salé net :
+```text
+betterave cuite en quartiers + segments d'agrume levés à vif (avec leur jus) + élément salé (olives noires OU chèvre/féta) + oignon rouge fin + herbe → vinaigrette légère (huile + vinaigre/fleur d'oranger) → mélanger peu
+```
+Variantes : agrumes (orange, sanguine, pamplemousse) ; salé (olives ridées, féta, chèvre, gorgonzola) ; feuille amère (trévise, endive, cresson) ; aromate (fleur d'oranger, carvi, aneth).
+Clés : lever les segments à vif et garder le jus (= acide vinaigrette) ; cuire la betterave entière puis peler ; mélanger en dernier et peu (sinon tout vire au rose).
+
+**Tempura de légumes (pâte à l'eau gazeuse) + trempette agrume**
+
+```text
+légumes en morceaux → roulés dans la fécule sèche (accroche) → pâte légère (fécule + farine levante + EAU GAZEUSE très froide + sel + huile) → friture à grésillement franc (pas brûlante) → égoutter, saler → trempette (agrume + herbe + piment + sucre + huile mixés)
+```
+Variantes légumes : topinambour, betterave, brocoli, chou-fleur, patate douce, carotte, poireau, panais. Trempette : lime-coriandre-cardamome-piment ; soja-gingembre-vinaigre de riz.
+Clés : eau gazeuse très froide + pâte mélangée au dernier moment = légèreté ; pré-fécule sèche ; huile modérée (grésille sans brûler) ; petites quantités. (Pâte à bière → cf. Pattern 035.)
+
+**Salade de riz tropicale (fruit + croquant)**
+
+Inspiration SE-asiatique, double croquant :
+```text
+riz cuits froids (jasmin au basilic thaï + riz rouge) + fruit en dés (mangue) + poivron + herbes (basilic thaï, coriandre, menthe) + oignon vert + piment + lime + huile arachide → mélanger DÉLICATEMENT → cacahuètes + coco grillée + échalotes frites
+```
+Variantes : fruit (mangue, ananas, papaye verte) ; vinaigrette + trait de nuoc-mâm.
+Clés : riz bien refroidi/étalé ; parfumer le jasmin à la cuisson (bouquet basilic thaï, retiré) ; mélanger délicat (fruit mûr se défait) ; croquant au dernier moment.
+
+**Salade de grains tiède + huile d'herbes frites** _(délta vs 008/011 = huile d'herbes frites versée chaude)_
+
+```text
+quinoa + riz tièdes + légume rôti (patate douce) → huile chaude : ail doré 30 s + sauge/origan frits ~1 min, versée aussitôt sur les grains → menthe + oignon vert + jus citron + féta + acide poudré (citron séché de Perse / sumac)
+```
+Variantes : grains (quinoa+sauvage, boulgour, freekeh) ; légume (courge, betterave, chou-fleur) ; huile (ail + romarin / thym).
+Clés : ail JUSTE doré (30 s) puis herbes ~1 min, verser tout de suite ; grains tièdes pour absorber ; mélanger délicat ; citron séché moulu = note unique (sinon sumac).
+
+**Salade de pâtes + légume frit mariné à chaud + sauce d'herbes** _(délta vs 009/011 = légume frit puis mariné au vinaigre à chaud)_
+
+```text
+courgettes en tranches frites dorées → arrosées de vinaigre À CHAUD → pâtes courtes rincées froides → sauce mixée crue (basilic + persil + huile) + zeste citron + câpres + mozzarella déchirée + edamame → mélanger délicatement
+```
+Variantes : légume frit-mariné (courgette, aubergine, poivron) ; sauce (roquette-amande, menthe-pistache) ; ajouts (petits pois, burrata).
+Clés : frire sans surcharger, retourner une fois, égoutter ; vinaigre à chaud (s'imprègne en refroidissant) ; rincer les pâtes froides ; mozzarella + basilic en tout dernier.
+
+**Polenta de maïs frais + sauce**
+
+« Polenta » soyeuse de MAÏS FRAIS mixé (pas de semoule) :
+```text
+maïs frais cuit ~12 min → mixé LONGUEMENT (casser les peaux) avec un peu de son eau → recuit en remuant jusqu'à purée → beurre + féta + sel, 2 min → lit, sauce chaude au centre (aubergine frite + concentré + tomate + origan)
+```
+Variantes : enrichissement (beurre + féta / parmesan / crème) ; sauce (aubergine-tomate, champignons, ragoût épicé). Strictement maïs frais en saison.
+Clés : mixer longtemps (texture lisse) ; réserver l'eau de cuisson ; assumer plus mou qu'une polenta de semoule.
+
+**Salade fruit poché + bleu doux + noix**
+
+Fruit ferme poché en sirop épicé, posé sur feuilles amères ; le sirop sert aussi de vinaigrette.
+```text
+fruit ferme poché à couvert four doux (eau + sucre + vin + zeste orange + laurier + poivre + jus citron) jusqu'à tendre → feuilles amères + bleu doux en éclats + pistaches → vinaigrette : moutarde + vinaigre + huile + qq c. du sirop
+```
+Variantes : fruit (coing ~2 h, poire ferme, pomme, prune) ; bleu (gorgonzola doux, roquefort, stilton) ; feuilles (mizuna, pissenlit, cresson, trévise) ; noix. Sirop restant → nappe une glace vanille.
+Clés : pocher à couvert jusqu'à tendreté complète (coing long) ; garder peaux + cœurs dans le sirop (couleur + pectine) ; cuillère de sirop dans la vinaigrette ; fromage en éclats à la main.
+
+**Crostini fruit grillé + fromage** _(format chaud, distinct de l'accord cru et du Pattern 017)_
+
+```text
+pain épais badigeonné de pâte mixée (pignons + ail + huile + sel) → grillé → fruit FERME tranché, sucré-citronné, marqué au gril → chèvre/parmesan en lamelles → four bref 3-4 min (fondre à peine) → poivre + huile + cerfeuil
+```
+Variantes : fruit (poire mi-mûre, figue, pomme, raisin fermes) ; fromage (chèvre affiné, parmesan, gorgonzola) ; pâte du pain (pignons/noix/ail) ; pain (levain épais, ciabatta).
+Clés : fruit FERME (mûr → bouillie au gril) ; marquer juste pour les rayures ; passage four bref (pain + fruit + fromage restent distincts).
+
+**Garniture sautée croustillante « minute » sur grain/riz/nouilles [outil]**
+
+Délta vs 022 (huile infusée) : garniture frite-minute versée brûlante, croquant + parfum.
+```text
+huile arachide chaude + aromates en julienne (gingembre + ail + piment) saisis 3-4 min jusqu'à dorer → herbes en tronçons + noix/arachides + sésame + sel → 1-2 min → verser brûlant sur le grain
+```
+Variantes : gingembre-ail-piment-coriandre-arachides-sésame (thaï) ; gingembre-oignon vert-piment-cacahuète (riz nature) ; cumin + amandes au beurre noisette (MO).
+Clés : tout couper AVANT d'allumer (ça va vite) ; aromates dorés pas brûlés ; verser aussitôt sur grain chaud ; quartier de lime à table.
+
+## Pattern — Pâtes sauce tomate mijotée longue + finition lactée + herbe
 
 ### Intention
-Gros chapeau de champignon comme coupelle : pré-rôti pour ramollir et évacuer l'eau, garni d'une farce umami, couronné d'un fromage qui fond bien, repassé au four.
+Pâtes de placard mais profondes : une sauce tomate qui a vraiment cuit, relevée d'un levier salé-épicé, adoucie en finition par yaourt ou fromage. (Distinct du pattern pâtes-huile-infusée du corps : ici la profondeur vient du temps de réduction.)
 
 ### Pattern réutilisable
 ```text
-gros champignons (portobello) pré-rôtis 15 min → farce sautée refroidie (oignon + céleri + tomates séchées + ail + parmesan + herbes) → garnir + tranches de fromage fondant dessus → four jusqu'à fonte et champignon tendre
+ail/oignon dans l'huile + levier salé-épicé (harissa OU olives+câpres OU piment fumé) + tomates (cerises ou boîte) + pincée de sucre → mijoter jusqu'à épaississement RÉEL → pâtes al dente + eau de cuisson → finition : yaourt OU pecorino/parmesan + herbe déchirée (basilic, persil) + huile
 ```
 
 ### Variantes
-- fromage fondant (clé) : taleggio, fontina, mozzarella, scamorza fumée
-- farce : duxelles ; épinards-ricotta ; chèvre-noix
-- herbes : estragon, basilic, thym
+- alla Norma : aubergines rôties + tomate-origan + ricotta salata
+- tomates cerises mijotées ~1 h + piment ancho (fumé) + basilic + parmesan
+- pappardelle : oignon caramélisé + harissa rose + tomate + olives kalamata + câpres → yaourt
 
 ### Points critiques
-- choisir un fromage jeune/gras qui fond lisse ; les fromages très affinés (gruyère, vieux cheddar) se séparent et deviennent granuleux
-- pré-rôtir le champignon pour évacuer l'eau avant de garnir
-- saler la farce avec mesure si le fromage est salé (taleggio)
-
-### Erreurs fréquentes
-- fromage trop affiné → graine et devient huileux ; champignon non pré-rôti → rend de l'eau dans l'assiette
+- la sauce doit VRAIMENT réduire (10 min à 1 h) : pas une tomate qui flotte
+- réserver l'eau de cuisson pour lier ; pincée de sucre si tomates acides
+- se garde ~5 j / se congèle : doubler vaut le coup
 
 ### Usage Gemini
-- proposer quand : gros champignons, entrée végé chaude, plat sans viande qui rassasie
-- éviter quand : petits champignons (pas de cavité)
+- proposer quand : « pâtes tomate qui changent », « boîte de tomates », « sauce à faire d'avance »
+- éviter quand : sauce express recherchée
 
-**Salade betterave + agrume + élément salé (olive/chèvre)**
+---
 
-## Pattern — Salade betterave + agrume + contraste salé
+## Pattern — Orzo cuit en une casserole façon risotto
 
 ### Intention
-La douceur terreuse de la betterave sert de fond à l'acidité vive de l'agrume et au salé d'une olive ou d'un fromage : trio sucré-acide-salé simple et net.
+Plat unique réconfortant sans cuisson séparée des pâtes : l'orzo cuit DANS la sauce et libère son amidon comme un risotto.
 
 ### Pattern réutilisable
 ```text
-betterave cuite en quartiers + segments d'agrume levés à vif (avec leur jus) + élément salé (olives noires séchées OU chèvre/féta) + oignon rouge fin + herbe → vinaigrette légère (huile + vinaigre/fleur d'oranger) → mélanger délicatement
-```
-
-### Variantes
-- agrumes : orange, sanguine, pamplemousse
-- salé : olives noires ridées (plus salées), féta, chèvre, gorgonzola
-- amer/feuille : trévise, endive, cresson
-- aromate : eau de fleur d'oranger, carvi, aneth
-
-### Points critiques
-- lever les segments d'agrume à vif et récupérer le jus (= acide de la vinaigrette)
-- cuire la betterave entière puis peler (garde couleur et saveur)
-- mélanger en dernier et peu, pour éviter que tout vire au rose
-
-### Erreurs fréquentes
-- agrume avec membranes → amer et filandreux ; trop mélangé → couleur terne
-
-### Usage Gemini
-- proposer quand : betteraves, salade d'hiver colorée, entrée fraîche acidulée
-
-**Tempura/friture légère de légumes de saison + sauce trempette agrume**
-
-## Pattern — Tempura de légumes (pâte légère à l'eau gazeuse) + trempette
-
-### Intention
-Légumes de saison enrobés d'une pâte ultra-légère à l'eau gazeuse, frits croustillants, trempés dans une sauce vive et acide. Le contraste croquant-chaud / sauce-fraîche-acide fait tout.
-
-### Pattern réutilisable
-```text
-légumes en morceaux → roulés dans la fécule sèche (accroche) → trempés dans pâte légère (fécule + farine levante + EAU GAZEUSE très froide + sel + huile) → friture à grésillement franc (pas brûlante) → égoutter, saler → trempette (agrume + herbe + piment + sucre + huile mixés)
-```
-
-### Variantes
-- légumes : topinambour, betterave, brocoli, chou-fleur, patate douce, carotte, poireau, panais
-- pâte : fécule de maïs + farine levante + eau gazeuse (clé du croustillant)
-- trempette : lime-coriandre-cardamome-piment ; soja-gingembre-vinaigre de riz
-
-### Points critiques
-- eau gazeuse très froide + pâte mélangée au dernier moment = légèreté
-- pré-enrober de fécule sèche pour que la pâte accroche
-- huile à température modérée : grésille franchement sans brûler
-- frire en petites quantités, retirer les morceaux brûlés flottants
-
-### Erreurs fréquentes
-- pâte tiède/reposée → lourde ; huile trop chaude → brûlé dehors cru dedans, trop froide → gras ; friteuse surchargée → chute de température
-
-### Usage Gemini
-- proposer quand : tempura, légumes variés à frire, apéro/entrée croustillante, vide-frigo de légumes
-- éviter quand : pas d'huile en quantité ; cf. pattern poisson pané frit (SIMPLE) pour la pâte à bière
-
-**Pattern — Salade de riz tropicale (fruit + croquant)**
-
-## Pattern — Salade de riz tropicale (fruit + croquant)
-
-**Intention** : salade de riz fraîche d'inspiration sud-est asiatique : riz colorés froids, fruit mûr en dés, herbes thaï, vinaigrette agrume-piment, et double croquant (cacahuètes + oignons/échalotes frits).
-
-### Formule
-```text
-riz cuits froids (jasmin parfumé au basilic + riz rouge) + fruit en dés (mangue) + poivron émincé + herbes (basilic thaï, coriandre, menthe) + oignon vert + piment frais + zeste/jus citron + huile arachide → mélanger DÉLICATEMENT → garnir cacahuètes + coco grillée + échalotes frites
-```
-
-### Variantes
-- riz : jasmin/basmati + riz rouge de Camargue (contraste couleur/texture)
-- fruit : mangue (Alphonso idéal), ananas, papaye verte
-- croquant : cacahuètes grillées salées, copeaux de coco, échalotes frites
-- vinaigrette : citron/lime + piment + huile arachide (+ trait de nuoc-mâm)
-
-### Points critiques
-- riz BIEN refroidi et étalé pour qu'il ne colle pas
-- parfumer le riz jasmin à la cuisson (bouquet de basilic thaï dans l'eau, retiré ensuite)
-- mélanger DÉLICATEMENT : le fruit mûr se défait sinon
-- éléments croquants au tout dernier moment
-
-### Usage Gemini
-- proposer : « salade de riz qui change », « mangue mûre à utiliser », « accompagnement exotique frais »
-- éviter : fruit pas assez mûr (plat fade)
-
-**Pattern — Salade de grains tiède + huile d'herbes frites**
-
-## Pattern — Salade de grains tiède + huile d'herbes frites
-
-**Intention** : mélange quinoa + riz tiède où la saveur vient d'une HUILE D'HERBES FRITES (ail doré + sauge/origan frits) versée chaude sur les grains, plus un légume rôti et un acide poudré (citron séché de Perse / sumac).
-
-### Formule
-```text
-quinoa + riz cuits tièdes + légume rôti (patate douce) → huile chaude : ail doré 30 s + sauge/origan frits ~1 min, versée aussitôt sur les grains → menthe + oignon vert + jus citron + féta + acide poudré → tiède ou ambiant
-```
-
-### Variantes
-- grains : quinoa + basmati/sauvage, boulgour, freekeh
-- légume rôti : patate douce, courge, betterave, chou-fleur
-- huile d'herbes : ail + sauge + origan ; ail + romarin ; ail + thym
-- acide poudré : citron séché (lime de Perse) moulu, sumac, zeste séché
-- ajout salé : féta émietté
-
-### Points critiques
-- frire l'ail JUSTE doré (30 s) puis les herbes ~1 min sans brûler, verser tout de suite
-- grains encore tièdes pour absorber l'huile aromatique
-- mélanger DÉLICATEMENT (ne pas écraser légume rôti + féta)
-- citron séché moulu = note acide-parfumée unique (sinon sumac)
-
-### Usage Gemini
-- proposer : « salade de grains nourrissante », « patate douce + féta », « plat unique tiède »
-- éviter : besoin de chaud réconfortant
-
-**Pattern — Salade de pâtes + légume frit mariné + sauce d'herbes**
-
-## Pattern — Salade de pâtes + légume frit mariné + sauce d'herbes
-
-**Intention** : salade de pâtes de pique-nique où le légume est FRIT puis aussitôt arrosé de vinaigre (mariné chaud), lié par une sauce d'herbes mixée crue, avec mozzarella déchirée. Riche mais vive.
-
-### Formule
-```text
-courgettes en tranches frites dorées → arrosées de vinaigre à chaud → pâtes courtes cuites, rincées froides → sauce mixée (basilic + persil + huile) + zeste citron + câpres + mozzarella déchirée + edamame → mélanger délicatement
-```
-
-### Variantes
-- légume frit-mariné : courgette, aubergine, poivron
-- pâtes : strozzapreti, penne, fusilli, orecchiette
-- sauce mixée : basilic-persil-huile ; roquette-amande ; menthe-pistache
-- ajouts : edamame ou petits pois, câpres, mozzarella ou burrata
-
-### Points critiques
-- frire les tranches sans surcharger, retourner UNE fois, égoutter
-- vinaigre versé À CHAUD sur le légume frit (s'imprègne en refroidissant)
-- rincer les pâtes à l'eau froide (stopper la cuisson)
-- mozzarella + reste de basilic ajoutés en TOUT dernier
-
-### Usage Gemini
-- proposer : « salade de pâtes pour pique-nique », « courgettes à valoriser », « plat froid d'été »
-- éviter : on veut chaud / léger en gras (friture)
-
-**Pattern — Polenta de maïs frais + sauce**
-
-## Pattern — Polenta de maïs frais + sauce
-
-**Intention** : une « polenta » douce et soyeuse faite de MAÏS FRAIS mixé (pas de semoule de maïs), enrichie de beurre et féta, servie sous une sauce tomate-aubergine. Texture purée sucrée, réconfortante.
-
-### Formule
-```text
-grains de maïs frais cuits ~12 min → mixés LONGUEMENT (casser les peaux) avec un peu de leur eau → recuits en remuant jusqu'à consistance purée → beurre + féta + sel/poivre, 2 min de plus → lit, avec sauce chaude au centre (aubergine frite + concentré + tomate + origan)
-```
-
-### Variantes
-- enrichissement : beurre + féta ; beurre + parmesan ; crème
-- sauce : aubergine-tomate-origan, champignons, ragoût épicé
-- saison : strictement maïs frais en épi (rien à voir avec la polenta de semoule)
-
-### Points critiques
-- mixer LONGUEMENT pour briser un maximum de peaux (texture lisse)
-- réserver l'eau de cuisson du maïs pour ajuster la consistance
-- beurre + féta en fin
-- plus mou et moins consistant qu'une polenta classique : assumer
-
-### Usage Gemini
-- proposer : « maïs frais en saison », « plat doux et réconfortant », « alternative originale à la purée »
-- éviter : hors saison maïs (surgelé/conserve donne moins bien)
-
-**Pattern — Salade fruit poché + bleu doux + noix**
-
-## Pattern — Salade fruit poché + bleu doux + noix
-
-**Intention** : un fruit ferme poché longuement dans un sirop épicé (eau-sucre-vin, zeste agrume, laurier, poivre) devient fondant et parfumé, posé sur feuilles amères avec un bleu doux et des pistaches. Le sirop de pochage sert aussi de base de vinaigrette.
-
-### Formule
-```text
-fruit ferme poché à couvert au four doux en sirop (eau + sucre + vin + zeste orange + laurier + poivre + jus citron) jusqu'à tendre → feuilles amères + bleu doux en éclats + pistaches → vinaigrette : moutarde + vinaigre + huile + qq c. du sirop de pochage
-```
-
-### Variantes
-- fruit : coing (~2 h), poire ferme, pomme, prune
-- fromage : gorgonzola doux, roquefort, stilton, bleu d'Auvergne
-- feuilles amères : mizuna, pissenlit, cresson, trévise/radicchio
-- noix : pistaches, noix, noisettes
-- bonus : le sirop restant, réchauffé, nappe une glace vanille
-
-### Points critiques
-- pocher À COUVERT à four doux jusqu'à tendreté complète (le coing est dur, prévoir du temps)
-- garder peaux + cœurs dans le sirop (couleur + pectine)
-- la vinaigrette intègre une cuillère du sirop (lien sucré-acide)
-- monter la salade en hauteur, fromage en éclats à la main
-
-### Usage Gemini
-- proposer : « entrée chic d'automne/hiver », « coing ou poire ferme », « accord bleu + fruit »
-- éviter : peu de temps (pochage long), fruit déjà très mûr (se déferait)
-
-**Pattern — Crostini fruit + fromage**
-
-## Pattern — Crostini fruit + fromage
-
-**Intention** : tartine chaude où le pain est badigeonné d'une pâte de noix-ail-huile puis grillé, surmonté de fruit ferme marqué au gril et de fromage qui fond à peine. Accord pain-fromage-fruit italien, en bouchée tiède.
-
-### Formule
-```text
-pain épais badigeonné de pâte mixée (pignons + ail + huile + sel) → grillé au four → fruit FERME tranché, sucré-citronné, marqué au gril (rayures) → chèvre/parmesan en lamelles dessus → court passage four (3-4 min) pour fondre à peine → poivre + huile + cerfeuil
-```
-
-### Variantes
-- fruit : poire mi-mûre, figue, pomme, raisin (fermes, pas blets)
-- fromage : chèvre affiné, parmesan, pecorino, gorgonzola
-- pâte du pain : pignons-ail-huile ; noix ; huile-ail simple
-- pain : levain épais, ciabatta
-
-### Points critiques
-- fruit FERME (un fruit trop mûr devient bouillie au gril)
-- marquer le fruit juste pour les rayures, ne pas le ramollir
-- passage four FINAL bref : fromage fond PARTIELLEMENT, on voit pain + fruit + fromage distincts
-- huile fruitée + poivre frais en finition
-
-### Usage Gemini
-- proposer : « apéro ou entrée chaude rapide », « poire + fromage », « crostini original »
-- éviter : fruit trop mûr, pas de bon pain
-
-**Pattern — Garniture frite croustillante minute (gingembre-piment-noix)**
-
-## Pattern outil — Garniture sautée croustillante « minute » sur grain/riz/nouilles
-
-### Intention
-Transformer un riz ou des nouilles neutres en plat asiatique : une garniture frite-minute versée brûlante par-dessus apporte croquant, piment et parfum.
-
-### Pattern réutilisable
-```text
-huile (arachide) chaude + aromates en julienne (gingembre + ail + piment) saisis 3-4 min jusqu'à dorer → ajouter herbes en tronçons + noix/arachides + graines de sésame + sel → 1-2 min jusqu'à doré → verser brûlant sur le grain
+orzo grillé à sec/huile jusqu'à doré → réserver → aromates (ail + zeste + épices) + tomates + bouillon + eau → remettre l'orzo, couvrir → mijoter ~15 min en remuant 1-2 fois → découvrir 1-2 min (crémeux, pas sec) → protéine rapide (crevettes) + herbe + fromage
 ```
 
 ### Points critiques
-- **tout couper avant** d'allumer le feu : une fois la poêle chaude, ça va trop vite
-- aromates dorés mais pas brûlés (l'ail et le gingembre brûlent vite)
-- verser immédiatement, garniture chaude sur grain chaud
-- finir d'un quartier de lime à presser à table
-
-### Variantes
-- gingembre-ail-piment rouge-coriandre-arachides-sésame (thaï)
-- gingembre-oignon vert-piment-cacahuète (sur riz blanc nature)
-- graines de cumin + amandes dans beurre noisette (registre moyen-oriental)
-
-### Usage Gemini
-- proposer quand : « riz blanc trop fade », « finir des nouilles », « petit festin asiatique express »
-- déclencheurs : riz collant, garniture croustillante, gingembre frit
-
-**Pattern — Pâtes sauce tomate longue + finition yaourt/fromage/herbe**
-
-## Pattern — Pâtes sauce tomate mijotée + finition lactée + herbe
-
-### Intention
-Pâtes de fond de placard mais profondes : une sauce tomate qui a vraiment cuit, relevée d'un levier salé-épicé, adoucie en finition par yaourt ou fromage râpé.
-
-### Pattern réutilisable
-```text
-ail/oignon dans l'huile + levier salé-épicé (harissa OU olives+câpres OU piment fumé) + tomates (cerises ou en boîte) + pincée de sucre → mijoter jusqu'à épaississement réel → pâtes al dente + un peu d'eau de cuisson → finition : yaourt OU pecorino/parmesan + herbe déchirée (basilic, persil) + filet d'huile
-```
-
-### Variantes
-- alla Norma : aubergines rôties + tomate-origan + pecorino (ou ricotta salata)
-- tomates cerises mijotées ~1 h + piment ancho (note fumée) + basilic + parmesan
-- pappardelle : oignon caramélisé + harissa rose + tomates + olives kalamata + câpres → finition yaourt
-- pincée de sucre pour corriger l'acidité des tomates pas assez mûres
-
-### Points critiques
-- la sauce doit **vraiment réduire** (10 min à 1 h selon variante) : pas une tomate qui flotte
-- réserver de l'eau de cuisson avant d'égoutter pour lier
-- la sauce se conserve ~5 j au frigo et se congèle : doubler/tripler vaut le coup
-- aubergines (Norma) : pelées en lanières (rayures), rôties à part, ajoutées en fin
-
-### Usage Gemini
-- proposer quand : « pâtes tomate qui changent », « j'ai une boîte de tomates », « sauce à faire en avance »
-- éviter quand : sauce express recherchée (la profondeur vient du temps)
-
-**Pattern — Pâtes/orzo façon risotto une casserole**
-
-## Pattern — Petites pâtes (orzo) cuites en une casserole façon risotto
-
-### Intention
-Plat unique réconfortant sans cuisson séparée des pâtes : l'orzo cuit DANS la sauce et absorbe le liquide, comme un risotto, en libérant son amidon.
-
-### Pattern réutilisable
-```text
-orzo grillé à sec/huile jusqu'à doré → réserver → aromates (ail + zeste + épices) + tomates + bouillon + eau → remettre l'orzo, couvrir → mijoter ~15 min en remuant 1-2 fois → découvrir 1-2 min jusqu'à consistance risotto → ajouter protéine rapide (crevettes) + herbe → finition fromage
-```
-
-### Points critiques
-- griller l'orzo d'abord = goût de noisette + grains qui restent distincts
-- ajouter la protéine rapide (crevettes) en toute fin, 2-3 min
-- la cible n'est pas sèche : crémeux comme un risotto
-- féta mariné (chili + graines de fenouil grillées + huile) parsemé à la fin pour le contraste
+- griller l'orzo d'abord = goût de noisette + grains distincts
+- protéine rapide en toute fin (2-3 min) ; cible crémeuse, pas sèche
+- féta mariné (chili + fenouil grillé + huile) parsemé en fin pour le contraste
 
 ### Variantes
 - orzo-tomate-bouillon + crevettes + féta mariné + basilic
-- orzo + zeste d'orange + fenouil + tomates
+- orzo + zeste d'orange + fenouil + tomate
 
 ### Usage Gemini
-- proposer quand : « plat unique en une casserole », « orzo », « repas simple sans égoutter de pâtes »
-- déclencheurs : one-pot pasta, orzo crevettes
+- proposer quand : « plat une casserole », « orzo », « pâtes sans égoutter »
 
-**Pattern — Pain plat farci à la viande poêlé (arayes)**
+---
 
 ## Pattern — Pain plat / tortilla farci à la viande hachée, poêlé (arayes)
 
 ### Intention
-Repas rapide et nourrissant pour le lunch ou le goûter : viande hachée crue assaisonnée tartinée dans un pain plat plié, poêlé jusqu'à ce que le pain dore et la viande cuise.
+Repas rapide et nourrissant : viande hachée crue assaisonnée tartinée dans un pain plat plié, poêlé jusqu'à dorure du pain et cuisson de la viande.
 
 ### Pattern réutilisable
 ```text
-viande hachée crue + oignon/tomate râpés + épices + tahini + ail + acide (mélasse de grenade) + herbe → étaler en couche fine (1-1,5 cm) sur la moitié d'un pain plat/tortilla + fromage râpé → replier en demi-lune → poêler 2-3 min par face à feu moyen-doux → badigeonner d'huile-sumac → servir avec yaourt
+viande hachée crue + oignon/tomate râpés + épices + tahini + ail + acide (mélasse de grenade) + herbe → étaler en couche FINE (1-1,5 cm) sur la moitié d'un pain plat/tortilla + fromage râpé → replier en demi-lune → poêler 2-3 min/face feu moyen-doux → badigeonner huile-sumac → servir avec yaourt
 ```
 
 ### Points critiques
-- couche de viande **fine** (1-1,5 cm) sinon le pain brûle avant que la viande cuise
-- feu moyen-doux, pas vif : il faut le temps que le centre cuise
-- le tahini DANS la farce garde la viande moelleuse
+- couche FINE sinon le pain brûle avant cuisson de la viande
+- feu moyen-doux (le centre doit cuire) ; le tahini garde la viande moelleuse
 - garniture préparable la veille
-- servir avec salade de légumes hachés + yaourt au sumac
 
 ### Variantes
-- agneau-piment de la Jamaïque-menthe-cheddar-grenade (classique)
-- bœuf-cumin-persil ; version pita au lieu de tortilla
+- agneau-piment Jamaïque-menthe-cheddar-grenade (classique) ; bœuf-cumin-persil ; pita au lieu de tortilla
 
 ### Usage Gemini
-- proposer quand : « lunch avec du haché », « goûter salé rapide », « pita/tortilla à farcir »
-- déclencheurs : arayes, pain farci viande, tortilla à la viande
+- proposer quand : « lunch avec du haché », « pita/tortilla à farcir », « goûter salé rapide »
 
-**Pattern — Sauté de haché asiatique + légume vapeur à part**
+---
 
-## Pattern — Viande hachée sautée façon asiatique servie sur légume cuit vapeur
+## Pattern — Viande hachée sautée façon asiatique sur légume vapeur
 
 ### Intention
-Repas vite fait du quotidien : un haché sauté très assaisonné (sucré-salé-acide), une garniture croquante, servi sur un légume cuit vapeur à part qui absorbe la sauce.
+Quotidien express : un haché très assaisonné (sucré-salé-acide) servi sur un légume vapeur à part qui absorbe la sauce. (Distinct du wok stir-fry du corps : ici légume cuit séparément, haché qui rend du jus.)
 
 ### Pattern réutilisable
 ```text
-aromates (oignon vert + gingembre + ail + piment) sautés à feu vif → réserver → haché sauté jusqu'à coloration → sauce (mirin + soja + kecap manis + huile de sésame + vinaigre de riz) 2 min → remettre aromates → hors feu : coriandre + arachides → servir sur légume vapeur (aubergine…) + sésame
+aromates (oignon vert + gingembre + ail + piment) sautés feu vif → réserver → haché sauté jusqu'à coloration → sauce (mirin + soja + kecap manis + sésame + vinaigre de riz) 2 min → remettre aromates → hors feu : coriandre + arachides → servir sur légume vapeur (aubergine) + sésame
 ```
 
 ### Points critiques
-- **tout couper avant** d'allumer le feu (sauté = rapide)
-- légume (aubergine) salé puis cuit vapeur à part ~12 min : reste fondant, prêt à recevoir la sauce
-- le plat rend beaucoup de jus volontairement : c'est la sauce
-- équilibre type : mirin (doux) + soja (salé) + vinaigre de riz (acide) + sésame (parfum)
+- tout couper AVANT d'allumer le feu
+- légume (aubergine) salé puis vapeur à part ~12 min : fondant, prêt à boire la sauce
+- le plat rend du jus volontairement : c'est la sauce. Équilibre mirin(doux)+soja(salé)+vinaigre(acide)+sésame(parfum)
 
 ### Usage Gemini
-- proposer quand : « repas express avec du haché », « sauté asiatique », « j'ai des aubergines + du porc »
-- éviter quand : pas de condiments asiatiques de base (soja, mirin, sésame)
+- proposer quand : « express avec du haché », « j'ai aubergines + porc »
+- éviter quand : pas de condiments asiatiques de base
 
-**Pattern — Salade de nouilles froide asiatique + cru croquant + acide**
+---
 
-## Pattern — Salade de nouilles froide (riz/soba) + cru croquant + vinaigrette acide
+## Pattern — Salade de nouilles FROIDE (riz/soba) + cru croquant + acide
 
 ### Intention
-Plat-lunch frais et croquant : des nouilles refroidies, des crus en julienne, une note acide vive, des herbes en quantité. Assemblage minute pour garder le croquant.
+Lunch frais et croquant : nouilles refroidies, crus en julienne, acide vif, herbes en quantité. Assemblage minute. (Distinct du bol de nouilles chaud du corps.)
 
 ### Pattern réutilisable
 ```text
-nouilles (riz plates ou soba) cuites + rincées à l'eau FROIDE + huilées → oignon/gingembre macérés dans vinaigre+sucre → crus en julienne (concombre, pomme verte, piment) → herbes (menthe, estragon, coriandre, basilic) + graines + acide (lime/vinaigre) + sel → mélanger et servir AUSSITÔT
+nouilles (riz/soba) cuites + rincées à l'eau FROIDE + huilées → oignon/gingembre macérés vinaigre+sucre → crus en julienne (concombre, pomme verte, piment) → herbes (menthe, estragon, coriandre, basilic) + graines + acide (lime) + sel → servir AUSSITÔT
 ```
 
 ### Points critiques
-- rincer les nouilles à l'eau froide stoppe la cuisson + retire l'amidon collant
-- macérer oignon+gingembre dans vinaigre-sucre 30 min : adoucit et parfume
-- **servir aussitôt assemblé** : le concombre rend de l'eau et détrempe si on attend
-- composants préparables à l'avance séparément, assemblage au dernier moment
-- protéine en option ajoutée minute : crevettes, tofu, œuf mollet
+- rince eau froide = stoppe cuisson + retire l'amidon collant
+- macérer oignon+gingembre 30 min dans vinaigre-sucre
+- servir aussitôt assemblé (le concombre détrempe) ; protéine minute (crevettes, tofu, œuf mollet)
 
 ### Variantes
-- nouilles de riz + concombre + pomme verte + menthe-estragon + graines de pavot
-- soba + avocat + lime + cardamome broyée + pistaches + basilic-coriandre
+- nouilles de riz + concombre + pomme verte + menthe-estragon + pavot
+- soba + avocat + lime + cardamome + pistaches + basilic-coriandre
 
 ### Usage Gemini
-- proposer quand : « salade de nouilles fraîche », « lunch d'été », « j'ai un concombre et des herbes »
-- éviter quand : besoin de chaud réconfortant
+- proposer quand : « salade de nouilles fraîche », « lunch d'été », « concombre + herbes »
 
-**Pattern — Épaule d'agneau confite basse température (marinade-incisions)**
+---
 
-## Pattern — Grosse pièce (épaule d'agneau) confite lentement au four
+## Pattern — Épaule d'agneau confite lentement au four (marinade-incisions)
 
 ### Intention
-Pièce de fête qui se défait à la fourchette : marinade-pâte massée dans des incisions, cuisson très longue à basse température, légumes-racines confits dans le jus.
+Pièce de fête qui se défait à la fourchette : pâte d'épices massée dans des incisions, cuisson très longue basse température, racines confites dans le jus. (Distinct du mijoté cocotte et du BBQ pulled : grosse pièce entière au four sec.)
 
 ### Pattern réutilisable
 ```text
-pâte d'épices (ail + zeste/jus citron + épices + herbes + huile + sel) au robot → piquer la viande ~30 fois + frotter en faisant pénétrer → mariner 1 nuit → four couvert (alu) 170°C 1 h, baisser à 160°C + ajouter racines, 4 h en arrosant, puis découvrir 1 h 30 → viande qui s'effiloche + légumes caramélisés
+pâte d'épices (ail + zeste/jus citron + épices + herbes + huile + sel) au robot → piquer la viande ~30 fois + frotter en faisant pénétrer → mariner 1 nuit → four couvert (alu) 170°C 1 h, baisser 160°C + ajouter racines, 4 h en arrosant, puis découvrir 1 h 30 → viande effilochée + légumes caramélisés
 ```
 
 ### Points critiques
-- **piquer la chair** partout (~30 fois) pour que la marinade pénètre en profondeur
-- mariner idéalement une nuit (min 4-5 h)
-- couvert d'alu d'abord (vapeur, tendreté), découvert en fin (coloration)
-- préparable la veille : cuire, réfrigérer, effilocher et réchauffer dans le jus
-- accompagner d'un féculent qui boit le jus (haricots écrasés, riz, semoule)
+- piquer la chair partout (~30×) pour pénétration profonde ; mariner une nuit (min 4-5 h)
+- alu d'abord (tendreté), découvert en fin (coloration)
+- préparable la veille : cuire, réfrigérer, effilocher, réchauffer dans le jus ; servir avec féculent qui boit le jus
 
 ### Usage Gemini
-- proposer quand : « grande tablée », « pièce d'agneau pour fête », « plat qui cuit tout seul des heures »
-- éviter quand : peu de temps (prévoir ~6 h 30 de four)
+- proposer quand : « grande tablée », « pièce d'agneau de fête », « plat qui cuit tout seul »
+- éviter quand : pressé (~6 h 30 de four)
 
-**Pattern — Poisson poché/braisé dans une sauce épicée + double sauce**
+---
 
-## Pattern — Poisson braisé dans une sauce maison + (option) seconde sauce contrastante
+## Pattern — Poisson braisé dans une sauce maison + (option) 2e sauce contrastante
 
 ### Intention
-Le poisson cuit doucement DANS une sauce déjà montée (tomate-épices ou pois chiches-harissa), au lieu d'être saisi à part. Cuisson courte, chair nacrée, une seule casserole. On peut napper d'une 2e sauce froide pour le contraste.
+Le poisson cuit doucement DANS une sauce déjà montée (tomate-épices ou pois chiches-harissa), cuisson courte, chair nacrée, une casserole. Possibilité de napper d'une 2e sauce froide.
 
 ### Pattern réutilisable
 ```text
-base aromatique mijotée (oignon/ail + épices grillées + tomate OU pois chiches-harissa-citron confit + bouillon) jusqu'à épaississement → coucher le poisson dans la sauce → couvrir → cuisson douce 8-12 min jusqu'à ce que la chair se défasse en flocons → finir coriandre + (option) filet de sauce tahini-citron froide
+base mijotée (oignon/ail + épices grillées + tomate OU pois chiches-harissa-citron confit + bouillon) jusqu'à épaississement → coucher le poisson → couvrir → 8-12 min jusqu'à chair en flocons → coriandre + (option) filet tahini-citron froid
 ```
 
 ### Variantes
 - bases : tomate-piment-carvi-ancho (chraimeh) ; pois chiches-harissa-cardamome-citron confit ; poivron-orange
-- poissons : flétan, morue, aiglefin, plie, tout poisson blanc ferme
-- 2e sauce option : tahini-citron-eau, yaourt-citron, sauce verte
-- finition : coriandre dominante, zeste, piment doux
+- poissons : flétan, morue, aiglefin, plie — tout poisson blanc ferme
+- 2e sauce : tahini-citron, yaourt-citron, sauce verte
 
 ### Points critiques
-- monter et épaissir la sauce AVANT d'ajouter le poisson (sinon sauce claire et poisson trop cuit)
-- si le poisson a rendu de l'eau et que la sauce est claire : retirer le poisson, faire réduire la sauce, puis napper
-- ne pas remuer brutalement : retourner délicatement à mi-cuisson
-- saler le poisson ~15 min avant
+- épaissir la sauce AVANT le poisson (sinon sauce claire / poisson surcuit)
+- si sauce claire : retirer poisson, réduire, napper ; retourner délicatement à mi-cuisson ; saler le poisson ~15 min avant
 
 ### Usage Gemini
-- proposer quand : "poisson blanc rapide une casserole", "poisson sans le faire sécher", "morue/cabillaud + pois chiches ou tomate"
-- éviter quand : poisson très fragile qui se défait (préférer pavé ferme)
-- adaptation rapide : pois chiches + tomate en boîte + harissa = sauce en 8 min, poisson 4 min
+- proposer quand : « poisson blanc une casserole », « morue/cabillaud + pois chiches ou tomate »
+- éviter quand : poisson très fragile (préférer pavé ferme)
 
-**Pattern — Poisson entier/pavé rôti style asiatique + huile fumante versée**
+---
 
 ## Pattern — Poisson rôti style asiatique + huile fumante versée à la fin
 
 ### Intention
-Pièce maîtresse d'un repas asiatique : poisson cuit sur un lit de légumes avec sauce soja-gingembre, puis fini par de l'huile chaude versée dessus qui rend peau et légumes croustillants et libère les arômes des aromates crus.
+Pièce maîtresse asiatique : poisson cuit sur lit de légumes avec sauce soja-gingembre, fini par de l'huile fumante versée qui croustille la peau et « cuit » les aromates crus.
 
 ### Pattern réutilisable
 ```text
-sauce soja-sésame-vin de riz-sucre (réduite 1 min) → poisson incisé et salé sur lit de chou/oignons verts + gingembre julienne → verser la sauce → couvrir alu → four chaud 220 °C, badigeonner 2x (~40 min) → parsemer aromates crus (oignon vert, piment, coriandre) → verser dessus une huile fumante (arachide) → servir
+sauce soja-sésame-vin de riz-sucre (réduite 1 min) → poisson incisé+salé sur lit de chou/oignons verts + gingembre julienne → verser la sauce → couvrir alu → four 220 °C, badigeonner 2× (~40 min) → aromates crus (oignon vert, piment, coriandre) → verser une huile fumante (arachide) → servir
 ```
 
 ### Variantes
-- poissons : bar entier, dorade, ou pavés de poisson blanc/saumon
-- lit : chou, oignons verts, bok choy
-- aromates crus finaux : gingembre, piment rouge, oignon vert, coriandre
-- huile : arachide ou neutre, chauffée jusqu'à fumée légère
-- vin de riz shaoxing → xérès
+- bar entier, dorade, ou pavés blanc/saumon ; lit chou/bok choy ; vin de riz shaoxing → xérès
 
 ### Points critiques
-- inciser le poisson (5 entailles/face) pour cuisson homogène et pénétration du sel
-- l'huile doit VRAIMENT fumer avant de la verser : c'est elle qui "cuit" les aromates crus et croustille la peau
-- récupérer la sauce du plat pour arroser au service
-- prépa possible jusqu'au début de l'étape four quelques heures avant
+- inciser (5 entailles/face) pour cuisson homogène + pénétration du sel
+- l'huile doit VRAIMENT fumer avant versement (croustille la peau, cuit les aromates)
+- récupérer la sauce du plat pour arroser
 
 ### Usage Gemini
-- proposer quand : "poisson entier au four", "repas asiatique festif", "sauce soja-gingembre"
-- éviter quand : pas de four, peur de manipuler un poisson entier (utiliser des pavés)
+- proposer quand : « poisson entier au four », « repas asiatique festif », « sauce soja-gingembre »
+- éviter quand : pas de four (sinon pavés)
 
-**Pattern — Dessert assemblé en coupes : crème + compote + crumble (tout d'avance)**
+---
 
-## Pattern — Dessert en coupes : crème onctueuse + fruit cuit + croquant (tout fait à l'avance)
+## Pattern — Dessert en coupes : crème + fruit cuit + croquant (tout d'avance)
 
-> Parent : Pattern 023 (fruits + base laitière + herbe). Ce pattern en est la déclinaison "verrine assemblée à composants conservables", avec un croquant cuit en chapelure.
-
-### Intention
-Le dessert sans stress de réception : trois composants préparés à l'avance, assemblés minute dans des coupes. Aucune cuisson de dernière minute.
+> Déclinaison du pattern dessert fruits+laitier du corps. DELTA propre : composants conservables assemblés minute, croquant cuit en « chapelure ».
 
 ### Pattern réutilisable
 ```text
-base crémeuse (fromage frais ± féta + sucre + zeste + crème fouettée incorporée, OU yaourt grec égoutté + crème) → compote de fruit mijotée (fruit + sucre + épice/zeste : anis étoilé, vanille, sumac) → garniture croquante (noix + amandes moulues + sucre + sésame + beurre, dorée au four en "chapelure") → assembler en couches dans des coupes au moment de servir
+base crémeuse (fromage frais ± féta + sucre + zeste + crème fouettée, OU yaourt grec égoutté + crème) + compote (fruit + sucre + épice/zeste) + croquant (noix + amandes moulues + sucre + sésame + beurre, doré au four en chapelure) → assembler en couches MINUTE
 ```
 
-### Variantes
-- crème : féta-fromage à la crème (sucré-salé), yaourt égoutté-crème, mascarpone
-- compotes : cerises-anis étoilé-orange, fraises-sumac, rhubarbe-fraise, prunes
-- croquant : noisettes-amandes-sésame doré, granola, sablés émiettés
-
-### Conservation (clé du pattern)
-- crème : jusqu'à 3 jours au frigo ; compote : 5 jours ; croquant : 1 semaine en boîte hermétique à T° ambiante
-- ne JAMAIS assembler à l'avance (le croquant ramollit) : montage minute
+### Conservation (clé)
+- crème 3 j / compote 5 j / croquant 1 semaine en boîte hermétique
+- ne JAMAIS assembler d'avance (le croquant ramollit)
 
 ### Points critiques
-- une pincée de sel ou du féta dans la crème pour casser le sucré
-- compote mijotée court (10-15 min) : fruit fondant mais pas en bouillie
-- croquant travaillé du bout des doigts en texture chapelure avant cuisson
+- pincée de sel ou féta dans la crème pour casser le sucré ; compote 10-15 min (fondant, pas bouillie)
 
 ### Usage Gemini
-- proposer quand : "dessert à préparer la veille", "recevoir sans stress", "verrines de fruits"
-- éviter quand : dessert chaud à la sortie du four recherché
+- proposer quand : « verrines de fruits », « dessert la veille »
 
-**Pattern — Cheesecake sans cuisson au yaourt égoutté + chocolat blanc**
+---
 
 ## Pattern — Cheesecake sans four : base biscuits + crème yaourt-fromage-chocolat blanc
 
 ### Intention
-Le cheesecake le plus facile à réussir : pas de bain-marie, pas de four, pas de crevasses. Il prend au frigo. Le chocolat blanc fondu remplace une partie du sucre et fait tenir la garniture.
+Le cheesecake le plus facile : pas de four, pas de crevasses, il prend au frigo. Le chocolat blanc fondu fait tenir la garniture.
 
 ### Pattern réutilisable
 ```text
-yaourt grec égoutté (étamine, presser le petit-lait) → base biscuits émiettés + beurre fondu (+ herbe option : thym) pressée au fond, au frigo → fouetter fromage à la crème + yaourt égoutté + sucre glace + zeste citron → incorporer chocolat blanc fondu → étaler sur la base → frigo 2 h min → napper d'un sirop chaud au service (miel-thym)
+yaourt grec égoutté (étamine) → base biscuits émiettés + beurre fondu (± thym) pressée, frigo → fouetter fromage à la crème + yaourt égoutté + sucre glace + zeste citron → incorporer chocolat blanc fondu → étaler → frigo 2 h min → napper sirop chaud (miel-thym) au service
 ```
 
 ### Variantes
-- biscuits : flocons d'avoine (Hobnobs), digestifs, spéculoos
-- chocolat : blanc classique ; nappage : miel-thym tiédi, coulis de fruit
-- aromate : zeste citron, vanille, thym dans la base
+- biscuits : Hobnobs, digestifs, spéculoos ; nappage miel-thym ou coulis ; aromate zeste/vanille/thym
 
 ### Points critiques
-- bien égoutter le yaourt (étamine, poids dessus) : sinon garniture liquide
-- AUCUNE goutte d'eau dans le chocolat blanc fondu (il fige/graine) ; bol loin de l'eau frémissante
-- napper le sirop chaud SEULEMENT au service (la base de biscuits ramollit au fil des jours)
-- se prépare jusqu'à 2 jours à l'avance
+- bien égoutter le yaourt (sinon liquide) ; AUCUNE goutte d'eau dans le chocolat blanc (il graine)
+- napper le sirop SEULEMENT au service (la base ramollit) ; se prépare 2 j à l'avance
 
 ### Usage Gemini
-- proposer quand : "cheesecake facile sans four", "dessert à préparer la veille", "pas envie d'allumer le four"
+- proposer quand : « cheesecake facile sans four », « dessert la veille »
 - éviter quand : envie d'un vrai cheesecake cuit dense
 
+---
+
+### condiments / sauces outils
+
 **Dip aubergine fumée + tahini + mélasse de grenade**
+Dip aigre-doux moyen-oriental à partir de chair d'aubergine brûlée.
+Formule : chair d'aubergine fumée égouttée + tahini + eau + mélasse de grenade + jus citron + ail pressé + persil + sel → fouetter. Cible : franchement acide / légèrement sucré.
+Usages : DIP lisse (crudités, agneau, poisson) ; SALADE d'été (+ concombre + tomates cerises + grenade + huile). Végan, 5 min une fois l'aubergine brûlée.
 
-Dip/condiment moyen-oriental aigre-doux à partir de chair d'aubergine brûlée.
+**Beurre composé aromatique (sauce minute sur plat chaud)**
+Formule : beurre mou battu + zeste + jus agrume + ail fin + 1 herbe + piment + sel → boudin dans film → frigo ferme → trancher → poser sur le plat brûlant pour qu'il fonde.
+Exemples : lime-coriandre-piment sur galettes d'épinard, patate douce, poisson grillé, maïs. Se prépare d'avance.
 
+**Sauce tonnato : émulsion umami thon-anchois-câpres-citron**
+Formule : au robot, jaunes d'œufs + jus citron + persil + thon (huile) + câpres + anchois + ail → purée → huile en filet continu jusqu'à mayonnaise souple.
+Sert sur : pdt au four + œuf mollet, légumes vapeur, viande froide (vitello), œufs durs.
+Points : huile TRÈS lentement (émulsion) ; triple levier salé (goûter avant de saler) ; se garde la veille.
+
+---
+
+### légumes verts / accompagnements
+
+**Légume-feuille sauté feu vif + ail/piment croustillant + acide**
+Intention : vert robuste (brocoli, kale, chou pointu, choy sum, minibrocoli) vif et croquant, jamais bouilli mou.
 Formule :
-chair d'aubergine fumée égouttée + tahini + eau + mélasse de grenade + jus citron + ail pressé + persil + sel/poivre → fouetter
+```text
+(blanchir 30-90 s si dense + éponger) → huile chaude infusée ail/piment/cumin → RETIRER l'aromate croustillant → sauter le vert feu vif jusqu'à bords croustillants → sel + acide (lime/citron) HORS feu → re-parsemer l'aromate + herbe
+```
+Points : bien éponger (sinon vapeur) ; retirer l'ail avant qu'il brûle, le remettre en finition ; acide hors feu.
+Proposer quand : « brocoli/kale à passer », « vert rapide qui change ». Éviter : verts fragiles (épinard, à la dernière seconde).
 
-Cible de goût : franchement acide / légèrement sucré (ajuster ail, citron, mélasse jusqu'à équilibre robuste).
-
-Deux usages :
-- DIP/condiment : version lisse, avec crudités, agneau ou poisson
-- SALADE d'été : ajouter dés de concombre + tomates cerises + grains de grenade + filet d'huile
-
-Végan, prêt en 5 min une fois l'aubergine brûlée.
-
-**Beurre composé aromatique posé sur galettes/légumes chauds**
-
-Beurre parfumé (maître d'hôtel revisité) qui fond sur un plat chaud comme sauce minute.
-
+**Vinaigrette aigre-douce asiatique sur légume à peine cuit**
+Intention : enrober un vert juste blanchi/rôti d'une sauce vive sucrée-salée-acide + arachides.
 Formule :
-beurre mou battu crémeux + zeste + jus d'agrume + ail finement haché + 1 herbe + piment + sel → rouler en boudin dans film → frigo jusqu'à ferme → trancher → poser une rondelle sur le plat brûlant pour qu'elle fonde.
-
-Exemples : beurre lime-coriandre-piment sur galettes d'épinard ; idem sur patate douce au four, poisson grillé, maïs.
-
-Avantage : se prépare à l'avance, se garde au frigo, transforme un reste chaud en plat fini.
-
-**Légume-feuille sauté feu vif ail-piment croustillant + acide**
-
-## Pattern — Légume-feuille sauté feu vif + ail/piment croustillant + acide
-
-**Intention** : transformer un vert robuste (brocoli, kale, chou pointu, choy sum, minibrocoli) en accompagnement vif et croquant — feu vif, matière grasse aromatisée, jamais l'ébullition molle.
-
-### Pattern réutilisable
 ```text
-(blanchir 30-90 sec si vert dense + bien éponger) → huile chaude infusée ail/piment/cumin → retirer l'aromate croustillant et réserver → sauter le vert feu vif jusqu'à bords croustillants → sel + acide (lime/citron) hors feu → re-parsemer de l'aromate croustillant + herbe fraîche
+huile chaude infusée (ail + gingembre + zeste + arachides) → réserver
+légume à peine cuit → arroser de l'huile aromatique
+réduction sucrée-salée (soja + miel, OU lime + piment + sirop + sésame) → napper MINUTE
 ```
+Variantes : minibrocolis, choy sum, haricots verts, gombos (rôtis 7 min, fermes).
+Points : mélanger juste avant service (la sauce tombe au fond) ; légume ferme et vert ; gombos entiers (sinon visqueux).
 
-### Variantes
-- verts : brocoli, kale, chou pointu, chou palmier, choy sum, minibrocolis
-- huile infusée : ail+cumin, ail+piment, ail+gingembre+zeste orange
-- finition : menthe+lime+piment broyé, coriandre+arachides, estragon
-
-### Points critiques
-- bien éponger après blanchiment, sinon ça vapore au lieu de saisir
-- retirer l'ail/aromate AVANT qu'il brûle, le remettre seulement en finition (croustillant, pas amer)
-- acide toujours hors feu
-
-### Usage Gemini
-- proposer quand : "un brocoli/kale à passer", "accompagnement vert rapide qui change", "vide-frigo de légumes verts"
-- éviter quand : verts très fragiles (épinard) — les ajouter à la dernière seconde
-
-**Vinaigrette aigre-douce asiatique : huile aromatique + sucre + agrume + arachides**
-
-## Pattern — Vinaigrette aigre-douce asiatique sur légume à peine cuit
-
-**Intention** : enrober un vert juste blanchi/rôti d'une sauce vive sucrée-salée-acide, avec arachides grillées pour le croquant. Registre asiatique léger d'Ottolenghi.
-
-### Pattern réutilisable
+**Croustillant au four par enrobage polenta/semoule (frites sans friture)**
+Formule :
 ```text
-huile chaude infusée (ail + gingembre + zeste agrume + arachides jusqu'à doré) → réserver l'huile parfumée + les aromates
-légume à peine cuit (vapeur/blanchi/rôti court) → arroser de l'huile aromatique
-réduction sucrée-salée à part (soja + miel, OU lime + piment + sirop + sésame) → napper minute
+légume en bâtonnets (pdt pré-bouillies+séchées, OU patate douce crue) + huile généreuse + épices + poignée de polenta/semoule → enrober → étaler espacé → four chaud, retourner 1-2× jusqu'à croustillant → sel/sumac à la sortie
 ```
+Variantes : pdt + gras d'oie + semoule + carvi + harissa ; patate douce + paprika fumé + Cayenne + ail + polenta + sumac.
+Points : pré-bouillir et BIEN sécher (vapeur = mou), secouer pour bords floconneux ; plaque pas surchargée ; assaisonner à la sortie.
 
-### Variantes
-- légumes : minibrocolis, choy sum, haricots verts, gombos (rôtis 7 min, encore fermes)
-- base sucre : miel, sirop d'érable
-- base salée/acide : soja + sésame, OU jus de lime + huile de sésame + piment
-- croquant : arachides salées, sésame
+---
 
-### Points critiques
-- la vinaigrette tombe au fond du bol : mélanger juste avant de servir
-- légume gardé ferme et vert vif, jamais surcuit
-- gombos : ne pas exposer les graines (sinon visqueux), les garder entiers et à peine cuits
+### purées & mezze
 
-### Usage Gemini
-- proposer quand : "accompagnement asiatique pour volaille ou bol de riz", "haricots/brocolis autrement"
-- éviter quand : sans sucre, sans soja/sésame
-
-**Kale/chou frisé cru massé et mariné (salade tendre)**
-
-## Pattern — Légume-feuille cru massé pour l'attendrir + salade
-
-**Intention** : rendre un kale cru tendre et savoureux sans cuisson, par massage manuel dans une marinade acide-grasse.
-
-### Pattern réutilisable
+**Purée de légume relevée par huile aromatique OU salsa fraîche**
+Intention : sortir une purée du fade — eau de cuisson aromatisée + finition à l'huile parfumée, ou couronne de salsa crue.
+Formule :
 ```text
-feuilles déchirées (sans tiges) + huile + acide (vinaigre/citron) + moutarde + sirop/miel + sel → masser à la main 1 min jusqu'à ramollissement et changement de couleur → mariner 30 min min (jusqu'à 4 h) → ajouter au dernier moment éléments croquants/frais (asperges sautées, édamames, graines, herbes)
+légume cuit (eau aromatisée thym/menthe/ail/zeste OU four) → écraser à l'huile (+ eau de cuisson) → creux en surface → huile aromatisée (ail+herbes+zeste+jus) OU salsa crue (herbes+ail+zeste+jus+huile)
 ```
+Variantes : pdt (eau thym/menthe/ail/zeste) ; patate douce + salsa lime (basilic+coriandre+ail+lime). Pelures rôties 8 min = collation.
+Points : réserver l'eau de cuisson ; purée à l'huile plus légère que beurre (pour plat principal riche) ; former des creux.
 
-### Variantes
-- marinade : moutarde à l'ancienne + vinaigre vin blanc + sirop d'érable ; OU citron + ail + huile
-- ajouts : asperges sautées, édamames, graines tournesol/courge caramélisées, herbes (estragon, aneth)
-
-### Points critiques
-- masser PHYSIQUEMENT avec les doigts, pas remuer — c'est ça qui casse les fibres
-- masser à l'avance, assembler le reste à la dernière minute (sinon les ajouts ramollissent)
-
-### Usage Gemini
-- proposer quand : "salade de kale", "feuilles robustes à manger crues", "salade qui tient des heures"
-- éviter quand : feuilles tendres (laitue, roquette) sans besoin de massage
-
-**Salade légume deux textures : rôti + cru râpé**
-
-## Pattern — Légume rôti ET cru râpé dans la même salade (double texture)
-
-**Intention** : contraste de textures à partir d'un seul légume — une part rôtie/caramélisée fondante, une part crue râpée croquante et fraîche. Révélation d'Ottolenghi sur le chou-fleur.
-
-### Pattern réutilisable
+**Purée de légumineuse lisse + couronne contrastante [mezze]**
+Formule :
 ```text
-2/3 du légume en bouquets + oignon → rôti four chaud jusqu'à doré
-1/3 du légume râpé cru, réservé
-assembler tiède : rôti + cru râpé + herbes multiples + grenade/noix + cumin + citron + huile
+base lisse (légumineuse/avocat/gourganes mixés + huile + ail confit + citron + sel) étalée, creux central
++ topping : muhammara (poivrons rôtis+noix), OU oignons verts+zeste sautés, OU aromates croustillants + leur huile
 ```
+Variantes : haricots blancs (huile+ail+thym) + muhammara ; avocat + gourganes (plus léger qu'un guacamole) ; toute légumineuse boîte mixée.
+Points : base très lisse (eau/huile au besoin) ; ail caramélisé puis jeté parfume sans agressivité ; se garde 2-3 j (doubler).
 
-### Variantes
-- base : chou-fleur (signature), brocoli, betterave, carotte, courgette
-- garniture : grenade + pistaches + persil/menthe/estragon + cumin
-- ne pas jeter les feuilles du chou-fleur : rôties croustillantes ou râpées crues
+---
 
-### Points critiques
-- râper grossièrement la part crue (pas en purée)
-- assembler tiède, jamais brûlant (les herbes flétriraient)
-- préparable à l'avance : rôtir jusqu'à 4-6 h avant, assembler au service
+### légumes — formats plats
 
-### Usage Gemini
-- proposer quand : "salade de chou-fleur qui sort de l'ordinaire", "un seul légume mais texture intéressante"
-- éviter quand : légume qui ne se mange pas cru agréablement
-
-**Légume rôti ENTIER longuement, badigeonné (pièce maîtresse)**
-
-## Pattern — Légume entier rôti longuement, badigeonné [pièce maîtresse]
-
-**Intention** : un légume rôti entier comme pièce centrale partagée — pré-cuisson à l'eau ou piqûres, puis four long avec badigeonnages répétés jusqu'à cœur fondant et extérieur doré-croustillant.
-
-### Pattern réutilisable
+**Légume rôti ET cru râpé dans la même salade (double texture)**
+Intention : un seul légume, une part rôtie fondante + une part crue râpée croquante.
+Formule :
 ```text
-légume entier (pré-bouilli 6 min OU piqué) → four moyen → badigeonner beurre+huile (ou huile+épice) à intervalles réguliers → 1h30 à 3h jusqu'à très tendre à cœur et bruni dehors → repos → trancher en quartiers → sel en flocons + citron OU sauce verte au tahini
+2/3 du légume en bouquets + oignon → rôti four chaud doré
+1/3 du légume râpé cru
+assembler TIÈDE : rôti + cru râpé + herbes multiples + grenade/noix + cumin + citron + huile
 ```
+Variantes : chou-fleur (signature), brocoli, betterave, carotte, courgette ; ne pas jeter les feuilles (rôties ou crues).
+Points : râper grossièrement ; assembler tiède (sinon herbes flétries) ; rôtir 4-6 h d'avance possible.
 
-### Variantes
-- chou-fleur entier : pré-bouilli 6 min, four 1h30-2h, beurre+huile, feuilles laissées (croustillantes)
-- céleri-rave entier : piqué, frotté huile+coriandre+sel, four long
-- accompagnement : sauce verte au tahini (tahini+persil+ail+citron+eau au robot), OU crème fraîche, OU juste citron
-
-### Points critiques
-- les badigeonnages réguliers évitent le dessèchement et construisent la croûte
-- patience : c'est la durée qui rend le cœur fondant
-- le pré-bouillage du chou-fleur raccourcit le four et assure la cuisson à cœur
-
-### Usage Gemini
-- proposer quand : "plat végé central à partager", "recevoir avec un légume spectaculaire", "chou-fleur entier"
-- éviter quand : pressé (c'est long), pas de four
-
-**Purée de légume + huile aromatique ou salsa en finition**
-
-## Pattern — Purée de légume relevée par huile aromatique OU salsa fraîche
-
-**Intention** : sortir une purée du fade — soit en infusant l'eau de cuisson d'aromates et en finissant à l'huile parfumée, soit en couronnant d'une salsa crue vive. La purée devient un plat.
-
-### Pattern réutilisable
+**Légume entier rôti longuement, badigeonné [pièce maîtresse végé]**
+Intention : un légume entier comme centre partagé — pré-cuisson, puis four long avec badigeonnages jusqu'à cœur fondant / extérieur doré.
+Formule :
 ```text
-légume cuit (eau aromatisée thym/menthe/ail/zeste OU four) → écraser avec huile d'olive (+ un peu d'eau de cuisson) → creux à la surface → soit huile aromatisée (ail+herbes+zeste+jus) soit salsa crue (herbes+ail+zeste+jus+huile)
+légume entier (pré-bouilli 6 min OU piqué) → four moyen → badigeonner beurre+huile (ou huile+épice) à intervalles → 1h30-3h jusqu'à très tendre à cœur et bruni → repos → quartiers → sel en flocons + citron OU sauce verte tahini
 ```
+Variantes : chou-fleur (pré-bouilli 6 min, feuilles laissées croustillantes) ; céleri-rave (piqué, huile+coriandre) ; sauce verte tahini (tahini+persil+ail+citron+eau).
+Points : badigeonnages réguliers (croûte, anti-dessèchement) ; patience ; pré-bouillage assure le cœur.
 
-### Variantes
-- pomme de terre : eau infusée thym/menthe/ail/zeste citron + huile aromatisée même base
-- patate douce : salsa lime (basilic+coriandre+ail+zeste+jus de lime+huile)
-- garder les pelures, les rôtir 8 min en collation croustillante
-
-### Points critiques
-- réserver l'eau de cuisson pour ajuster la texture
-- purée à l'huile d'olive plus légère que beurre/crème — adaptée quand le plat principal est riche
-- former des creux pour que l'huile/salsa s'y dépose visiblement
-
-### Usage Gemini
-- proposer quand : "purée qui change", "accompagnement végétal pour plat riche", "patate douce autrement qu'en frites"
-- éviter quand : besoin de la purée crème classique réconfortante
-
-**Purée/trempette de légumineuse + topping contrastant (mezze)**
-
-## Pattern — Purée de légumineuse lisse + couronne contrastante [mezze]
-
-**Intention** : une base crémeuse de légumineuse/légume, lissée à l'huile, surmontée d'un topping coloré qui apporte texture et punch. Format mezze à préparer à l'avance.
-
-### Pattern réutilisable
+**Légumes farcis braisés (farce riz ou mie + herbes)**
+Intention : légume creusé/en feuilles garni d'une farce, braisé dans un liquide aigre-doux. Plat végé tiède ou froid.
+Formule :
 ```text
-base lisse (légumineuse/avocat/gourganes mixés + huile + ail confit + citron + sel) étalée, creux au centre
-+ topping contrastant : trempette poivrons rôtis-noix (muhammara), OU oignons verts+zeste sautés, OU aromates croustillants + leur huile
+légume préparé (couches d'oignon / feuilles blanchies / boats de courgette) + farce (riz court OU mie + fromage + herbes + pignons + ail + épices douces) → rouler/garnir → braiser à couvert (vin/bouillon + sucre + citron + huile) jusqu'à absorption
 ```
+Variantes : oignons, courgettes, feuilles chou/blette/vigne, poivrons, tomates ; farces riz-raisins-pignons-cannelle (turc), mie-féta-persil, riz-ricotta-menthe ; finition parmesan gratiné ou yaourt froid.
+Points : blanchir les enveloppes (rouler sans casser) ; riz cuit aux 3/4 ; liquide à mi-hauteur, couvrir.
 
-### Variantes
-- haricots blancs (huile+ail+thym) + muhammara (poivrons rôtis+ail+noix+paprika fumé+balsamique)
-- avocat + gourganes blanchies (plus léger qu'un guacamole) + oignons verts+zeste citron
-- toute légumineuse en boîte mixée + huile + acide
-
-### Points critiques
-- mixer la base très lisse, ajouter eau/huile au besoin
-- l'ail caramélisé dans l'huile puis jeté parfume la base sans agressivité
-- se garde 2-3 jours au frigo : doubler les quantités
-
-### Usage Gemini
-- proposer quand : "apéro/mezze à préparer à l'avance", "trempette qui change du houmous", "boîte de haricots à valoriser"
-- éviter quand : besoin d'un plat chaud consistant
-
-**Sauce tonnato (mayonnaise thon-câpres-anchois au robot) [outil]**
-
-## Pattern — Sauce tonnato : émulsion umami thon-anchois-câpres-citron [outil]
-
-**Intention** : sauce-condiment crémeuse à fort umami qui transforme un aliment neutre (pomme de terre, œuf, légume, viande froide). Une mayonnaise montée au robot avec thon, anchois et câpres.
-
-### Pattern réutilisable
+**Beignets de légumes liés par une pâte battue (fritters)**
+> Distinct des croquettes panées du corps : ici la PÂTE est le liant, pas l'œuf-chapelure.
+Formule :
 ```text
-au robot : jaunes d'œufs + jus citron + persil + thon (huile) + câpres + anchois + ail → mixer en purée → ajouter l'huile en filet continu jusqu'à consistance mayonnaise souple
+légume fondu et REFROIDI (poireau/oignon suées longuement) + épices + herbes → pâte (farine + levure + œuf + lait + beurre fondu) → blanc d'œuf monté plié en dernier → cuillerées poêlées 2 faces → sauce yaourt-herbes à côté
 ```
+Variantes : poireau, oignon, courgette râpée pressée, épinards, maïs ; sauce verte yaourt+crème sure+ail+citron+persil+coriandre.
+Points : suer et REFROIDIR le légume (chaud = cuit le blanc, retombe) ; monter/plier le blanc ; presser les légumes aqueux ; huile chaude pas brûlante.
 
-### Variantes
-- plus de thon = sauce plus consistante
-- sert sur : pomme de terre au four + œuf mollet, légumes vapeur, viande froide (vitello), œufs durs
-- garnir : reste de câpres + persil + filet d'huile
+---
 
-### Points critiques
-- huile ajoutée TRÈS lentement en filet pour que l'émulsion prenne (comme une mayo)
-- triple levier salé/umami (thon + anchois + câpres) : goûter avant d'ajouter du sel
-- se prépare la veille, se garde au frigo
+### protéines végé asiatiques
 
-### Usage Gemini
-- proposer quand : "sauce qui sublime des pommes de terre/œufs", "thon en boîte à valoriser", "viande froide à accompagner"
-- éviter quand : aversion poisson/anchois
-
-**Frites/légumes au four enrobés de polenta ou semoule (croustillant sans friture)**
-
-## Pattern — Croustillant au four par enrobage polenta/semoule
-
-**Intention** : obtenir des frites/légumes vraiment croustillants au four (sans friteuse) en enrobant d'une fine couche de polenta ou semoule qui croûte à la chaleur.
-
-### Pattern réutilisable
+**Sauté « beurre + chili + soja » (tofu, choux de Bruxelles)**
+> Distinct du wok rapide du corps : beaucoup d'aromatics fondus, BEURRE au lieu d'huile.
+Formule :
 ```text
-légume en bâtonnets (pdt pré-bouillies puis séchées, OU patate douce crue) + huile généreuse + épices + une poignée de polenta/semoule → bien enrober → étaler espacé sur plaque → four chaud, retourner 1-2 fois jusqu'à doré et croustillant → sel en flocons + sumac/herbe à la sortie
+tofu/légume fariné (fécule) frit doré → réserver → beurre fondu + masse échalotes/ail/gingembre/piment suée 15 min (fondance brillante) → sojas (clair+foncé+sucré) + sucre + poivre concassé → remettre base + oignon vert → enrober hors gros feu
 ```
+Variantes : tofu ferme, choux de Bruxelles tranchés, shiitake ; registre poivre noir (black pepper tofu) ; registre sucré (chili doux+soja+sésame+érable). Service : riz, coriandre, sésame.
+Points : fécule + huile chaude = croûte qui tient la sauce ; fondre les aromatics LONGUEMENT (15 min) ; sojas/sucre/poivre en fin hors gros feu.
 
-### Variantes
-- pomme de terre : pré-bouillie 10 min, séchée et secouée (bords floconneux), gras d'oie/huile + semoule + carvi + harissa
-- patate douce : crue + paprika fumé + Cayenne + ail + polenta + huile + sumac
-- finition signature : sumac, origan+féta, sel en flocons immédiat
+---
 
-### Points critiques
-- pré-bouillir et BIEN sécher les pommes de terre (vapeur résiduelle = mou) ; les secouer pour des bords floconneux qui croustillent
-- étaler espacé, plaque pas surchargée (sinon vapeur)
-- saler/épicer la finition immédiatement à la sortie
+### salades crues massées
 
-### Usage Gemini
-- proposer quand : "frites maison au four croustillantes", "frites de patate douce", "accompagnement croquant sans friteuse"
-- éviter quand : pas de four, plaque trop petite
-
-**Beignets de légumes liés à la pâte (fritters) + sauce yaourt-herbes**
-
-## Pattern — Beignets de légumes (fritters) liés par une pâte battue
-
-### Intention
-Légume fondant noyé dans une pâte légère levée, poêlé en galettes dorées. La pâte EST le liant (distinct des croquettes panées du pattern croquettes/galettes).
-
-### Pattern réutilisable
+**Légume-feuille / légume ferme cru MASSÉ à l'acide pour l'attendrir (slaw)**
+> Fusion : kale massé + slaw chou/chou-rave (même geste de massage manuel).
+Intention : rendre un cru ferme (kale, chou, chou-rave) tendre sans cuisson, par massage à la main dans une marinade acide ; équilibré par fruit sec et beaucoup d'herbe. Tient des heures, gagne en saveur.
+Formule :
 ```text
-légume fondu et refroidi (poireau/oignon longuement sués) + épices + herbes → pâte (farine + levure + œuf + lait + beurre fondu) → blanc d'œuf monté plié en dernier → cuillerées poêlées des 2 côtés → sauce yaourt-herbes à côté
+feuilles déchirées (sans tiges) OU légume ferme tranché fin + huile + acide (citron/vinaigre) + moutarde + sirop/miel + sel → MASSER à la main 1 min jusqu'à ramollissement et changement de couleur → mariner 30 min (jusqu'à 4 h) → AU DERNIER MOMENT : croquant/frais (asperges sautées, édamames, fruit sec, graines, herbes)
 ```
-
-### Variantes
-- légumes : poireau, oignon, courgette râpée pressée, épinards, maïs
-- épices : cumin, coriandre moulue, curcuma, piment
-- sauce verte : yaourt + crème sure + ail + citron + persil + coriandre mixés
-
-### Points critiques
-- faire suer et REFROIDIR le légume avant de l'ajouter à la pâte (chaud → cuit le blanc, retombe)
-- monter et plier le blanc d'œuf séparément pour la légèreté
-- huile chaude pas brûlante ; 2-3 min par face
-- presser les légumes aqueux (courgette) sinon pâte trop liquide
-
-### Erreurs fréquentes
-- légumes chauds dans la pâte → retombe ; pâte trop liquide → s'étale ; huile tiède → gras
-
-### Usage Gemini
-- proposer quand : j'ai des poireaux/courgettes, apéro/brunch végé, galettes croustillantes
-- note : une giclée de citron suffit si pas le temps de la sauce ; cf. pattern croquettes/galettes pour la version panée à l'œuf-chapelure
-
-**Légumes farcis braisés (oignons, courgettes, chou) — farce riz/mie-herbes**
-
-## Pattern — Légumes farcis braisés (farce riz ou mie + herbes)
-
-### Intention
-Légume creusé ou en feuilles, garni d'une farce parfumée, braisé doucement dans un liquide aigre-doux jusqu'à fondance. Plat principal végé, souvent servi tiède ou froid.
+Variantes : marinade moutarde ancienne + vinaigre vin blanc + érable, OU citron+ail+huile ; ajouts asperges, édamames, graines caramélisées, estragon/aneth.
+Points : masser PHYSIQUEMENT avec les doigts (casse les fibres), pas remuer ; masser d'avance, assembler les ajouts à la dernière minute.
+Proposer quand : « salade de kale/chou », « crus fermes à manger crus », « salade qui tient des heures ». Éviter : feuilles tendres (laitue, roquette).
 
 ### Pattern réutilisable
 ```text
-légume préparé (couches d'oignon ou feuilles blanchies / boats de courgette) + farce (riz court OU mie + fromage + herbes + pignons + ail + épices douces) → rouler/garnir → braiser à couvert dans liquide (vin/bouillon + sucre + citron + huile) jusqu'à absorption
-```
-
-### Variantes
-- légumes : oignons (couches), courgettes, feuilles de chou/blettes/vigne, poivrons, tomates
-- farces : riz court + raisins + pignons + cannelle (style turc) ; mie + féta + persil + tomate râpée ; riz + ricotta + menthe
-- liquide : vin blanc + bouillon + sucre + citron ; bouillon + tomate
-- finition : parmesan gratiné, ou yaourt froid au service
-
-### Points critiques
-- blanchir les enveloppes (feuilles, couches d'oignon) pour rouler sans casser
-- riz cuit aux 3/4 si la farce mijote ensuite
-- liquide à mi-hauteur, pas jusqu'à la farce ; couvrir et laisser absorber
-
-### Erreurs fréquentes
-- enveloppe non blanchie → casse ; trop de liquide → farce détrempée ; riz cru + temps court → grains durs
-
-### Usage Gemini
-- proposer quand : plat végé qui en jette, cuisine turque/moyen-orientale, oignons/chou/courgettes à valoriser, plat tiède à l'avance
-- éviter quand : repas express
-
-**Sauté beurre + chili + soja (tofu / légume robuste)**
-
-## Pattern — Sauté "beurre + chili + soja" (tofu, choux de Bruxelles)
-
-### Intention
-Protéine ou légume robuste saisi puis enrobé d'une sauce où le BEURRE (signature Ottolenghi) lie une base aromatique longuement fondue (échalote-ail-gingembre-piment) et des sojas sucrés-salés. Distinct du wok classique : beaucoup d'aromatics fondus, beurre au lieu d'huile.
-
-### Pattern réutilisable
-```text
-tofu/légume fariné (fécule) frit doré ou saisi fort → réserver → beurre fondu + masse échalotes/ail/gingembre/piment suée 15 min jusqu'à fondance brillante → sojas (clair + foncé + sucré) + sucre + poivre noir concassé → remettre la base + oignon vert → enrober hors gros feu
-```
-
-### Variantes
-- bases : tofu ferme, choux de Bruxelles tranchés, shiitake
-- registre poivre noir : beaucoup de poivre concassé (black pepper tofu)
-- registre sucré : chili doux + soja + sésame + érable
-- service : riz vapeur, coriandre, sésame
-
-### Points critiques
-- fécule sur le tofu + huile chaude = croûte fine qui tient la sauce
-- fondre les aromatics LONGUEMENT (15 min) : c'est la base de saveur
-- sojas/sucre puis poivre en fin, hors gros feu
-
-### Erreurs fréquentes
-- aromatics pas assez fondus → sauce crue agressive ; tofu non fariné → pas de croûte ; sucre brûlé → amer
-
-### Usage Gemini
-- proposer quand : tofu, choux de Bruxelles autrement, plat asiatique végé qui impressionne
-- éviter quand : aversion soja/piment ; cf. pattern wok stir-fry pour le sauté rapide classique (huile, feu max)
-
-**Salade crue massée à l'acide (chou, chou-rave) + fruit sec + herbe**
-
-## Pattern — Salade crue massée à l'acide (slaw moyen-oriental)
-
-### Intention
-Légumes crus fermes tranchés fins puis MASSÉS à la main avec citron/sel pour les attendrir, équilibrés par un fruit et beaucoup d'herbe. Tient plusieurs heures, gagne en saveur.
-
-### Pattern réutilisable
-```text
-légumes crus fermes tranchés très fin + sel + agrume généreux + ail + huile + fruit sec → masser 1 min à la main → reposer 10-15 min → ajouter herbe abondante + croquant → rectifier (BEAUCOUP de sel pour contrer l'acide)
+légumes crus fermes tranchés très fin + sel + agrume généreux + ail + huile + fruit sec → masser 1 min → reposer 10-15 min → herbe abondante + croquant → rectifier (BEAUCOUP de sel pour contrer l'acide)
 ```
 
 ### Variantes
 - légumes : chou blanc/rouge, chou-rave, carotte, fenouil, betterave crue
-- fruits : cerises séchées, raisins secs, grenade, mangue, papaye verte
+- fruits : cerises/raisins secs, grenade, mangue, papaye verte
 - registre asiatique : lime + citronnelle + érable + sésame + piment
-- herbes : aneth, menthe, coriandre, persil
-- croquant : macadamias caramélisées, arachides, graines
+- herbes : aneth, menthe, coriandre, persil ; croquant : macadamias caramélisées, arachides, graines
 
 ### Points critiques
-- trancher très fin (mandoline) sinon reste dur
-- MASSER physiquement, pas juste remuer
-- saler généreusement : l'acide demande du sel pour s'équilibrer
-- soulever la salade hors de son jus pour servir
-
-### Erreurs fréquentes
-- tranches épaisses → cru et agressif ; sous-salage → goût acide plat ; servi noyé → mou
+- trancher très fin (mandoline) ; MASSER physiquement ; saler généreusement (l'acide demande du sel) ; servir hors du jus
+- erreurs : tranches épaisses → dur ; sous-salage → plat ; noyé → mou
 
 ### Usage Gemini
-- proposer quand : salade d'hiver, chou/chou-rave à utiliser, slaw qui change, accompagnement frais d'un plat riche
+- proposer quand : salade d'hiver, chou/chou-rave à utiliser, slaw, accompagnement frais d'un plat riche
 
-**Légume en quartiers croûté gratin (parmesan-chapelure-herbes-zeste)**
+---
 
 ## Pattern — Légume rôti en croûte parmesan-chapelure-herbes
 
-### Intention
-Quartiers de courge/légume badigeonnés d'huile puis recouverts d'une croûte sèche (parmesan + chapelure + herbes + zeste + ail) qui gratine et croustille au four. Effet "farce croustillante" sur un légume entier.
+**Intention** : quartiers de légume huilés puis recouverts d'une croûte sèche (parmesan + chapelure + herbes + zeste + ail) qui gratine. Effet "farce croustillante" sur un légume entier.
 
 ### Pattern réutilisable
 ```text
-légume en tranches/quartiers à plat + badigeon d'huile → croûte (parmesan + chapelure sèche + herbes + zeste citron + ail + poivre, sel léger car parmesan salé) tassée dessus → four moyen jusqu'à légume tendre + croûte dorée (alu si elle fonce trop vite) → crème sure-aneth à côté
+légume en tranches/quartiers à plat + badigeon d'huile → croûte (parmesan + chapelure SÈCHE + herbes + zeste citron + ail + poivre, peu de sel car parmesan salé) tassée dessus → four moyen jusqu'à légume tendre + croûte dorée (alu si elle fonce trop vite) → crème sure-aneth à côté
 ```
 
 ### Variantes
 - légumes : courge/potiron, courgette, tomate, fenouil, chou-fleur
-- croûte : parmesan + panko ; ajout noix concassées, zaatar
-- herbes : persil + thym ; origan ; romarin
-- sauce froide : crème sure-aneth, yaourt-citron
+- croûte : + noix concassées, zaatar ; herbes : persil-thym, origan, romarin ; sauce froide : crème sure-aneth, yaourt-citron
 
 ### Points critiques
-- chapelure SÈCHE pour le croustillant
-- saler la croûte avec parcimonie (le parmesan apporte le sel)
-- tasser la croûte pour qu'elle adhère ; couvrir d'alu si elle brunit avant cuisson du légume
-- vérifier la cuisson du légume à la pointe du couteau
-
-### Erreurs fréquentes
-- croûte trop salée (parmesan oublié dans le calcul) ; croûte brûlée avant cuisson → alu ; chapelure humide → pas croustillante
+- chapelure SÈCHE ; saler la croûte avec parcimonie (parmesan) ; tasser pour qu'elle adhère ; alu si elle brunit trop vite ; vérifier la cuisson du légume à la pointe
+- éviter quand : sans four
 
 ### Usage Gemini
 - proposer quand : courge/potiron, légume rôti plus consistant, plat végé de fête, reste de parmesan + chapelure
-- éviter quand : sans four
 
-**Curry de légumes épicé type vindaloo (épices grillées-moulues + acide)**
+---
 
-## Pattern — Curry de légumes épicé (vindaloo/dry curry)
-
-### Intention
-Légumes mijotés dans une base d'épices entières grillées puis moulues, montée avec aromatics (échalote, gingembre, piment, feuilles de cari) et un acide marqué (vinaigre de cidre). Meilleur le lendemain, yaourt frais en condiment.
-
-### Pattern réutilisable
-```text
-épices entières grillées à sec puis moulues (cardamome + cumin + coriandre + clou) + curcuma/paprika/cannelle → échalotes + graines moutarde/fenugrec suées → mix d'épices + cari + gingembre + piment 3 min → tomate + vinaigre + eau + sucre + sel → mijoter couvert → légumes par ordre de fermeté → réduire à découvert
-```
-
-### Variantes
-- légumes : pomme de terre + patate douce + poivron ; chou-fleur ; aubergine
-- registre coco : remplacer une partie de l'eau par lait de coco
-- acide : vinaigre de cidre (vindaloo), jus de lime
-- service : riz nature, yaourt épais, menthe/coriandre
-
-### Points critiques
-- griller les épices entières à SEC jusqu'à ce qu'elles sautent, puis moudre (arôme max)
-- revenir le mix d'épices dans l'huile AVANT tout liquide
-- ajouter les légumes par fermeté décroissante
-- le plat gagne à reposer : préparer la veille
-
-### Erreurs fréquentes
-- épices ajoutées avec le liquide → arômes en surface ; tous les légumes ensemble → cuisson inégale ; manque d'acide/sel → terne
-
-### Usage Gemini
-- proposer quand : curry de légumes, plat épicé à préparer la veille, pommes de terre + patate douce
-- éviter quand : aversion épices, repas express ; cf. pattern curry maison (SIMPLE) pour la version coco/tomate générique
-
-**Ratatouille fondante : cuire chaque légume à part puis confire ensemble**
-
-## Pattern — Ratatouille/poêlée "bien fondue" (cuisson en étapes)
-
-### Intention
-À rebours du "légume croquant" : cuire les légumes par groupes selon leur fermeté, les réunir, puis les confire ensemble (mijoté + four) jusqu'à fondance complète. Chaque légume garde son identité tout en se mariant.
-
-### Pattern réutilisable
-```text
-colorer les légumes par lots selon fermeté (durs d'abord : oignon, courge, panais ; tendres ensuite : aubergine, courgette, haricots) dans la même huile → tout réunir + tomate + concentré + sucre + sel + un peu d'eau → mijoter couvert → finir au four à découvert jusqu'à fondance et évaporation
-```
-
-### Variantes
-- légumes : aubergine, courgette, poivrons, courge, panais, haricots verts, pomme de terre
-- registre : tomate + sucre (méditerranéen) ; cumin-coriandre + coriandre fraîche en finition
-
-### Points critiques
-- TOUT le découpage fait avant de commencer (ça enchaîne vite)
-- cuire par lots selon la fermeté, pas tout ensemble
-- le but est la surcuisson maîtrisée : légumes fondants, pas al dente
-- le passage au four à découvert concentre et lie
-
-### Erreurs fréquentes
-- tout cuit ensemble → certains crus, d'autres en purée ; pas assez cuit → manque la fondance ; trop de liquide non évaporé → soupe
-
-### Usage Gemini
-- proposer quand : ratatouille, légumes d'été en abondance, plat qui se bonifie, accompagnement fondant
-- éviter quand : on cherche des légumes croquants
-
-**Pattern — Grain monté à la pâte d'herbes (green couscous)**
-
-## Pattern — Grain monté à la pâte d'herbes
-
-**Intention** : un grain devient vert et parfumé non par des herbes ciselées en surface mais par une PÂTE d'herbes mixée à l'huile, incorporée au grain encore tiède. Saveur d'herbe diffuse dans toute la bouchée.
-
-### Formule
-```text
-grain gonflé (couscous/boulgour) + pâte d'herbes mixée (3-4 herbes + huile d'olive) incorporée à la fourchette + oignon fondu au cumin + croquant (pistaches/amandes) + oignon vert + piment frais + roquette hachée → température ambiante
-```
-
-### Variantes
-- pâte : persil + coriandre (dominante) + estragon + aneth + menthe
-- grains : couscous, boulgour, semoule, quinoa, freekeh
-- croquant : pistaches, amandes, pignons grillés
-- ajouts : roquette, oignon vert, piment frais, féta émietté (version plus consistante)
-
-### Points critiques
-- mixer la pâte BIEN lisse à l'huile avant incorporation
-- gonfler le couscous sous film 10 min à l'eau/bouillon bouillant, puis aérer à la fourchette
-- oignon-cumin mélangé tiède, pas brûlant
-- servir à température ambiante (herbes restent vives)
-
-### Usage Gemini
-- proposer : « accompagnement vert et frais », « j'ai plein d'herbes », « side pour poisson ou légumes pochés »
-- éviter : herbes fanées ou en faible quantité (le pattern repose dessus)
-
-**Pattern — Beurre composé épicé en sauce de pâtes**
-
-## Pattern — Beurre composé épicé en sauce de pâtes
-
-**Intention** : remplacer une sauce par un BEURRE fondu chargé d'échalotes confites et d'épices chaudes (gingembre, paprika, coriandre, cannelle, cayenne, curcuma). Sauce instantanée, parfumée, sans réduction.
-
-### Formule
-```text
-beurre + huile → échalotes fondues ~10 min jusqu'à beurre légèrement noisette → toutes les épices moulues + sel HORS feu, garder au chaud → verser sur pâtes chaudes → pignons grillés + menthe + persil
-```
-
-### Variantes
-- épices (registre marocain) : gingembre + paprika doux + coriandre + cannelle + cayenne + piment + curcuma
-- autres : beurre-cumin-citron, beurre-sauge-noisette, beurre-harissa
-- support : tagliatelles, fettuccine, gnocchis, semoule, légumes vapeur, poisson poché
-- finition : pignons + menthe + persil ; ou amandes + coriandre
-
-### Points critiques
-- laisser le beurre virer LÉGÈREMENT noisette avec les échalotes
-- épices ajoutées HORS feu (ne pas brûler), puis maintenir au chaud
-- express : pâtes sèches + ce beurre + pincée de safran dans l'eau de cuisson
-
-### Usage Gemini
-- proposer : « pâtes sans sauce classique », « beurre + épices », « accompagnement parfumé pour légumes/poisson »
-- éviter : sans beurre / faible en gras
-
-**Pattern — Polenta crémeuse en lit + garniture chaude**
-
-## Pattern — Polenta crémeuse en lit + garniture chaude
-
-**Intention** : la polenta molle sert de base apaisante (comme une purée) sous une garniture intense. Deux gestes : polenta enrichie beurre+fromage, et une poêlée/sauce chaude versée au centre.
-
-### Formule
-```text
-bouillon bouillant + polenta en pluie → cuire en remuant jusqu'à porridge épais (se détache des parois mais reste coulant) → HORS feu : parmesan/féta + beurre + herbe → étaler en lit → garniture chaude au centre (champignons à l'ail, sauce aubergine-tomate)
-```
-
-### Variantes
-- enrichissement : parmesan + beurre (+ Taleggio gratiné au gril), ou féta
-- garnitures : champignons saisis + ail + estragon + huile de truffe ; sauce aubergine-tomate-origan ; ragoût de légumineuse
-- option gratin : étaler, couvrir de fromage, passer au gril, puis garnir
-- restes : étaler la polenta froide, découper, poêler le lendemain (croûtons de polenta)
-
-### Points critiques
-- fromage/beurre incorporés HORS feu
-- garniture chaude et juteuse (ses jus = la sauce)
-- ajouter du bouillon si la polenta sèche
-- servir IMMÉDIATEMENT (fige en refroidissant)
-
-### Usage Gemini
-- proposer : « alternative à la purée », « champignons à valoriser », « végé réconfortant sans gluten »
-- éviter : plat froid ou qui attend
-
-**Pattern — Couscous d'hiver (racines rôties aux épices entières)**
-
-## Pattern — Couscous d'hiver (racines rôties aux épices entières)
-
-**Intention** : couscous chaud et copieux où les légumes-racines sont rôtis avec des épices ENTIÈRES (cannelle, badiane, laurier) pour un fond profond, relevé en finition par harissa + citron confit.
-
-### Formule
-```text
-racines + courge + grelots + épices entières (bâtons cannelle, badiane, laurier) + épices moulues + huile → four en deux temps → ajouter abricots secs + pois chiches AVEC leur jus → couscous safrané gonflé au beurre → FINITION : harissa + citron confit haché mélangés aux légumes + coriandre généreuse
-```
-
-### Variantes
-- racines : carotte, panais, navet, échalotes/grelots, butternut
-- épices entières : cannelle, badiane, laurier (+ moulues : gingembre, curcuma, paprika fort, piment)
-- fruits secs : abricots, dattes, raisins
-- finition signature : harissa + citron confit + coriandre
-
-### Points critiques
-- rôtir en deux temps (dures d'abord 15 min, courge ensuite ~35 min)
-- garder le jus des pois chiches (humidifie le plat)
-- harissa + citron confit incorporés EN FIN, pas en cuisson
-- couscous gonflé à part au bouillon safrané + beurre, aéré à la fourchette
-
-### Usage Gemini
-- proposer : « plat végé d'hiver généreux », « grand plat unique pour recevoir », « légumes-racines à écouler »
-- éviter : repas express (cuisson four ~1h)
-
-**Pattern — Assiette fromage frais + fruit + noix (architecture)**
-
-## Pattern — Assiette fromage frais + fruit + noix (architecture)
-
-**Intention** : entrée/plateau sans cuisson où un fromage frais lacté rencontre un fruit mûr, des herbes, des noix grillées et une vinaigrette à la mélasse de grenade. La CONSTRUCTION (éléments empilés, tous visibles) est le geste.
-
-### Formule
-```text
-fromage frais lacté + fruit mûr + lit de roquette + herbes (basilic, aneth) + noix grillées + huile d'olive + mélasse de grenade + sel/poivre → construire en hauteur, chaque élément visible
-```
-
-### Variantes
-- fromage : chèvre crémeux, ricotta/mozzarella de bufflonne, brebis turc en saumure, féta, gorgonzola doux
-- fruit : figues fraîches, dattes Medjool, raisins, poire, pastèque
-- liant acide-sucré : mélasse de grenade (signature) ou grains de grenade
-- noix : amandes, pistaches, noix, noisettes
-
-### Points critiques
-- fromage à TEMPÉRATURE AMBIANTE (texture, parfum)
-- construire en hauteur, chaque élément visible (ne pas mélanger)
-- noix grillées le jour même
-- vinaigrette mélasse-huile montée à part, arrosée en finition
-- pastèque-féta : assembler MINUTE, servir aussitôt (rend de l'eau)
-
-### Usage Gemini
-- proposer : « entrée sans cuisson qui en jette », « fromage de qualité + fruit de saison », « plateau apéro chic »
-- éviter : fromage froid frigo, fruit pas mûr
-
-**Pattern — Riz au four scellé (méthode infaillible)**
-
-## Pattern — Riz cuit au four sous papier scellé (méthode infaillible)
-
-### Intention
-Réussir le riz à tous les coups, sans surveillance. Pour ceux qui ratent le riz à la casserole, et pour cuire de grandes quantités.
-
-### Pattern réutilisable
-```text
-riz basmati + sel + beurre fondu (ou huile) + eau BOUILLANTE dans un plat à haut bord → couvrir HERMÉTIQUEMENT de papier alu bien scellé → four chaud (220-250°C) 25 min → repos 10 min à couvert → aérer à la fourchette
-```
-
-### Ratios repères
-- basmati : ~2 volumes d'eau pour 1 volume de riz (env. 1:2 en poids : 400 g riz / 800 ml eau, ou 300 g / 600 ml)
-- sel : ~3/4 c. à thé ; beurre : ~50 g
-- aromates posés DESSUS avant cuisson : tiges de menthe, bâtons de cannelle, thym (retirés après)
-
-### Points critiques
-- eau **déjà bouillante** versée sur le riz, jamais froide
-- sceller le papier alu PARFAITEMENT : toute fuite de vapeur = riz raté
-- ne pas ouvrir avant la fin du repos de 10 min
-- aérer à la fourchette, jamais touiller en bloc
-
-### Variante riz + légumes confits dessous
-Rôtir d'abord tomates cerises + ail + échalotes + herbes + huile ~1 h à 180°C, puis parsemer le riz cru directement dessus (sans mélanger), ajouter eau bouillante, sceller et cuire 25 min. Le riz boit les sucs.
-
-### Usage Gemini
-- proposer quand : « je rate toujours le riz », « riz pour beaucoup de monde », « accompagnement sans surveillance »
-- déclencheurs : riz au four, basmati infaillible, riz pour invités
-
-**Pattern — Poulet mariné mijoté au four (Marbella / miso-gingembre)**
-
-## Pattern — Cuisses de poulet marinées puis rôties dans leur marinade aigre-douce
-
-### Intention
-Plat de réception zéro-stress : tout marine à l'avance (jusqu'à 2 jours), on étale sur une plaque et le four fait le reste. La marinade devient sauce.
-
-### Pattern réutilisable
-```text
-cuisses de poulet (peau, entaillées jusqu'à l'os) + marinade aigre-douce-salée-aromatique → mariner 1-2 jours au frigo → étaler sur plaque + liquide (vin/bouillon) → four ~180-200°C 50-70 min, badigeonner 2-3 fois → servir avec tous les sucs
-```
-
-### Familles de marinade
-- Marbella : ail-origan-vinaigre de vin + olives vertes + câpres + dattes + laurier + vin blanc + mélasse de dattes (salé-sucré-acide)
-- miso-gingembre-lime : miso blanc + mirin + sirop d'érable + soja + gingembre + ail + zeste/jus lime (registre japonais)
-- citron confit-thym-ail (en beurre sous la peau)
-
-### Points critiques
-- entailler peau/chair jusqu'à l'os = la marinade pénètre + cuisson homogène
-- saisir la peau à la poêle d'abord (option) pour le croustillant, puis finir au four
-- mariner long = meilleur ; si pressé, saler la peau à part puis enrober
-- sortir du frigo 30 min avant cuisson
-- équilibre obligatoire : un sucré (datte/sirop/mélasse) + un acide (vinaigre/lime) + un salé (olive/câpre/miso/soja)
-
-### Usage Gemini
-- proposer quand : « recevoir sans stress », « poulet à préparer la veille », « plat qui marine tout seul »
-- déclencheurs : poulet Marbella, poulet miso, cuisses au four marinées
-
-**Tarte/quiche salée aux légumes — appareil œuf-crème + fromage sur pâte cuite à blanc**
-
-## Pattern — Tarte salée aux légumes (appareil œuf-crème + fromage)
-
-### Intention
-Légumes pré-cuits enfermés dans une pâte croustillante et un appareil œuf-crème. Plat complet réconfortant, se mange tiède ou à température ambiante, voyage bien.
-
-### Pattern réutilisable
-```text
-pâte (brisée/feuilletée) cuite à blanc dorée + légumes pré-cuits (rôtis ou fondus) + fromage en morceaux + appareil (œufs + crème + crème fraîche + sel) versé pour combler les vides → four moyen jusqu'à prise et dorure
-```
-
-### Variantes
-- garnitures : poivrons-aubergine-courgette rôtis ; poireau fondu ; ail confit caramélisé ; épinards-féta
-- fromages : 2 chèvres (frais + affiné), gorgonzola, féta-ricotta, gruyère
-- appareil : œufs + crème liquide + crème fraîche ; ~2 œufs pour 200 ml de crème
-- aromates : thym, romarin, estragon, ciboulette
-
-### Points critiques
-- cuire la pâte à blanc (lestée) puis dorée AVANT garniture, sinon fond détrempé
-- pré-cuire les légumes pour évacuer l'eau
-- garder fromage/garniture apparents au-dessus de l'appareil pour gratiner
-- four 160-180°C : l'appareil prend sans gonfler ni trancher
-
-### Erreurs fréquentes
-- pâte non cuite à blanc → fond mou ; légumes humides → tarte qui rend de l'eau ; four trop chaud → appareil soufflé puis granuleux
-
-### Usage Gemini
-- proposer quand : reste de légumes rôtis, tarte salée, plat tiède pique-nique/lunch, recevoir sans stress
-- éviter quand : pas de four, repas express
-
-**Légumes grillés au gril/plancha + huile d'herbes vive**
-
-## Pattern — Légumes char-grillés + huile d'herbes
-
-### Intention
-Griller les légumes sur poêle striée/plancha très chaude leur donne un goût presque carné (fumée + parties brûlées). Une huile d'herbes crue versée sur les légumes encore chauds les imprègne.
-
-### Pattern réutilisable
-```text
-légumes tranchés huilés + salés → poêle striée/gril TRÈS chaud, marques nettes des 2 côtés sans cuire à cœur → huile d'herbes mixée crue (herbes + huile + ail + citron + sel) versée sur les légumes chauds → tiédir et infuser
-```
-
-### Variantes
-- légumes : courgette, aubergine, chou-rave, fenouil, asperge, poivron, carotte
-- fromage grillé à part : halloumi, manouri, anari
-- huiles : persil-ail-citron ; basilic-persil-ail ; coriandre-lime
-- finitions : pignons, copeaux de parmesan, sumac
-
-### Points critiques
-- gril/poêle vraiment brûlant (5 min de chauffe) pour les marques sans bouillir
-- l'aubergine boit l'huile et peut finir au four pour cuire à cœur
-- huiler les légumes pas la poêle ; ne pas surcharger
-- verser l'huile d'herbes sur les légumes CHAUDS
-
-### Erreurs fréquentes
-- gril tiède → légumes qui suent, pas de marques ; huile versée à froid → moins d'absorption ; tranches trop épaisses → brûlées dehors crues dedans
-
-### Usage Gemini
-- proposer quand : barbecue/plancha, légumes d'été, accompagnement qui a du caractère, halloumi grillé
-- éviter quand : pas de gril/poêle striée
-
-**Pattern — Pâtes crémeuses finies au croquant de chapelure**
-
-## Pattern — Pâtes crémeuses finies au croquant de chapelure
-
-**Intention** : casser la monotonie d'une sauce crème par une chapelure (panko) grillée à sec, mêlée zeste-ail-persil, parsemée GÉNÉREUSEMENT au dernier moment. Contraste mou/croustillant.
-
-### Formule
-```text
-champignons saisis + vin réduit + thym/laurier + crème → sauce nappante + eau de cuisson pour détendre + légume vert blanchi (brocolini) + pâtes al dente → FINITION panko grillé mêlé zeste citron-ail-persil, à l'assiette
-```
-
-### Variantes
-- crunch : panko (idéal), chapelure rustique, pignons, noisettes concassées
-- gremolata : zeste citron + ail + persil (ou estragon, basilic)
-- base crémeuse : champignons-crème, courgette-crème, poireau-crème, ail-crème-parmesan
-- vert : brocolini, brocoli, petits pois, asperges
-
-### Points critiques
-- panko grillé À SEC à la poêle jusqu'à doré, puis mêlé au zeste-ail-persil HORS feu
-- garder de l'eau de cuisson : la sauce crème sèche vite, la viser plutôt liquide
-- saler généreusement la sauce crème
-- chapelure ajoutée à l'assiette, jamais dans la casserole (ramollirait)
-
-### Usage Gemini
-- proposer : « pâtes à la crème pas plates », « champignons + crème + pâtes »
-- éviter : on veut léger / sans lactose
-
-### pattern_outil
-
-**Pattern 039 — Beurre composé crémeux à tartiner [outil]**
-
-## Pattern 039 — Beurre composé crémeux à tartiner [pattern outil]
-
-**Intention** : enrichir une purée crémeuse (avocat surtout) avec du beurre ramolli pour une tartinade ultra-onctueuse. S'étale sur pain grillé, fond sur une viande chaude, se prépare la veille.
-
-### Pattern réutilisable
-
-```text
-avocat très mûr + beurre très mou (jamais fondu) + zeste/jus agrume + sel → mixer lisse → incorporer herbes hachées → repos frigo 10 min → tartiner ou pocher
-```
-
-### Variantes clés
-- avocat-beurre-lime-estragon-aneth (base SIMPLE)
-- beurre-herbes-ail (viande/poisson chauds)
-- beurre-miso-noisette (umami, légumes rôtis)
-
-### Points critiques
-- **beurre très mou à température ambiante**, JAMAIS fondu (il se séparerait)
-- avocat vraiment mûr sinon grumeleux
-- préparable 1 jour à l'avance, séparé des garnitures
-
-### Usage Gemini
-- proposer quand : "rendre un avocat plus riche", "tartine de luxe", "beurre maison pour viande"
-- éviter quand : on cherche du léger (c'est gras assumé)
-
-**Pattern 046 — Caviar (purée rustique) de légume rôti [outil]**
-
-## Pattern 046 — Caviar (purée rustique) de légume rôti [pattern outil]
-
-**Intention** : transformer un légume rôti pressé et écrasé à la fourchette en tartinade rustique — entre baba ganoush et tapenade de légume. Topping de tartine, mezze, ou accompagnement de viande.
-
-### Pattern réutilisable
-
-```text
-légume (courgette, aubergine) rôti avec herbes sèches + huile → PRESSER pour extraire l'eau → ajouter ail rôti pressé → écraser à la fourchette (rustique, pas lisse) → herbes fraîches + citron en finition
-```
-
-### Variantes clés
-- courgette-thym-menthe-aneth (caviar de courgettes)
-- aubergine-cumin (vers le baba ganoush)
-- ajout possible : tahini, yaourt
-
-### Points critiques
-- **extraire l'eau** du légume rôti (passoire, presser) sinon tartinade liquide
-- écraser à la **fourchette** : rustique, pas une purée mixée
-- ail rôti en chemise puis pressé = douceur sans agressivité
-- herbes + citron **au moment de servir** seulement
-- préparable 1 jour à l'avance (sans herbes/citron)
-
-### Usage Gemini
-- proposer quand : "tartinade maison", "courgettes/aubergines à écouler", "mezze", "reste de légumes rôtis"
-
-**Pattern 041 — Salsa froide d'aromates à l'huile chaude versée [outil]**
-
-## Pattern 041 — Salsa froide d'aromates à l'huile chaude versée [pattern outil]
-
-**Intention** : condiment vif obtenu en versant une huile juste chauffée sur des aromates crus (oignon vert, gingembre, piment) — la chaleur les attendrit et libère les arômes sans les cuire. Topping universel sur tomates, poulet rôti, tartine, riz.
-
-### Pattern réutilisable
-
-```text
-aromates frais crus (oignon vert + gingembre pilé + sel) → verser dessus huile neutre juste chauffée → +acide (vinaigre/lime) → repos → cuiller sur n'importe quel plat
-```
-
-### Variantes clés
-- oignon vert-gingembre-huile-vinaigre de Xérès (style Chinatown)
-- oignon vert-gingembre-piment-coriandre (asiatique)
-- échalote-piment-huile-citron
-
-### Points critiques
-- huile **juste chaude**, pas fumante (on attendrit, on ne frit pas)
-- piler le gingembre avec le sel pour une purée parfumée
-- se garde 5 jours au frigo, doubler la quantité
-
-### Usage Gemini
-- proposer quand : "condiment pour relever un plat fade", "tomates crues ou poulet rôti à booster", "gingembre + oignon vert"
-
-> Distinct du pattern 022 (huile infusée à feu doux) : ici c'est l'huile chaude qui va aux aromates crus, pas l'inverse.
-
-**Pattern 048 — Topping de graines/noix grillées sucrées-épicées [outil]**
-
-## Pattern 048 — Topping de graines/noix grillées sucrées-épicées [pattern outil]
-
-**Intention** : transformer graines (courge, citrouille) ou noix en topping croustillant sucré-salé-piquant qui réveille soupes, salades et légumes rôtis. Se fait en lot, se garde une semaine.
-
-### Pattern réutilisable
-
-```text
-graines/noix + sirop d'érable (ou miel) + chili broyé + sel → étaler sur plaque → four ~15 min jusqu'à doré → refroidir (durcit en croustillant) → bocal hermétique, 1 semaine
-```
-
-### Variantes clés
-- graines de citrouille-érable-chili (topping soupe de courge)
-- amandes effilées-paprika (à la poêle, poêlées de légumes)
-- noix-miel-sumac
-
-### Points critiques
-- **doubler/tripler** : garde une semaine, sert sur tout
-- refroidir complètement pour le croustillant (mou à chaud)
-- chili + sel équilibrent le sucre — sinon écœurant
-- amandes à la poêle : surveiller, elles brûlent vite
-
-### Usage Gemini
-- proposer quand : "topping pour soupe/salade", "rendre un plat plus intéressant", "croquant à préparer d'avance"
-- réflexe à suggérer dès qu'un plat manque de texture
-
-**Pattern 037 — Oignon caramélisé en lot, base aromatique à garder [outil]**
-
-## Pattern 037 — Oignon caramélisé en lot, base aromatique à garder [pattern outil]
-
-**Intention** : geste de prévoyance signature SIMPLE — caraméliser une grande quantité d'oignon (souvent avec harissa ou épice) une fois, garder 2-5 jours au frigo, puis monter un plat en 5 min. Convertit une corvée de 15 min en raccourci permanent.
-
-### Pattern réutilisable
-
-```text
-oignons émincés + huile → feu moyen 9-15 min jusqu'à tendre et bien doré → (option : +harissa/épice 1 min) → refroidir → bocal au frigo 2-5 jours
-→ usage : œufs brouillés, omelette, frittata, salade de couscous, tofu brouillé, base de mijoté
-```
-
-### Variantes clés
-- oignon nature caramélisé (base universelle)
-- oignon + harissa à la rose (tofu/œufs brouillés)
-- oignon + cumin/ras-el-hanout (grains)
-
-### Points critiques
-- **doubler ou quadrupler** systématiquement — l'effort marginal est nul
-- l'épice (harissa) s'ajoute en fin, 1 min, après caramélisation
-- bien refroidir avant le bocal
-- ramener à température ou réchauffer avant usage
-
-### Usage Gemini
-- proposer quand : "gagner du temps en semaine", "batch cooking", "beaucoup d'oignons"
-- réflexe à suggérer dès qu'une recette demande de caraméliser de l'oignon
-
-### pattern_plat
-
-**Pattern 036 — Œufs braisés en nids dans une base de légumes verts (technique des nids)**
-
-## Pattern 036 — Œufs braisés en nids dans une base de légumes verts
-
-**Intention** : variante "sèche" de la shakshuka — base de légumes verts braisés (poireaux, épinards, blette) où l'on creuse des nids pour pocher les œufs à couvert. Brunch ou souper léger, 30 min. Sous-cas technique du pattern 014 ; à retenir surtout pour le geste "réduire à sec + creuser des nids".
-
-### Pattern réutilisable
-
-```text
-légume vert fondu (poireau/épinard/blette) + beurre-huile + aromate (cumin grillé, ail, citron confit) + bouillon réduit PRESQUE À SEC → creuser des nids à la cuillère → 1 œuf par nid + féta autour → couvrir 4-5 min (blanc pris, jaune coulant) → finir huile-zaatar
-```
-
-### Variantes clés
-- bases : poireaux-épinards, blettes, courgettes râpées-petits pois, fanes braisées
-- aromates : cumin grillé-citron confit, ail-piment, coriandre-curcuma
-- fromage : féta, halloumi en dés, chèvre frais
-- finition : huile-zaatar, huile-sumac, piment d'Urfa
-
-### Points critiques
-- réduire le bouillon **presque à sec** avant les œufs (sinon ils flottent et ne cuisent pas)
-- creuser de vrais nids au dos d'une cuillère pour contenir le blanc
-- cuire **à couvert** : la vapeur cuit le dessus du jaune
-- huile + épice sèche badigeonnée au service, jamais en cuisson
-
-### Usage Gemini
-- proposer quand : "brunch œufs sans tomate", "poireaux/épinards + œufs", "souper léger réconfortant"
-- éviter quand : pas de poêle à couvercle
-- base verte préparable la veille, œufs cassés minute
-
-> Recoupe le pattern 014 (œufs sur base verte braisée). Le complément utile ici = technique des nids + bouillon réduit à sec.
-
-**Pattern 038 — Tofu brouillé épicé (alternative végane aux œufs brouillés)**
-
-## Pattern 038 — Tofu brouillé épicé (alternative végane aux œufs brouillés)
-
-**Intention** : reproduire la texture d'œufs brouillés sans œuf — tofu soyeux écrasé dans une base aromatique épicée, servi sur pain grillé. Brunch végan qui plaît aux non-végans.
-
-### Pattern réutilisable
-
-```text
-oignons caramélisés + pâte aromatique épicée (harissa, curcuma, cumin) → tofu soyeux égoutté écrasé au presse-purée (texture brouillée) + sel → réchauffer 2 min → sur pain au levain grillé + salade fraîche acidulée à côté
-```
-
-### Variantes clés
-- tofu-harissa-coriandre (base SIMPLE)
-- tofu-curcuma-cumin (style "œufs" indien)
-- garniture : échalotes frites croustillantes, herbes, salade avocat-concombre-lime
-
-### Points critiques
-- **tofu soyeux** (pas ferme) pour la texture crémeuse type œuf
-- écraser au presse-purée, pas au fouet
-- saler franchement (le tofu est neutre)
-- ne pas trop cuire : juste chaud, sinon il rend de l'eau
-
-### Usage Gemini
-- proposer quand : "brunch végan", "alternative aux œufs", "tofu soyeux"
-- éviter quand : seul tofu ferme dispo (basculer vers émietté sauté)
-
-**Pattern 040 — Pain rapide salé sans levure ni pétrissage**
-
-## Pattern 040 — Pain rapide salé sans levure ni pétrissage
-
-**Intention** : pain-gâteau salé monté à la poudre à pâte/bicarbonate, sans levée ni pétrissage. Texture entre pain et cake, garni de légume râpé + fromage + graines. Se congèle, se grille.
-
-### Pattern réutilisable
-
-```text
-secs (farine + poudre à pâte + bicarbonate + sel + graines) // humides (œufs + huile + crème sure/yaourt + un peu de sucre/miel) → légume râpé (betterave, courgette, maïs) + fromage en morceaux → mélanger sans excès → moule → four moyen 40-80 min → graines sur le dessus
-```
-
-### Variantes clés
-- betterave-carvi-chèvre-graines de courge (style cake)
-- maïs-cheddar-féta-jalapeño (cornbread en poêle fonte)
-- ajouter une herbe sèche (thym) dans la pâte
-
-### Points critiques
-- **ne pas trop mélanger** (mie caoutchouteuse sinon)
-- ajouter le fromage en morceaux délicatement
-- cornbread : noircir le maïs à sec avant de l'incorporer (saveur grillée)
-- se grille bien une fois rassis ; congèle 1 mois
-
-### Usage Gemini
-- proposer quand : "pain maison sans attente", "betterave/courgette à écouler", "accompagnement brunch"
-- éviter quand : on veut une vraie mie de pain levé
-
-**Pattern 042 — Salade de rubans de légume cru massés à l'huile infusée**
-
-## Pattern 042 — Salade de rubans de légume cru massés à l'huile infusée
-
-**Intention** : légume cru (courgette) taillé en rubans fins, massé avec une huile parfumée pour l'assouplir sans cuisson. Rend un légume aqueux savoureux et tendre tout en gardant du croquant.
-
-### Pattern réutilisable
-
-```text
-huile infusée à part (thym/ail/zeste, feu doux 8 min, filtrée) → légume en rubans fins (économe/mandoline) + noix + jus citron + sel → MASSER 1 min à la main (le légume se brise un peu) → herbes en finition
-```
-
-### Variantes clés
-- courgette-thym-noix-basilic
-- carotte/fenouil/asperge crue en rubans
-- huiles : ail-zeste citron, piment, graines de cumin
-
-### Points critiques
-- **masser physiquement** avec les doigts (assouplit, fait pénétrer l'huile)
-- saler et citronner **au dernier moment** (le légume rend de l'eau sinon)
-- huile infusée préparable 3 jours à l'avance
-- rubans fins et réguliers
-
-### Usage Gemini
-- proposer quand : "courgettes crues", "salade qui change", "légume cru à valoriser sans cuisson"
-- éviter quand : légume pas assez frais
-
-**Pattern 044 — Salade de fruits crus en registre salé (acide + herbe + épice)**
-
-## Pattern 044 — Salade de fruits crus en registre salé (acide + herbe + épice)
-
-**Intention** : traiter un fruit cru comme un légume de salade — bâtonnets nets, agrume vif, herbes fraîches, épice/aromate inattendu (citronnelle, cinq-épices, graines de moutarde). Accompagnement d'été qui coupe le gras d'une viande grillée.
-
-### Pattern réutilisable
-
-```text
-fruit ferme en bâtonnets/quartiers (melon d'eau, pomme verte, pêche) + agrume (lime/citron) + huile + aromate surprise (citronnelle, cinq-épices, échalote macérée) + herbes (menthe+coriandre) + graines grillées → assembler MINUTE, égoutter le jus
-```
-
-### Variantes clés
-- melon d'eau + pomme verte + lime + citronnelle + graines de moutarde
-- pêche + framboise écrasée + cinq-épices + radicchio + cresson
-- garniture : arachides/pistaches/cajou grillées salées
-
-### Points critiques
-- fruits **pas trop mûrs** (sinon trop sucré, et tiennent mieux en bâtonnets)
-- assembler **juste avant de servir** et **jeter le jus** au fond du bol
-- saler franchement (c'est une salade, pas un dessert)
-
-### Usage Gemini
-- proposer quand : "salade d'été originale", "accompagnement de BBQ/porc", "melon ou pêche à utiliser"
-- éviter quand : fruits hors saison ou fades
+## Pattern — Curry de légumes épicé (vindaloo / dry curry)
 
 **Pattern 045 — Légume tendre braisé dans un bouillon aromatique au four**
 
-## Pattern 045 — Légume tendre braisé dans un bouillon aromatique au four
-
-**Intention** : cuire un légume délicat (courgettes, fenouil) immergé dans un bouillon parfumé, à couvert au four, jusqu'à fondance complète — technique douce opposée au rôtissage sec. Texture soyeuse, plat de mezze ou entrée.
-
-### Pattern réutilisable
+Cuire un légume délicat (courgette, fenouil, poireau) immergé dans un bouillon parfumé, à couvert au four, jusqu'à fondance — l'opposé du rôtissage sec (pattern 001). Texture soyeuse, registre mezze/entrée.
 
 ```text
-légume rangé serré dans un plat → bouillon chaud aromatisé (ail + herbe) versé pour couvrir + sel → couvrir d'alu → four ~45 min jusqu'à fondant → égoutter → finition : huile + aromate frit (origan/ail) + sel en flocons
+légume serré dans un plat → bouillon chaud (ail + herbe) versé pour couvrir + sel → couvrir d'alu → four ~45 min jusqu'à fondant → égoutter → finition : huile + aromate frit (origan/ail) + sel en flocons
 ```
 
-### Variantes clés
-- courgettes-ail-origan (origan frit en finition)
-- fenouil-citron-thym
-- poireaux entiers-bouillon-zeste
+- variantes : courgettes-ail-origan ; fenouil-citron-thym ; poireaux entiers-bouillon-zeste
+- critique : légume serré (tient et cuit régulier), bouillon chaud (gagne du temps), à couvert (on braise), finition frite fait tout le caractère
+- proposer : "légume fondant sans friture", "mezze", "entrée délicate" — éviter si on veut coloration/croustillant (alors pattern 001)
 
-### Points critiques
-- légume **serré** dans le plat (tient et cuit régulièrement)
-- bouillon **chaud** versé (gagne du temps)
-- cuire **à couvert** (on braise, on ne rôtit pas)
-- la finition (huile + aromate frit + sel en flocons) fait tout le caractère
+**Pattern 047 — Légume évidé farci (farce liée par sa chair + œuf + fromage)**
 
-### Usage Gemini
-- proposer quand : "courgettes tendres", "mezze", "entrée délicate", "légume fondant sans friture"
-- éviter quand : on cherche coloration/croustillant (alors rôtir, pattern 001)
-
-**Pattern 047 — Légume évidé farci (farce liée par sa chair + fromage)**
-
-## Pattern 047 — Légume évidé farci (farce liée par sa chair + fromage)
-
-**Intention** : transformer un légume en contenant — courgette/poivron évidé, farci d'une farce qui réutilise sa propre chair liée à l'œuf et au fromage, gratiné au four. Plat principal végétarien ou accompagnement généreux.
-
-### Pattern réutilisable
+Légume contenant (courgette/poivron/aubergine évidé), farci de sa propre chair liée œuf + fromage + mie, gratiné. Plat végé principal ou accompagnement généreux.
 
 ```text
-légume coupé en barquette, chair retirée + PRESSÉE pour extraire l'eau → farce = chair + œuf + parmesan + mie de pain + tomate écrasée + sel → garnir → four très chaud ~15 min jusqu'à doré → topping (pignons + zeste + herbes) au service
+légume en barquette, chair retirée + PRESSÉE → farce = chair + œuf + parmesan + mie + tomate écrasée + sel → garnir → four très chaud ~15 min jusqu'à doré → topping (pignons + zeste + herbes) au service
 ```
 
-### Variantes clés
-- courgette-parmesan-pignons-origan (base SIMPLE)
-- poivron-riz-féta
-- aubergine-tomate-chapelure
-
-### Points critiques
-- garder ~1 cm de paroi (la barquette doit tenir)
-- **presser la chair** retirée (sinon farce détrempée)
-- œuf + fromage + mie = le trio liant
-- farce préparable la veille
-- four très chaud (230-250°C) pour gratiner la farce sans dessécher le légume
-
-### Usage Gemini
-- proposer quand : "légumes farcis", "grosses courgettes/poivrons", "plat végé soigné"
-- éviter quand : peu de temps (l'évidage est long)
+- variantes : courgette-parmesan-pignons-origan ; poivron-riz-féta ; aubergine-tomate-chapelure
+- critique : garder ~1 cm de paroi, PRESSER la chair (sinon détrempée), trio liant œuf+fromage+mie, four très chaud (230-250°C), farce préparable la veille
+- proposer : "légumes farcis", "grosses courgettes/poivrons" — éviter si peu de temps (évidage long)
 
 **Pattern 043 — Taboulé inversé : herbes majoritaires, grain minoritaire**
 
-## Pattern 043 — Taboulé inversé : herbes majoritaires, grain minoritaire
-
-**Intention** : le taboulé Ottolenghi est une salade d'HERBES, le grain n'est qu'un liant minoritaire. Variante : remplacer le grain par du chou-fleur cru râpé ("faux boulgour") pour une version légère sans gluten.
-
-### Pattern réutilisable
+Le taboulé Ottolenghi est une salade d'HERBES ; le grain n'est qu'un liant minoritaire. Variante sans gluten : chou-fleur cru râpé en "faux boulgour".
 
 ```text
-base = herbes en MASSE (persil + menthe + aneth) + oignon vert → +grain cuit OU chou-fleur cru râpé grossièrement macéré 20 min dans citron+sel → huile + épice (piment de la Jamaïque) → grenade ou pistaches en finition
+herbes en MASSE (persil + menthe + aneth) + oignon vert → +grain cuit OU chou-fleur cru râpé grossier, macéré 20 min dans citron+sel → huile + épice (piment de la Jamaïque) → grenade/pistaches en finition
 ```
 
-### Variantes clés
-- chou-fleur cru râpé (sans gluten, plus léger)
-- boulgour fin classique (minoritaire)
-- finition : grenade, pistaches grillées, ou les deux
-
-### Points critiques
-- les herbes pèsent **plus** que le grain — c'est le principe
-- chou-fleur râpé grossièrement (râpe ou robot par à-coups) — ne pas réduire en bouillie
-- macérer chou-fleur/grain dans citron+sel 20 min avant d'assembler
-- assembler et servir aussitôt
-
-### Usage Gemini
-- proposer quand : "taboulé maison", "beaucoup d'herbes à écouler", "salade légère sans gluten", "un chou-fleur"
-- éviter quand : peu d'herbes (le plat s'effondre)
+- critique : les herbes pèsent PLUS que le grain (c'est le principe) ; chou-fleur râpé grossier (pas en bouillie) ; macérer 20 min ; assembler et servir aussitôt
+- proposer : "taboulé", "herbes à écouler", "salade légère sans gluten", "un chou-fleur" — éviter si peu d'herbes
 
 ### principe
 
-**Principe — Cuisiner pour recevoir : tout d'avance, servir à T° ambiante**
+**Recevoir sans stress : tout d'avance, servir à T° ambiante**
 
-## Principe — La logique "prendre de l'avance" Ottolenghi (recevoir sans stress)
+Philosophie d'organisation transversale pour les repas de réception.
+- Privilégier les plats qui se préparent à l'avance et gagnent en saveur (mijotés de légumineuses, calmar, poisson piment-tahini : meilleurs le lendemain ; sauces/tartinades/vinaigrettes conservables).
+- Prendre de l'avance par étapes : noix grillées, panure/farce prêtes, grains cuits refroidis, légumes blanchis/rôtis ramenés à T° ambiante.
+- Servir à température ambiante (ou réchauffé) plutôt que froid frigo ; couvrir la table avant l'arrivée, chacun se sert. Seuls quelques plats s'assemblent minute.
+- Choisir des plats faciles à doubler/tripler (congeler la moitié).
+- Identifier ce qui s'assemble en dernier (herbes, vinaigrettes sur feuilles tendres, croquants, jus réservés) et le garder à part.
+- Penser batch : oignons frits, dukkah, ail confit, sauces/huiles aromatiques en grande quantité, ça se conserve.
+- activer quand : "je reçois", "menu pour X", "préparer à l'avance", "buffet/mezze", "quoi faire la veille"
 
-Philosophie d'organisation pour les repas de réception, à appliquer transversalement.
+**Substitution "vide-frigo" à poids net constant**
 
-- **Privilégier les plats qui se préparent à l'avance** et gagnent en saveur (mijotés de légumineuses, calmar, poisson au piment-tahini : meilleurs le lendemain ; sauces/tartinades/vinaigrettes conservables au frigo ou congélateur).
-- **Prendre de l'avance par étapes**, pas seulement par stockage : noix grillées, panure/farce préparées, grains cuits et refroidis, légumes blanchis/rôtis et ramenés à T° ambiante — des heures avant ou la veille.
-- **Servir à température ambiante** (ou réchauffé) plutôt que froid du frigo ; couvrir la table avant l'arrivée, chacun se sert. Seuls quelques plats sortent du four ou s'assemblent minute (signalé dans les recettes).
-- **Choisir des plats faciles à doubler/tripler** : une sauce ou un ragoût se double aussi facilement, on congèle la moitié.
-- **Identifier ce qui s'assemble en dernier** (herbes, vinaigrettes sur feuilles tendres, croquants, jus réservés) et le garder à part jusqu'au service.
-- Penser **batch** : oignons frits, dukkah, ail confit, sauces et huiles aromatiques en grande quantité, ça se conserve.
-
-### Usage Gemini
-- activer quand : "je reçois", "menu pour X personnes", "préparer à l'avance", "buffet/mezze", "qu'est-ce que je peux faire la veille"
-
-**Principe transverse — Substitution "vide-frigo" à poids net constant**
-
-## Principe transverse — Substitution "vide-frigo" à poids net constant
-
-**Idée** : dans une majorité de recettes SIMPLE (vinaigrettes d'herbes, beignets aux herbes, gâteaux frigo), les composants d'une même famille sont **librement interchangeables tant que le poids net total reste identique**. La clé pour cuisiner avec ce qu'on a au lieu de courir après une liste.
-
-### Règle pratique
+Dans une majorité de recettes (vinaigrettes d'herbes, beignets aux herbes, gâteaux frigo), les composants d'une même famille sont interchangeables tant que le poids net total reste identique.
 
 ```text
-remplacer librement à l'intérieur d'une famille, à POIDS NET CONSTANT :
-- herbes fraîches (persil ↔ coriandre ↔ aneth ↔ basilic ↔ estragon)
+remplacer librement DANS une famille, à POIDS NET CONSTANT :
+- herbes (persil ↔ coriandre ↔ aneth ↔ basilic ↔ estragon)
 - fruits secs (raisin ↔ abricot ↔ datte ↔ cerise séchée)
 - noix (amande ↔ pignon ↔ pistache ↔ noix)
-- légumes verts feuilles (épinard ↔ blette ↔ kale)
+- verts feuilles (épinard ↔ blette ↔ kale)
 ```
 
-### Points critiques
-- garder le **poids total** identique (sinon l'équilibre change)
-- rester dans la **même famille** (pas d'herbe contre une noix)
-- herbes très puissantes (estragon, menthe) : doser un peu en deçà
-
-### Usage Gemini
-- réflexe par défaut quand l'utilisateur dit "je n'ai pas X, j'ai Y à la place"
-- proposer quand : "vide-frigo", "j'ai des herbes qui traînent", "je n'ai pas l'ingrédient exact"
-- rassurer : "tant que le poids reste le même, ça marchera"
-
-### principle
+- critique : garder le poids total identique ; rester dans la même famille ; doser un peu en deçà les herbes très puissantes (estragon, menthe)
+- réflexe par défaut quand : "je n'ai pas X, j'ai Y", "vide-frigo" → rassurer "même poids = ça marche"
 
 **Assaisonner les herbes/feuilles délicates à la SECONDE du service**
 
-Règle pour salades d'herbes et feuilles tendres (cresson, basilic, aneth, estragon, romaine).
+Les herbes délicates (cresson, basilic, aneth, estragon, romaine) flétrissent instantanément au contact de la vinaigrette acide. Les garder à part au frais (boîte hermétique) et ne verser vinaigrette + noix qu'au moment exact de servir, puis mélanger doucement.
+Corollaire : une salade d'herbes (cresson + basilic + coriandre + aneth + estragon + pistaches + vinaigrette citron-fleur d'oranger) est un excellent rafraîchisseur de palais entre deux plats riches.
 
-Principe : les herbes délicates flétrissent instantanément au contact de la vinaigrette acide. Garder feuilles et herbes à part (au frais, en boîte hermétique, jusqu'à quelques heures), et ne verser la vinaigrette + noix qu'au moment EXACT de servir, puis mélanger doucement.
+### référence
 
-Corollaire : une salade d'herbes (cresson + basilic + coriandre + aneth + estragon + pistaches grillées + vinaigrette citron-fleur d'oranger) est un excellent rafraîchisseur de palais entre deux plats riches.
+**Substitutions et dosages — aide-mémoire**
 
-### reference
-
-**Substitutions et équivalences utiles (cardamome, épine-vinette, harissa…)**
-
-## Substitutions et dosages — aide-mémoire
-
-- **Cardamome** : ½ c. à thé de graines (à broyer) = ¼ c. à thé de cardamome moulue. La moulue est plus concentrée, diviser de moitié.
-- **Baies d'épine-vinette** → raisins de Corinthe trempés 30 min dans du jus de citron (30 ml de jus pour 45 ml de raisins) puis égouttés.
-- **Harissa** : goûter avant de doser. Si douce, +50 % ; si très piquante, -50 %. Énormes écarts entre marques.
-- **Piment ancho séché** → 1 c. à thé de paprika doux fumé.
-- **Noix de coco fraîche râpée** → flocons séchés (griller 2-3 min au lieu de 6-7).
-- **Vin de riz shaoxing** → xérès.
-
-### Usage Gemini
+- Cardamome : ½ c. à thé de graines broyées = ¼ c. à thé de moulue (la moulue est plus concentrée).
+- Baies d'épine-vinette → raisins de Corinthe trempés 30 min dans jus de citron (30 ml pour 45 ml de raisins), égouttés.
+- Harissa : goûter d'abord — si douce +50 %, si très piquante -50 % (gros écarts entre marques).
+- Piment ancho séché → 1 c. à thé de paprika doux fumé.
+- Noix de coco fraîche râpée → flocons séchés (griller 2-3 min au lieu de 6-7).
+- Vin de riz shaoxing → xérès.
 - consulter quand : un ingrédient signature manque, ou pour ajuster les doses d'épices fortes
 
-**Les 10 ingrédients signature Ottolenghi (garde-manger)**
+**Les 10 ingrédients signature Ottolenghi [garde-manger]**
 
-## Les 10 ingrédients signature Ottolenghi [référence garde-manger]
+Dix "bombes de saveur" qui se conservent longtemps ; une pincée/un filet suffit. Provenance > marque (épicier moyen-oriental pour sumac, zaatar, tahini, épine-vinette).
+- Sumac : épice rouge acidulée. Œufs, viandes, poissons, légumes grillés, vinaigrettes — même desserts.
+- Zaatar : thym + sésame + sumac + sel. Sur viande/poisson/légumes, ou en huile.
+- Piment d'Urfa : turc, fumé, chocolaté, peu piquant. Œufs brouillés, avocat sur tartine, tomates rôties chaudes.
+- Cardamome : note douce, salé et sucré. Partir des gousses (écraser). Doser (½ c. graines = ¼ c. moulue).
+- Mélasse de grenade : sirop aigre-doux. Trait sur légumes/viande, marinade, mijoté ; excellente sur agneau haché.
+- Harissa à la rose : pâte de piment adoucie aux pétales. Marinades, pâtes, omelettes, oignons. Goûter avant de doser.
+- Tahini : préférer le crémeux (libanais/israélien/palestinien). Sauces, vinaigrettes, croûte de hachis, arrosage de poisson.
+- Baies d'épine-vinette : baies séchées acidulées. Beignets, frittatas, riz, salsa. Défaut : raisins de Corinthe trempés citron.
+- Ail noir : fermenté, doux, balsamique/réglisse, umami. Pizza, risotto, équilibre l'amer des choux de Bruxelles.
+- Citron confit (peau fine) : punch intense, souvent seulement l'écorce. Salades, vinaigrettes, betteraves rôties, œufs braisés.
 
-Dix "bombes de saveur" qui transforment un plat banal en plat Ottolenghi. Tous se conservent longtemps au garde-manger ; une pincée ou un filet suffit. Provenance > marque : épicier moyen-oriental/iranien pour le meilleur sumac, zaatar, tahini, épine-vinette.
+**Tomates semi-séchées plutôt que séchées en salade**
 
-- **Sumac** : épice rouge acidulée. Sur œufs (classique), viandes, poissons, légumes grillés ; dans une vinaigrette ou une marinade. Marche même sur les desserts.
-- **Zaatar** : mélange thym zaatar + sésame + sumac + sel (les bons n'ont que ces 4). Pincée sur viande/poisson/légumes, ou en huile aromatisée.
-- **Piment d'Urfa en flocons** : turc, fumé, légèrement chocolaté, peu piquant. Sur œufs brouillés, avocat écrasé sur tartine, tomates rôties chaudes.
-- **Cardamome** : note douce aromatique, plats salés et sucrés. Le livre part souvent des gousses entières (à écraser/broyer). Équivalence : ½ c. à thé de graines broyées = ¼ c. à thé de moulue (sinon trop explosif).
-- **Mélasse de grenade** : sirop aigre-doux. Un trait sur légumes/viande, dans une marinade ou un mijoté pour un enrobage caramélisé. Excellente sur l'agneau haché (boulettes).
-- **Harissa à la rose** : pâte de piment nord-africaine adoucie de pétales. Dans marinades, sur pâtes, omelettes, oignons caramélisés. Goûter avant de doser : si douce +50 %, si très piquante -50 % (énormes écarts entre marques).
-- **Tahini** : pâte de sésame ; préférer le crémeux (libanais/israélien/palestinien). Base de sauces et vinaigrettes, croûte de hachis parmentier, arrosage de poisson poché, tartine miel.
-- **Baies d'épine-vinette** : petites baies séchées acidulées. Beignets, frittatas/omelettes, salades de riz, salsa. À défaut : raisins de Corinthe trempés 30 min dans du jus de citron (30 ml pour 45 ml de raisins) puis égouttés.
-- **Ail noir** : ail fermenté, doux, goût balsamique/réglisse, riche en umami. Sur pizza, dans un risotto, équilibre l'amertume des choux de Bruxelles.
-- **Citron confit** (petits, peau fine) : punch citronné intense. Souvent on n'en hache que l'écorce, dans salades, vinaigrettes, betteraves rôties, œufs braisés.
+Éviter les tomates séchées au soleil (dures, agressives). Préférer les SEMI-séchées (mi-confites, moelleuses, "sun-blushed") : concentration + umami sans le côté coriace qui déséquilibre une salade de feuilles. Maison conservées dans l'huile, ou commerciales moelleuses.
+
+### pattern outil
+
+**Pâte fraîche aromatisée dans la masse (zeste + curcuma + safran)**
+
+Parfumer la PÂTE elle-même, pas que la sauce : la pâte devient un ingrédient de saveur.
+
+```text
+farine 00 + œufs + huile + AROMATE INTÉGRÉ (zeste citron / curcuma moulu / safran infusé 10 min dans eau chaude) → pétrir, reposer 30 min, abaisser
+```
+
+- variantes : zeste+curcuma → ravioli chèvre-citron (pignons roses, estragon) ; safran+curcuma → tagliatelles dorées (beurre épicé) ; sans pâte maison → pincée de safran dans l'eau de cuisson de pâtes sèches
+- critique : infuser le safran avant ; curcuma colore fort (dosage modéré) ; pâte ni collante ni sèche ; ravioli au fromage : sceller sans bulle d'air
+
+**Yaourt grec égoutté (labneh express)**
+
+Geste de base récurrent, salé comme sucré.
+
+```text
+yaourt grec (+ sucre glace + pincée de sel si dessert) → passoire tapissée d'étamine/linge → baluchon + poids → frigo 30 min (express) à plusieurs heures → presser, jeter le petit-lait
+```
+
+- repères : 900 g → ~550 g (perte ~⅓) ; 30 min = crémeux épais ; plusieurs heures = labneh tartinable
+- usages : cheesecake sans cuisson, crème pour fruits rôtis, labneh salé mezze, lit froid sous tomates rôties
+
+**Bouillon de légumes à saveur profonde (sucs + pruneaux)**
+
+Donner corps et umami à un bouillon végé fade.
+
+```text
+légumes aromatiques (carotte, céleri, oignon, ail, céleri-rave) revenus jusqu'à coloration + herbes + poivre + laurier + QUELQUES PRUNEAUX → eau froide → mijoter ~1h30 en écumant → filtrer
+(variante umami : croûtes de parmesan pendant la cuisson, puis retirées)
+```
+
+- critique : COLORER les légumes = base de saveur ; pruneaux = rondeur sans sucrer ; croûtes de parmesan = umami gratuit (à congeler au fil du temps)
+- proposer : base de soupe végé, risotto, braisé sans viande, "bouillon de légumes fade"
+
+**Ail confit caramélisé**
+
+Gousses entières → perles fondantes enrobées d'un sirop foncé. Condiment pour tartes, légumes rôtis, pâtes, tartines.
+
+```text
+gousses pelées blanchies 3 min (enlève l'âcreté) → égoutter → revenir 2 min à l'huile → balsamique + eau → mijoter 10 min → sucre + romarin/thym + sel → réduire jusqu'à caramel foncé enrobant
+```
+
+- critique : BLANCHIR d'abord (douceur) ; réduire jusqu'à sirop pas brûlé (amertume) ; balsamique + sucre = base sucrée-acide
+- se garde plusieurs jours au frigo dans son sirop ; pour tarte/quiche, légumes rôtis, tartine, base de sauce
+
+**Vinaigrette mélasse de grenade (échalote + moutarde)**
+
+Vinaigrette signature sucrée-acide-fruitée, montée à l'échalote ; réveille salades fruit-fromage, légumes rôtis, grains, lentilles.
+
+```text
+échalote ciselée + moutarde Dijon + mélasse de grenade + sel/poivre → fouetter en versant l'huile en filet → émulsion homogène
+```
+
+- variantes : +citron, +sumac, grains de grenade en finition ; simplifiée : mélasse + huile + sel
+- critique : monter en émulsion (nappe) ; mélasse très concentrée (peu suffit) ; l'échalote s'adoucit en macérant dans l'acide
 
 ### technique
 
-**Pattern outil — Pâte fraîche aromatisée dans la masse (zeste + curcuma + safran)**
-
-## Pattern outil — Pâte fraîche aromatisée dans la masse
-
-**Intention** : pour qui fait sa pâte maison, parfumer la PÂTE elle-même (pas seulement la sauce) : zeste d'agrume, curcuma (couleur + note terreuse), safran infusé. La pâte devient un ingrédient de saveur.
-
-### Formule
-```text
-farine 00 + œufs + huile + AROMATE INTÉGRÉ (zeste citron râpé / curcuma moulu / safran infusé 10 min dans eau chaude) → pétrir, reposer 30 min, abaisser
-```
-
-### Variantes
-- zeste citron + curcuma → ravioli chèvre-citron (finition : pignons roses concassés, estragon, huile de pépins de raisin)
-- safran infusé + curcuma → tagliatelles dorées (finition : beurre épicé)
-- sans pâte maison : pincée de safran dans l'eau de cuisson de pâtes sèches de qualité
-
-### Points critiques
-- infuser le safran 10 min dans l'eau chaude avant de l'ajouter aux œufs
-- curcuma colore fort : dosage modéré
-- pâte ni collante ni sèche : ajuster farine/huile
-- ravioli au fromage frais : sceller sans bulle d'air, fariner le plan
-
-### Usage Gemini
-- proposer : pâte maison, « pâtes parfumées/colorées », « ravioli maison »
-- éviter : pas d'envie/matériel pour pâte maison (alors safran dans l'eau de cuisson)
-
 **Pilaf de grain par absorption hors feu (boulgour, freekeh)**
 
-Methode pilaf "feu coupe" pour boulgour/freekeh, plus fiable que la cuisson continue :
-- Faire revenir oignons/legumes + griller epices et fruits secs dans la matiere grasse.
-- Ajouter le grain, mouiller (boulgour ~1 vol grain pour 1,75 vol eau ; freekeh ~1 pour 1,25 de bouillon reduit).
-- Boulgour : porter a ebullition, couvrir hermetiquement, RETIRER DU FEU et laisser gonfler au moins 20 min.
-- Freekeh : porter a ebullition puis cuire 15 min a feu minimal couvert + 5 min hors feu couvert.
-- Egrener a la fourchette ; si sec, ajouter un filet d'huile.
-- Freekeh : tremper 5 min a l'eau froide puis rincer/egoutter avant cuisson (enleve amertume/poussiere de fumage).
-Leve une erreur frequente : le grain qui colle/brule au fond.
-
-**Cuire riz complet/rouge "comme des pates" et quinoa minute**
-
-Pour les grains rustiques, abandonner l'absorption et cuire a grande eau (comme des pates) :
-- Riz rouge de Camargue / riz complet : grand volume d'eau bouillante NON salee, ~20 min jusqu'a tendrete, puis egoutter.
-- Quinoa : grande eau bouillante, fremir 9 min seulement, egoutter dans une passoire fine ; laisser secher encore tiede avant d'assaisonner (evite la bouillie).
-- Pour parfumer un riz nature : cuire avec quelques tiges de basilic (feuilles attachees) qu'on retire apres cuisson.
-Utile pour les salades de grains : etaler sur un plateau pour refroidir vite et garder les grains separes.
-
-**Polenta : point de cuisson et repere instant vs traditionnelle**
-
-Reperes concrets pour reussir une polenta cremeuse :
-- Verser la polenta EN PLUIE dans le liquide bouillant, remuer constamment a la cuillere en bois, feu minimal.
-- Temps : polenta instantanee ~5 min ; traditionnelle jusqu'a 50 min.
-- Point de cuisson : prete quand elle se decolle des parois mais reste coulante. Si elle seche, rallonger avec un peu de bouillon/eau pour garder une consistance de "porridge epais".
-- Finir hors feu avec beurre + parmesan (ou feta) pour le cremeux.
-- Restes : etaler sur surface huilee, laisser figer, couper en morceaux et poeler a l'huile le lendemain (deuxieme repas).
-
-**Reussir des champignons bien dores (poelee)**
-
-Pour des champignons colores (et pas bouillis) :
-- Poele large bien chaude, huile chaude, cuire en 2 fournees : ne pas surcharger.
-- Ne presque pas remuer pour laisser des plaques dorees se former sur la surface.
-- Ail, herbes fraiches et huile parfumee (truffe) ajoutes HORS FEU a la fin (l'ail ne brule pas, les herbes restent vives).
-Meme logique que pour saisir une viande : la vapeur empeche la coloration si la poele est trop pleine.
-
-**Courgettes frites puis marinees au vinaigre (salade de pates)**
-
-Pour une salade de pates/legumes fraiche et acidulee :
-- Couper les courgettes en tranches de ~0,5 cm.
-- Frire a l'huile chaude en plusieurs fournees sans surcharger, ~3 min, dore des deux cotes, RETOURNER UNE SEULE FOIS.
-- Egoutter en passoire, puis arroser de vinaigre de vin rouge encore tiedes : elles s'impregnent (marinade express).
-- Pour les pates en salade : cuire al dente, rincer a l'eau froide pour stopper la cuisson, puis assaisonner.
-Astuce sauce verte : mixer basilic + persil + huile d'olive + sel/poivre pour une sauce lisse qui lie la salade.
-
-**Panko grille a sec pour ajouter du croquant a une pate cremeuse**
-
-Pour casser la lourdeur d'une pate a la creme sans alourdir la sauce :
-- Faire griller du panko a sec dans une poele a feu moyen jusqu'a dore, en remuant.
-- Le melanger a une gremolata (zeste de citron + ail + persil) et l'eparpiller GENEREUSEMENT au service.
-- Sauce creme : elle seche vite, la garder coulante et la detendre avec de l'eau de cuisson des pates reservee.
-- Sauce vin-creme : reduire le vin des deux tiers AVANT d'ajouter la creme (concentre sans soupe).
-
-**Astuce — Chocolat noir comme exhausteur umami dans un mijoté**
-
-## Astuce — Carré de chocolat noir dans un mijoté de viande à la tomate
-
-Un petit morceau de chocolat noir (70 %) ajouté en fin de mijotage d'un ragoût tomate-épices (poulet, agneau) apporte profondeur, rondeur et une note umami sans goût sucré identifiable. Logique proche du mole mexicain.
-
-### Repère
-- ~15 g de chocolat noir pour un mijoté de ~6 portions
-- ajouter en fin de cuisson, à découvert, laisser fondre et mijoter
-- s'associe bien à harissa + paprika fumé + poivrons rôtis
-
-### Usage Gemini
-- proposer quand : « mijoté qui manque de profondeur », « ragoût tomate-épices », touche secrète
-- déclencheurs : chocolat dans un plat salé, mole, ragoût poulet harissa
-
-**Astuce — Extraire l'eau des légumes râpés avant de les lier**
-
-## Astuce — Essorer les légumes râpés crus avant de les incorporer à un appareil
-
-Pour un pain de viande, des boulettes ou des galettes incluant des légumes crus râpés (courgette, carotte, oignon, tomate), hacher les légumes au robot puis les **presser dans une passoire** pour en extraire le maximum de liquide avant de les mélanger à la viande/l'appareil. Sinon l'eau relâchée rend la préparation détrempée et empêche la tenue.
-
-### Repère
-- hacher les légumes à la taille du haché (consistance homogène)
-- presser fort dans une passoire au-dessus d'un bol
-- même principe que pour les galettes de légumes verts (presser petits pois, courgettes)
-
-### Usage Gemini
-- proposer quand : pain de viande, boulettes ou galettes avec légumes crus
-- déclencheurs : légumes qui rendent de l'eau, galette qui s'effondre
-
-**Astuce — Poisson à peau croustillante : presser et finir côté chair**
-
-## Astuce — Filet de poisson à peau croustillante à la poêle
-
-Pour une peau bien croustillante et plate : poser le filet **peau dessous** dans l'huile très chaude et **presser le filet avec une spatule** les premières secondes pour empêcher la peau de se rétracter. Cuire l'essentiel du temps côté peau (saumon ~3 min, maquereau ~2 min) jusqu'à ce qu'elle soit dorée et croustillante, puis retourner brièvement pour finir la chair (1-4 min selon épaisseur).
-
-### Repère
-- la majeure partie de la cuisson se fait côté peau
-- huile chaude (feu vif au départ), réduire après le retournement
-- ne pas bouger le filet tant que la peau n'est pas dorée
-
-### Usage Gemini
-- proposer quand : saumon, maquereau, bar, dorade à la poêle
-- déclencheurs : peau de poisson croustillante, filet poêlé
-
-**Technique — Panure noix de coco grillée pour poisson (bâtonnets enfants)**
-
-## Technique — Panure croquante à la noix de coco grillée [complète Pattern 013]
-
-Variante de panure pour le Pattern 013 (croquettes/galettes). Idéale pour des bâtonnets de poisson qui plaisent aux enfants.
-
-```text
-poisson blanc ferme mariné court (lime + crème de coco + sel, 1 h max) → essuyer l'excédent → tremper dans beurre fondu → rouler dans noix de coco grillée à sec + panko + chili broyé + sel → cuire sous le gril, retourner à mi-cuisson, 5-6 min
-```
-
-### Points critiques
-- griller la noix de coco À SEC d'abord (6-7 min chair fraîche, 2-3 min flocons séchés) : sans ça, pas de goût grillé
-- mariner 1 h MAX dans la crème de coco puis retirer l'excédent (sinon la panure n'adhère pas)
-- chili broyé doux : réduire ou omettre pour les enfants
-- si la panure dore avant que le poisson soit cuit : éteindre le gril, laisser finir 2-3 min sur chaleur résiduelle
-
-### Usage Gemini
-- proposer quand : "bâtonnets de poisson maison", "poisson qui plaît aux enfants", "j'ai de la noix de coco râpée"
-
-**Technique — Yaourt grec égoutté (labneh express) en étamine**
-
-## Technique — Égoutter le yaourt grec pour l'épaissir (labneh / base dessert) [pattern outil]
-
-Geste de base récurrent chez Ottolenghi, salé comme sucré.
-
-```text
-yaourt grec (+ sucre glace + pincée de sel si dessert) → passoire tapissée d'étamine ou linge propre sur un bol → former un baluchon, déposer un poids dessus → frigo 30 min (express) à plusieurs heures → presser pour extraire le maximum de petit-lait → jeter le liquide
-```
-
-### Repères
-- 900 g de yaourt → ~550 g de yaourt épaissi (perte d'~⅓ en petit-lait)
-- 30 min = crémeux épais ; plusieurs heures = consistance labneh tartinable
-
-### Usages
-- base de cheesecake sans cuisson, crème de yaourt pour fruits rôtis, labneh salé pour mezze, lit froid sous tomates rôties chaudes
-
-### Usage Gemini
-- proposer quand : "épaissir du yaourt", "faire du labneh", "base crémeuse pour dessert aux fruits"
-
-**Technique — Réfrigérer les croquettes avant cuisson pour qu'elles tiennent**
-
-## Technique — Raffermir les croquettes/galettes au frigo avant cuisson [complète Pattern 013]
-
-Détail décisif pour le Pattern 013 : façonner puis réfrigérer avant de cuire évite que les croquettes s'effondrent à la poêle, et permet de tout préparer la veille.
-
-```text
-façonner les croquettes → réfrigérer 15 min minimum (ou jusqu'au lendemain) pour les raffermir → cuire à la poêle dans une huile bien chaude (2-3 min/face) ou poêle + four
-```
-
-### Points critiques
-- 15 min = minimum ; jusqu'à 24 h = avantage organisation (cuisson minute le jour J)
-- on peut aussi cuire la veille et juste réchauffer au service
-- mélange lié au robot par PULSATIONS courtes (pâte grossière, pas une purée)
-
-### Usage Gemini
-- proposer quand : "croquettes qui s'effondrent", "préparer des galettes à l'avance", "tacos/croquettes pour recevoir"
-
-**Fenouil poêlé caramélisé mais ferme (beurre + sucre + graines de fenouil)**
-
-Caraméliser le fenouil sans le ramollir : il garde du croquant.
-
-Méthode :
-- trancher les bulbes en tranches d'1 cm (garder la base qui tient les couches)
-- saisir par lots dans beurre + huile chaude, sans surcharger, ~2 min par face jusqu'à doré clair, retirer
-- une fois tout saisi : ajouter sucre + graines de fenouil + sel/poivre dans la poêle, 30 s
-- remettre les tranches, enrober 1-2 min dans le sucre fondu (rester FERME à l'intérieur, juste glacé)
-
-Finition à température ambiante : ail pressé + aneth + chèvre frais en cuillerées + zeste citron + pluches de fenouil.
-
-Idée clé : la caramélisation est un glaçage de surface, pas une cuisson à cœur.
-
-**Réduction sucrée-acide comme alternative au vinaigre (verjus, jus d'agrume)**
-
-Vinaigrette à base d'un liquide acide RÉDUIT, plus rond et sirupeux qu'un vinaigre brut.
-
-Principe : faire réduire un liquide acide-fruité à frémissement jusqu'à consistance sirop, refroidir, puis monter à l'huile.
-- verjus (jus de raisin vert) réduit à ~3 c. à s. → vinaigrette douce-acide sur crudités fines (asperge crue, fenouil, betterave à la mandoline)
-- jus d'orange sanguine + citron + sirop d'érable réduit 20-25 min → sirop pour salade amère (radicchio, trévise) + ricotta + grenade
-
-La réduction concentre le fruit et adoucit l'acide : idéal sur légumes crus tranchés fin.
-
-**Bouillon de légumes profond (sucs + pruneaux) [pattern outil]**
-
-## Pattern outil — Bouillon de légumes à la saveur profonde
-
-### Intention
-Donner du corps et de l'umami à un bouillon végétarien souvent fade : colorer les légumes avant de mouiller, et ajouter quelques PRUNEAUX pour une douceur ronde et une profondeur quasi carnée. Idem avec des croûtes de parmesan.
-
-### Pattern réutilisable
-```text
-légumes aromatiques (carotte, céleri, oignon, ail, céleri-rave) revenus jusqu'à coloration légère + herbes + poivre + laurier + QUELQUES PRUNEAUX → couvrir d'eau froide → mijoter ~1h30 en écumant → filtrer
-(variante umami : ajouter des croûtes de parmesan pendant la cuisson, puis les retirer)
-```
-
-### Points critiques
-- COLORER les légumes avant de mouiller = base de saveur
-- les pruneaux apportent rondeur et profondeur sans sucrer franchement
-- les croûtes de parmesan = levier umami gratuit (à congeler au fil du temps)
-- écumer et compléter en eau pour un bouillon net
-
-### Usage Gemini
-- proposer quand : base de soupe végé, risotto, braisé sans viande ; comment relever un bouillon de légumes fade
-- astuce : garder les croûtes de parmesan au congélateur pour cet usage
-
-**Pocher un coing (preparer ce fruit "qui fait peur")**
-
-Le coing est immangeable cru (dur, apre) : un pochage lent le transforme (chair rouge, parfumee, tendre).
-- Sirop : eau + sucre (~1,75 vol eau pour 1,5 vol sucre) + grains de poivre, zestes d'orange, laurier, jus de citron, un peu de vin rouge ; chauffer juste pour dissoudre le sucre.
-- Peler et epepiner, couper en quartiers/segments ; GARDER peau et coeurs et les ajouter au sirop (pectine + couleur rouge).
-- Cuire couvert au four doux 135 C (275 F) environ 2 h jusqu'a tendrete complete.
-- Le sirop restant se garde : chaud sur une glace vanille.
-Va avec : Gorgonzola/fromage bleu, viandes grasses (agneau, gibier, porc), salade amere + pistaches.
-
-**Polenta de mais frais (alternative douce a la semoule de mais)**
-
-Polenta faite de mais frais : plus douce et plus legere que la polenta de semoule, texture puree.
-- Egrener ~570 g de grains (env. 6 epis ; couteau, epi debout sur sa base).
-- Cuire les grains couverts d'eau, fremissement bas 12 min.
-- Mixer longuement au robot pour casser les enveloppes (ajouter un peu d'eau de cuisson si trop sec).
-- Remettre la puree + l'eau de cuisson, cuire en remuant 10-15 min jusqu'a consistance de puree de pommes de terre.
-- Finir avec beurre + feta.
-Servir avec une sauce relevee (ex. sauce aubergine-tomate) car la base est tres douce.
-
-**Beurre epice facon marocain pour pates/couscous**
-
-Condiment polyvalent (sur pates fraiches, couscous, legumes vapeur) :
-- Faire fondre beurre + huile d'olive, y cuire doucement des echalotes ~10 min jusqu'a ce qu'elles fondent et que le beurre brunisse legerement.
-- Hors feu, incorporer un melange d'epices : gingembre, paprika doux, coriandre, cannelle, cayenne, flocons de piment, curcuma + sel.
-- Verser sur les pates/grain, finir pignons grilles + menthe + persil.
-Contre-intuitif (pates + beurre d'epices marocain) mais efficace ; raccourci : bonnes pates seches + une pincee de safran dans l'eau de cuisson.
+Méthode "feu coupé", plus fiable que la cuisson continue (évite que le grain colle/brûle au fond).
+- revenir oignons/légumes + griller épices et fruits secs dans la matière grasse
+- ajouter le grain, mouiller (boulgour ~1 grain : 1,75 eau ; freekeh ~1 : 1,25 bouillon réduit)
+- boulgour : ébullition, couvrir hermétiquement, RETIRER DU FEU, gonfler ≥20 min
+- freekeh : ébullition puis 15 min feu minimal couvert + 5 min hors feu couvert ; tremper 5 min eau froide + rincer avant cuisson (enlève amertume/poussière de fumage)
+- égrener à la fourchette ; si sec, filet d'huile
+
+**Riz complet/rouge "comme des pâtes" + quinoa minute**
+
+Pour les grains rustiques, abandonner l'absorption, cuire à grande eau.
+- riz rouge de Camargue / complet : grand volume d'eau bouillante NON salée, ~20 min, égoutter
+- quinoa : grande eau, frémir 9 min seulement, égoutter passoire fine ; laisser sécher tiède avant d'assaisonner (évite la bouillie)
+- parfumer un riz nature : cuire avec des tiges de basilic (feuilles attachées), retirer après
+- salades de grains : étaler sur plateau pour refroidir vite et garder séparé
+
+**Polenta : point de cuisson et repère instant vs traditionnelle**
+
+- verser EN PLUIE dans le liquide bouillant, remuer constamment, feu minimal
+- temps : instantanée ~5 min ; traditionnelle jusqu'à 50 min
+- prête quand elle se décolle des parois mais reste coulante ; si elle sèche, rallonger bouillon/eau ("porridge épais")
+- finir hors feu : beurre + parmesan (ou féta)
+- restes : étaler sur surface huilée, figer, couper, poêler à l'huile le lendemain
+
+**Polenta de maïs frais (alternative douce à la semoule)**
+
+Plus douce et légère, texture purée.
+- égrener ~570 g de grains (~6 épis ; épi debout, couteau)
+- cuire couverts d'eau, frémissement bas 12 min
+- mixer longuement au robot (casser les enveloppes ; +eau de cuisson si sec)
+- remettre purée + eau, cuire en remuant 10-15 min (consistance purée de pdt)
+- finir beurre + féta ; servir avec une sauce relevée (base très douce)
+
+**Réussir des champignons bien dorés (poêlée)**
+
+- poêle large bien chaude, huile chaude, cuire en 2 fournées (ne pas surcharger)
+- ne presque pas remuer (laisser des plaques dorées se former)
+- ail, herbes, huile parfumée (truffe) ajoutés HORS FEU (l'ail ne brûle pas, herbes vives)
+- même logique que saisir une viande : trop plein = vapeur, pas de coloration
+
+**Fenouil poêlé caramélisé mais ferme**
+
+Caramélisation = glaçage de surface, pas cuisson à cœur — le fenouil garde du croquant.
+- trancher les bulbes en 1 cm (garder la base qui tient les couches)
+- saisir par lots, beurre + huile chaude, ~2 min/face jusqu'à doré clair, retirer
+- tout saisi : sucre + graines de fenouil + sel dans la poêle, 30 s
+- remettre, enrober 1-2 min dans le sucre fondu (ferme dedans, juste glacé)
+- finition T° ambiante : ail pressé + aneth + chèvre frais + zeste citron + pluches
 
 **Légume amer caramélisé cut-side down + fromage fondu (endive, fenouil)**
 
 Transformer un légume amer/anisé en gratin réconfortant.
 
-Formule :
-légume coupé en deux (endive) ou en tranches (fenouil) → poêle chaude beurre + huile + pincée de sucre → face coupée vers le bas, NE PAS BOUGER 3-5 min jusqu'à doré profond → transférer en plat → fromage fondu dessus → four jusqu'à bouillonnement → chapelure + poivre → four pour gratiner.
+```text
+légume coupé (endive en 2, fenouil tranché) → poêle chaude beurre + huile + pincée de sucre → face coupée vers le bas, NE PAS BOUGER 3-5 min jusqu'à doré profond → plat → fromage fondu dessus → four jusqu'à bouillonnement → chapelure + poivre → gratiner
+```
 
-Points critiques :
-- ne pas surcharger la poêle (sinon vapeur, pas de coloration ; cuire en deux fois)
-- ne pas remuer pendant la saisie : la croûte caramélisée contre l'amertume
-- sucre + beurre = caramélisation qui équilibre l'amer
+- critique : ne pas surcharger (sinon vapeur) ; ne pas remuer (croûte caramélisée contre l'amertume) ; sucre + beurre équilibrent l'amer
+- variantes : endive + gruyère/taleggio/raclette ; fenouil + chèvre + zeste citron + aneth
 
-Variantes : endive + gruyère (note piquante qui marche mieux avec l'amertume) / taleggio (plus crémeux) / raclette ; fenouil + chèvre frais + zeste citron + aneth.
+**Courgettes frites puis marinées au vinaigre (salade de pâtes)**
 
-**Blanchir en cascade : temps étagés, refroidir à l'eau glacée**
+- couper en tranches ~0,5 cm
+- frire à l'huile chaude en plusieurs fournées sans surcharger, ~3 min, doré 2 faces, RETOURNER UNE SEULE FOIS
+- égoutter, arroser de vinaigre de vin rouge encore tièdes (marinade express)
+- pâtes en salade : al dente, rincer à l'eau froide, puis assaisonner
+- sauce verte : mixer basilic + persil + huile + sel/poivre pour lier
 
-Cuire plusieurs légumes verts pour une salade de verts croquants.
+**Blanchir en cascade : temps étagés, eau glacée**
 
-Méthode :
-- blanchir chaque vert selon son temps propre, refroidir IMMÉDIATEMENT à l'eau glacée (fixe la couleur + stoppe la cuisson)
-- temps étagés courts : haricots verts ~4 min, pois mange-tout ~1 min, petits pois ~20 s
-- on peut réutiliser la même eau pour les verts à temps proches (ex. petits pois juste après les pois mange-tout) ; changer d'eau si un vert l'a trop colorée
+Cuire plusieurs verts pour une salade croquante.
+- blanchir chaque vert à son temps, refroidir IMMÉDIATEMENT à l'eau glacée (fixe la couleur, stoppe la cuisson)
+- temps courts étagés : haricots verts ~4 min, pois mange-tout ~1 min, petits pois ~20 s
+- réutiliser la même eau pour des verts à temps proches ; changer si trop colorée
 - bien égoutter et SÉCHER avant d'assaisonner (sinon vinaigrette diluée)
-
-Résultat : verts éclatants, croquants. Base idéale pour salade graines + herbes.
 
 **Graines entières grillées dans l'huile jusqu'à éclater, versées brûlantes**
 
-Réveiller graines entières (moutarde, coriandre, cumin, nigelle) pour assaisonner une salade.
-
-Méthode :
-- graines + huile dans une petite casserole, chauffer
-- attendre qu'elles commencent à ÉCLATER (popping)
-- verser huile + graines BRÛLANTES directement sur les légumes
-
-L'huile chaude libère les arômes ET sert de vinaigrette tiède. Ajouter ensuite les aromates crus (oignon, piment, ail, zeste, herbes).
-
-Différent du grillage à sec : ici l'huile devient parfumée et fait partie de la sauce. (Variante du pattern outil 'huile infusée' : versée chaude sur cru.)
-
-**Ail confit caramélisé [pattern outil]**
-
-## Pattern outil — Ail confit caramélisé
-
-### Intention
-Transformer des gousses d'ail entières en perles fondantes, douces, enrobées d'un sirop foncé. Condiment puissant pour tartes, légumes rôtis, pâtes, tartines.
-
-### Pattern réutilisable
-```text
-gousses pelées blanchies 3 min (enlève l'âcreté) → égoutter → revenir 2 min à l'huile → balsamique + eau → mijoter 10 min → ajouter sucre + romarin/thym + sel → réduire jusqu'à gousses enrobées d'un caramel foncé
-```
-
-### Points critiques
-- BLANCHIR d'abord : enlève le piquant cru, garantit la douceur
-- réduire jusqu'à sirop, pas jusqu'à brûlé (amertume)
-- balsamique + sucre = base sucrée-acide qui caramélise
-
-### Usage Gemini
-- proposer quand : tarte/quiche, garniture de légumes rôtis, tartine, base de sauce
-- se garde plusieurs jours au frigo dans son sirop
-
-**Pattern outil — Vinaigrette mélasse de grenade (échalote + moutarde)**
-
-## Pattern outil — Vinaigrette mélasse de grenade
-
-**Intention** : vinaigrette signature sucrée-acide-fruitée, montée à l'échalote, qui réveille salades fruit-fromage, légumes rôtis, grains, lentilles.
-
-### Formule
-```text
-échalote ciselée + moutarde (Dijon) + mélasse de grenade + sel/poivre → fouetter vigoureusement en versant l'huile d'olive en filet → émulsion homogène
-```
-
-### Variantes
-- ajouts : trait de jus de citron, pincée de sumac, grains de grenade frais en finition
-- supports : roquette + fruit + fromage frais, betterave rôtie, lentilles, grains, crudités
-- simplifiée : mélasse de grenade + huile + sel (sans moutarde)
-
-### Points critiques
-- monter en émulsion (huile en filet) pour qu'elle nappe
-- doser la mélasse : très concentrée, peu suffit
-- l'échalote macère dans l'acide pendant qu'on fouette (s'adoucit)
-
-### Usage Gemini
-- proposer : « vinaigrette hors de l'ordinaire », « j'ai de la mélasse de grenade », « salade fromage-fruit ou betterave »
+Réveiller graines entières (moutarde, coriandre, cumin, nigelle) pour assaisonner une salade. Variante du pattern 022 (huile infusée), mais versée chaude sur du cru.
+- graines + huile dans une petite casserole, chauffer jusqu'à ce qu'elles ÉCLATENT (popping)
+- verser huile + graines BRÛLANTES directement sur les légumes (l'huile chaude libère les arômes ET sert de vinaigrette tiède)
+- ajouter ensuite les aromates crus (oignon, piment, ail, zeste, herbes)
 
 **Aubergine brûlée : chair fumée pour dip ou plat**
 
-Technique signature : aubergine entière brûlée pour récupérer une chair fumée (base de dip, salade, plat).
-
-Méthode :
-- TOUJOURS percer l'aubergine en plusieurs points (sinon risque d'explosion sous le gril ; Ottolenghi a reçu des lettres de lecteurs à ce sujet)
-- sur gaz (le plus efficace) : poser directement sur la flamme, 12-15 min, tourner souvent à la pince, jusqu'à peau noircie partout et chair molle/fumée ; surveiller pour éviter qu'elle prenne feu
-- sur électrique : percer, plaque tapissée d'alu, sous gril chaud ~1h, tourner plusieurs fois, l'aubergine doit se dégonfler complètement
-- fendre, récupérer la chair à la cuillère en évitant la peau noire
+- TOUJOURS percer l'aubergine en plusieurs points (risque d'explosion sous le gril)
+- sur gaz : directement sur la flamme, 12-15 min, tourner souvent, peau noircie partout + chair molle
+- sur électrique : alu, sous gril chaud ~1h, tourner, l'aubergine se dégonfle complètement
+- fendre, récupérer la chair en évitant la peau noire
 - ÉGOUTTER la chair en passoire 15-30 min avant d'assaisonner (sinon trop d'eau)
+- usages : dip tahini, croquettes, lentilles + aubergine, sauce
 
-Usages : dip tahini, croquettes, lentilles + aubergine, sauce.
+**Filet de poisson à peau croustillante (poêle)**
+
+Poser peau dessous dans l'huile très chaude et PRESSER avec une spatule les premières secondes (empêche la peau de se rétracter). Cuire l'essentiel côté peau (saumon ~3 min, maquereau ~2 min) jusqu'à dorure, puis retourner brièvement pour finir la chair (1-4 min).
+- ne pas bouger le filet tant que la peau n'est pas dorée ; réduire le feu après le retournement
+- proposer : saumon, maquereau, bar, dorade à la poêle
+
+**Panure noix de coco grillée pour poisson [complète Pattern 013]**
+
+Variante de panure pour bâtonnets de poisson (plaît aux enfants).
+
+```text
+poisson blanc ferme mariné court (lime + crème de coco + sel, 1 h MAX) → essuyer → tremper dans beurre fondu → rouler dans noix de coco grillée à sec + panko + chili broyé + sel → gril, retourner à mi-cuisson, 5-6 min
+```
+
+- critique : griller la coco À SEC d'abord (sinon pas de goût) ; mariner 1 h max puis essuyer (sinon la panure n'adhère pas) ; chili doux ou omis pour enfants ; si dore trop vite, finir sur chaleur résiduelle
 
 **Tempérer le yaourt pour une soupe chaude qui ne tranche pas**
 
-Faire une soupe chaude à base de yaourt sans qu'il graine.
-
-Méthode (le geste qui sauve) :
+Soupe chaude à base de yaourt sans qu'il graine.
 - fouetter yaourt + ail + 1 œuf dans un grand bol résistant à la chaleur
-- ajouter UNE louche de soupe chaude en fouettant, puis une autre, progressivement, jusqu'à incorporer au moins la moitié de la soupe (le froid + chaud d'un coup = ça tranche)
+- ajouter UNE louche de soupe chaude en fouettant, puis une autre, progressivement (≥ la moitié de la soupe)
 - reverser ce mélange tempéré dans la casserole
-- réchauffer à feu moyen en remuant CONSTAMMENT, sans jamais bouillir
+- réchauffer feu moyen en remuant CONSTAMMENT, sans jamais bouillir (l'œuf stabilise + donne du corps)
+- finir : herbes, zeste citron, filet d'huile
 
-L'œuf stabilise le yaourt et donne du corps. Finir : herbes, zeste citron, filet d'huile.
+**Réduction sucrée-acide comme alternative au vinaigre (verjus, agrume)**
 
-Applicable à toute soupe yaourt chaude.
+Vinaigrette à base d'un liquide acide RÉDUIT, plus rond et sirupeux qu'un vinaigre brut : réduire à frémissement jusqu'à sirop, refroidir, monter à l'huile.
+- verjus réduit (~3 c. à s.) → vinaigrette douce-acide sur crudités fines (asperge crue, fenouil, betterave mandoline)
+- jus d'orange sanguine + citron + sirop d'érable réduit 20-25 min → sirop pour salade amère (radicchio, trévise) + ricotta + grenade
 
-### tip
+**Pocher un coing (fruit qui "fait peur")**
 
-**Préférer les tomates semi-séchées aux tomates séchées en salade**
+Immangeable cru (dur, âpre), un pochage lent le transforme (chair rouge, parfumée, tendre).
+- sirop : eau + sucre (~1,75 eau : 1,5 sucre) + poivre en grains, zestes d'orange, laurier, jus de citron, un peu de vin rouge ; chauffer pour dissoudre
+- peler, épépiner, couper en quartiers ; GARDER peau et cœurs dans le sirop (pectine + couleur rouge)
+- cuire couvert au four doux 135°C ~2 h jusqu'à tendreté complète
+- sirop restant : chaud sur une glace vanille
+- va avec : bleu/gorgonzola, viandes grasses (agneau, gibier, porc), salade amère + pistaches
 
-Pour les salades : éviter les tomates séchées au soleil (dures, agressives en goût et texture). Préférer les tomates SEMI-séchées (mi-confites, moelleuses, type 'sun-blushed'/'sun-kissed').
+**Beurre épicé façon marocain (pâtes/couscous)**
 
-On peut les faire soi-même et les conserver dans l'huile d'olive, ou acheter les versions commerciales moelleuses. Elles apportent concentration et umami sans le côté coriace qui déséquilibre une salade de feuilles.
+Condiment polyvalent (pâtes fraîches, couscous, légumes vapeur).
+- fondre beurre + huile, y cuire doucement des échalotes ~10 min (elles fondent, le beurre brunit un peu)
+- hors feu, incorporer : gingembre, paprika doux, coriandre, cannelle, cayenne, flocons de piment, curcuma + sel
+- verser sur le grain, finir pignons grillés + menthe + persil
+- raccourci : bonnes pâtes sèches + pincée de safran dans l'eau de cuisson
+
+**Panko grillé à sec pour casser la lourdeur d'une pâte crémeuse**
+
+- griller du panko à sec, poêle feu moyen, jusqu'à doré
+- le mêler à une gremolata (zeste citron + ail + persil), éparpiller GÉNÉREUSEMENT au service
+- sauce crème : la garder coulante, détendre avec de l'eau de cuisson réservée
+- sauce vin-crème : réduire le vin des ⅔ AVANT d'ajouter la crème (concentre sans soupe)
+
+**Carré de chocolat noir comme exhausteur umami dans un mijoté [complète Pattern 015]**
+
+Un petit morceau de chocolat noir (70 %) en fin de mijotage d'un ragoût tomate-épices (poulet, agneau) apporte profondeur et umami sans goût sucré identifiable (logique du mole).
+- ~15 g pour ~6 portions, ajouté en fin de cuisson à découvert, laisser fondre
+- s'associe bien à harissa + paprika fumé + poivrons rôtis
+- proposer : "mijoté qui manque de profondeur", touche secrète
+
+**Extraire l'eau des légumes râpés crus avant de les lier [complète Pattern 013]**
+
+Pour pain de viande, boulettes, galettes avec légumes crus râpés (courgette, carotte, oignon, tomate) : hacher au robot puis PRESSER fort dans une passoire avant de mélanger. Sinon l'eau relâchée détrempe et empêche la tenue.
+- hacher à la taille du haché (consistance homogène)
+- même principe que les galettes de légumes verts (presser petits pois, courgettes)
+
+**Raffermir les croquettes/galettes au frigo avant cuisson [complète Pattern 013]**
+
+Façonner puis réfrigérer 15 min minimum (ou jusqu'au lendemain) évite l'effondrement à la poêle et permet de tout préparer la veille.
+- cuire à la poêle huile bien chaude (2-3 min/face) ou poêle + four ; on peut aussi cuire la veille et réchauffer
+- mélange lié au robot par PULSATIONS courtes (pâte grossière, pas une purée)
+
+---
+
+## Récupérés après élagage (patterns distincts réinjectés)
+
+**Pattern — Poulet mariné mijoté/rôti dans sa marinade aigre-douce (Marbella / miso-gingembre)**
+
+Plat de réception zéro-stress : tout marine à l'avance, le four fait le reste, la marinade devient sauce.
+```text
+cuisses de poulet (peau, entaillées jusqu'à l'os) + marinade aigre-douce-salée → mariner 1-2 j frigo → étaler sur plaque + liquide (vin/bouillon) → four ~180-200°C 50-70 min, badigeonner 2-3× → servir avec tous les sucs
+```
+Familles de marinade : Marbella (ail-origan-vinaigre + olives vertes + câpres + dattes + laurier + vin blanc + mélasse de dattes) ; miso-gingembre-lime (miso blanc + mirin + érable + soja + gingembre + ail + lime) ; citron confit-thym-ail en beurre sous la peau.
+Clés : entailler jusqu'à l'os (pénétration + cuisson homogène) ; sortir du frigo 30 min avant ; équilibre obligatoire d'un sucré (datte/sirop) + un acide (vinaigre/lime) + un salé (olive/câpre/miso). Proposer quand : « recevoir sans stress », « poulet à préparer la veille ».
+
+**Pattern — Riz cuit au four sous papier scellé (méthode infaillible)**
+
+Réussir le riz à tous les coups, sans surveillance, et pour grandes quantités.
+```text
+riz basmati + sel + beurre fondu + eau BOUILLANTE dans un plat à haut bord → couvrir HERMÉTIQUEMENT d'alu bien scellé → four 220-250°C 25 min → repos 10 min à couvert → aérer à la fourchette
+```
+Ratios : basmati ~1:2 (poids), sel ~¾ c. à thé, beurre ~50 g. Aromates posés DESSUS avant cuisson (menthe, cannelle, thym), retirés après.
+Clés : eau déjà bouillante (jamais froide) ; sceller PARFAITEMENT (toute fuite de vapeur = riz raté) ; ne pas ouvrir avant la fin du repos.
+Variante riz + légumes confits dessous : rôtir tomates cerises + ail + échalotes + herbes ~1 h à 180°C, parsemer le riz cru dessus sans mélanger, eau bouillante, sceller, 25 min.
+
+**Pattern — Tarte/quiche salée aux légumes (appareil œuf-crème + fromage)**
+
+Légumes pré-cuits dans une pâte croustillante et un appareil œuf-crème. Se mange tiède, voyage bien.
+```text
+pâte (brisée/feuilletée) cuite à blanc dorée + légumes pré-cuits (rôtis ou fondus) + fromage en morceaux + appareil (œufs + crème liquide + crème fraîche + sel, ~2 œufs/200 ml crème) versé pour combler les vides → four 160-180°C jusqu'à prise et dorure
+```
+Variantes : poivrons-aubergine-courgette rôtis ; poireau fondu ; ail confit ; épinards-féta. Fromages : 2 chèvres, gorgonzola, féta-ricotta, gruyère.
+Clés : cuire la pâte à blanc lestée AVANT garniture (sinon fond détrempé) ; pré-cuire les légumes pour évacuer l'eau ; garder fromage apparent au-dessus pour gratiner ; four pas trop chaud (sinon appareil soufflé/granuleux).
+
+**Pattern outil — Salsa froide d'aromates à l'huile chaude versée**
+
+Condiment vif : verser une huile JUSTE chauffée sur des aromates crus — la chaleur les attendrit et libère les arômes sans les cuire. Topping universel (tomates, poulet rôti, tartine, riz).
+```text
+aromates frais crus (oignon vert + gingembre pilé avec le sel + piment) → verser dessus une huile neutre juste chauffée → +acide (vinaigre/lime) → repos → cuiller sur le plat
+```
+Variantes : oignon vert-gingembre-vinaigre de Xérès (Chinatown) ; +piment+coriandre (asiatique) ; échalote-piment-huile-citron.
+Clés : huile JUSTE chaude, pas fumante (on attendrit, on ne frit pas) ; piler le gingembre avec le sel ; se garde 5 j au frigo, doubler. Distinct de l'huile infusée à feu doux : ici l'huile chaude va aux aromates crus.
+
+**Pattern outil — Oignon caramélisé en lot (base aromatique à garder)**
+
+Geste de prévoyance : caraméliser une grande quantité d'oignon une fois, garder, monter un plat en 5 min.
+```text
+oignons émincés + huile → feu moyen 9-15 min jusqu'à tendre et bien doré → (option +harissa/épice 1 min) → refroidir → bocal frigo 2-5 j
+→ usage : œufs brouillés, omelette, frittata, salade de couscous, tofu brouillé, base de mijoté
+```
+Variantes : nature (universel) ; +harissa rose ; +cumin/ras-el-hanout (grains).
+Clés : doubler/quadrupler systématiquement (effort marginal nul) ; l'épice en fin, 1 min, après caramélisation ; bien refroidir avant le bocal. Réflexe dès qu'une recette demande de caraméliser de l'oignon.
+
+**Pattern outil — Topping de graines/noix grillées sucrées-épicées**
+
+Transformer graines (courge, citrouille) ou noix en topping croustillant sucré-salé-piquant pour soupes, salades, légumes rôtis. Se fait en lot, garde une semaine.
+```text
+graines/noix + sirop d'érable (ou miel) + chili broyé + sel → étaler sur plaque → four ~15 min jusqu'à doré → REFROIDIR complètement (durcit en croustillant) → bocal hermétique 1 sem.
+```
+Variantes : graines de citrouille-érable-chili (soupe de courge) ; amandes effilées-paprika (poêle) ; noix-miel-sumac.
+Clés : doubler/tripler ; refroidir complètement (mou à chaud) ; chili + sel équilibrent le sucre (sinon écœurant) ; amandes à la poêle brûlent vite. Réflexe dès qu'un plat manque de texture.
+
+**Pattern outil — Beurre composé crémeux à tartiner (avocat + beurre)**
+
+Enrichir une purée crémeuse (avocat surtout) au beurre ramolli pour une tartinade ultra-onctueuse. Sur pain grillé, fond sur viande chaude, se prépare la veille.
+```text
+avocat très mûr + beurre TRÈS MOU (jamais fondu) + zeste/jus agrume + sel → mixer lisse → incorporer herbes hachées → repos frigo 10 min → tartiner ou pocher
+```
+Variantes : avocat-beurre-lime-estragon-aneth ; beurre-herbes-ail (viande/poisson) ; beurre-miso-noisette (légumes rôtis).
+Clés : beurre TRÈS mou, JAMAIS fondu (se séparerait) ; avocat vraiment mûr (sinon grumeleux) ; préparable 1 j à l'avance, séparé des garnitures. Distinct du beurre composé en boudin (maître d'hôtel).
+
+**Pattern outil — Caviar (purée rustique) de légume rôti**
+
+Légume rôti pressé et écrasé à la fourchette en tartinade rustique — entre baba ganoush et tapenade. Tartine, mezze, accompagnement de viande.
+```text
+légume (courgette, aubergine) rôti avec herbes sèches + huile → PRESSER pour extraire l'eau → ajouter ail rôti pressé → écraser à la FOURCHETTE (rustique, pas lisse) → herbes fraîches + citron au moment de servir
+```
+Variantes : courgette-thym-menthe-aneth ; aubergine-cumin (vers baba ganoush) ; +tahini ou yaourt.
+Clés : extraire l'eau du légume (sinon liquide) ; écraser à la fourchette (pas mixé) ; ail rôti en chemise puis pressé ; herbes + citron seulement au service ; préparable 1 j à l'avance sans herbes/citron.
+
+**Pattern — Tofu brouillé épicé (alternative végane aux œufs brouillés)**
+
+Reproduire la texture d'œufs brouillés sans œuf — tofu soyeux écrasé dans une base aromatique épicée, sur pain grillé.
+```text
+oignons caramélisés + pâte aromatique épicée (harissa, curcuma, cumin) → tofu SOYEUX égoutté écrasé au PRESSE-PURÉE + sel → réchauffer 2 min → sur pain au levain grillé + salade fraîche acidulée à côté
+```
+Variantes : tofu-harissa-coriandre ; tofu-curcuma-cumin (style « œufs » indien) ; garniture échalotes frites, salade avocat-concombre-lime.
+Clés : tofu SOYEUX (pas ferme) pour la texture ; écraser au presse-purée (pas au fouet) ; saler franchement (tofu neutre) ; ne pas trop cuire (rend de l'eau). Si seul tofu ferme dispo → basculer vers émietté sauté.
+
+**Pattern — Œufs braisés en nids dans une base de légumes verts**
+
+Variante « sèche » de la shakshuka — base de verts braisés où l'on creuse des nids pour pocher les œufs à couvert. Brunch/souper léger, 30 min.
+```text
+légume vert fondu (poireau/épinard/blette) + beurre-huile + aromate (cumin grillé, ail, citron confit) + bouillon réduit PRESQUE À SEC → creuser des nids à la cuillère → 1 œuf par nid + féta autour → couvrir 4-5 min (blanc pris, jaune coulant) → huile-zaatar
+```
+Clés : réduire le bouillon presque à sec avant les œufs (sinon ils flottent et ne cuisent pas) ; creuser de vrais nids au dos d'une cuillère ; cuire À COUVERT (la vapeur cuit le dessus du jaune). Délta vs shakshuka du corps = technique des nids + bouillon réduit à sec. Base verte préparable la veille.
+
+**Pattern — Pain rapide salé sans levure ni pétrissage**
+
+Pain-gâteau salé à la poudre à pâte/bicarbonate, sans levée ni pétrissage. Texture entre pain et cake, garni de légume râpé + fromage + graines. Se congèle, se grille.
+```text
+secs (farine + poudre à pâte + bicarbonate + sel + graines) // humides (œufs + huile + crème sure/yaourt + un peu de sucre/miel) → légume râpé (betterave, courgette, maïs) + fromage en morceaux → mélanger SANS EXCÈS → moule → four moyen 40-80 min → graines sur le dessus
+```
+Variantes : betterave-carvi-chèvre-graines de courge ; maïs-cheddar-féta-jalapeño (cornbread en poêle fonte).
+Clés : ne pas trop mélanger (mie caoutchouteuse) ; fromage en morceaux délicatement ; cornbread = noircir le maïs à sec avant ; se grille bien rassis, congèle 1 mois.
+
+**Pattern — Salade de fruits crus en registre salé (acide + herbe + épice)**
+
+Traiter un fruit cru comme un légume de salade — bâtonnets nets, agrume vif, herbes, épice inattendue. Accompagnement d'été qui coupe le gras d'une viande grillée.
+```text
+fruit ferme en bâtonnets (melon d'eau, pomme verte, pêche) + agrume (lime/citron) + huile + aromate surprise (citronnelle, cinq-épices, échalote macérée) + herbes (menthe+coriandre) + graines grillées → assembler MINUTE, JETER le jus au fond du bol
+```
+Variantes : melon d'eau + pomme verte + lime + citronnelle + graines de moutarde ; pêche + framboise écrasée + cinq-épices + radicchio. Garniture : arachides/pistaches/cajou grillées salées.
+Clés : fruits PAS trop mûrs (tiennent mieux, moins sucré) ; assembler juste avant de servir ; saler franchement (c'est une salade, pas un dessert).
+
+**Pattern — Salade de rubans de légume cru massés à l'huile infusée**
+
+Légume cru (courgette) en rubans fins, massé avec une huile parfumée pour l'assouplir sans cuisson. Garde du croquant.
+```text
+huile infusée à part (thym/ail/zeste, feu doux 8 min, filtrée) → légume en rubans fins (économe/mandoline) + noix + jus citron + sel → MASSER 1 min à la main (le légume se brise un peu) → herbes en finition
+```
+Variantes : courgette-thym-noix-basilic ; carotte/fenouil/asperge crue en rubans ; huiles ail-zeste, piment, cumin.
+Clés : masser physiquement avec les doigts (assouplit, fait pénétrer l'huile) ; saler et citronner AU DERNIER MOMENT (sinon rend de l'eau) ; huile infusée préparable 3 j à l'avance. Distinct du slaw massé à l'acide : ici rubans + huile aromatique.
+
+**Pattern — Grain monté à la pâte d'herbes (green couscous)**
+
+Un grain devient vert et parfumé par une PÂTE d'herbes mixée à l'huile (pas des herbes ciselées en surface), incorporée au grain tiède. Saveur diffuse dans toute la bouchée.
+```text
+grain gonflé (couscous/boulgour) + pâte d'herbes mixée (3-4 herbes + huile) incorporée à la fourchette + oignon fondu au cumin + croquant (pistaches/amandes) + oignon vert + piment frais + roquette hachée → température ambiante
+```
+Variantes : pâte persil+coriandre (dominante)+estragon+aneth+menthe ; grains couscous/boulgour/quinoa/freekeh ; +féta (plus consistant).
+Clés : mixer la pâte BIEN lisse à l'huile avant incorporation ; oignon-cumin tiède pas brûlant ; servir à T° ambiante (herbes restent vives). Repose sur la quantité d'herbes.
+
+**Pattern — Polenta crémeuse en lit + garniture chaude**
+
+La polenta molle sert de base apaisante (comme une purée) sous une garniture intense. Deux gestes : polenta enrichie + poêlée/sauce chaude au centre.
+```text
+bouillon bouillant + polenta en pluie → cuire en remuant jusqu'à porridge épais (se détache des parois mais reste coulant) → HORS feu : parmesan/féta + beurre + herbe → étaler en lit → garniture chaude au centre (champignons à l'ail-estragon-truffe, sauce aubergine-tomate)
+```
+Variantes : enrichissement parmesan+beurre (+Taleggio gratiné au gril) ou féta ; option gratin (couvrir de fromage, gril, puis garnir) ; restes étalés froids puis poêlés (croûtons).
+Clés : fromage/beurre HORS feu ; garniture chaude et juteuse (ses jus = la sauce) ; rallonger au bouillon si ça sèche ; servir IMMÉDIATEMENT (fige). Distinct de la polenta de maïs frais.
+
+**Pattern — Couscous d'hiver (racines rôties aux épices entières)**
+
+Couscous chaud copieux où les racines sont rôties avec des épices ENTIÈRES (cannelle, badiane, laurier) pour un fond profond, relevé en finition par harissa + citron confit.
+```text
+racines + courge + grelots + épices entières (cannelle, badiane, laurier) + épices moulues + huile → four en deux temps → ajouter abricots secs + pois chiches AVEC leur jus → couscous safrané gonflé au beurre → FINITION : harissa + citron confit haché mélangés aux légumes + coriandre généreuse
+```
+Variantes : carotte, panais, navet, grelots, butternut ; fruits secs abricots/dattes/raisins.
+Clés : rôtir en deux temps (dures d'abord, courge ensuite) ; garder le jus des pois chiches ; harissa + citron confit incorporés EN FIN (pas en cuisson) ; couscous gonflé à part au bouillon safrané, aéré à la fourchette.
+
+**Pattern — Légumes char-grillés (poêle striée/plancha) + huile d'herbes vive**
+
+Griller les légumes sur poêle striée/plancha brûlante leur donne un goût presque carné (fumée + parties brûlées) ; une huile d'herbes crue versée sur les légumes chauds les imprègne.
+```text
+légumes tranchés huilés + salés → poêle striée/gril TRÈS chaud (5 min de chauffe), marques nettes des 2 côtés sans cuire à cœur → huile d'herbes mixée crue (herbes + huile + ail + citron + sel) versée sur les légumes CHAUDS → tiédir et infuser
+```
+Variantes : courgette, aubergine, chou-rave, fenouil, asperge, poivron, carotte ; fromage grillé à part (halloumi, manouri) ; huiles persil-ail-citron, basilic, coriandre-lime ; finitions pignons, parmesan, sumac.
+Clés : gril vraiment brûlant (sinon les légumes suent, pas de marques) ; huiler les légumes pas la poêle, ne pas surcharger ; l'aubergine peut finir au four ; verser l'huile d'herbes à chaud (meilleure absorption).
+
+**Pattern outil — Panure croustillante aux graines + épices (schnitzel revisité)**
+
+Panure qui croustille mieux et parfume : panko enrichi de graines variées et d'épices. Polyvalente viande/poisson/légume.
+```text
+farine salée-poivrée → œuf battu → panko + graines (sésame blanc+noir, tournesol concassé, coriandre broyée) + épices (curcuma, cayenne) + sel → frire dans ~½ cm d'huile chaude, retourner à mi-cuisson, 5-6 min jusqu'à doré
+```
+Clés : aplatir la viande (~1 cm) entre deux films pour cuisson rapide ; huile BIEN chaude (sinon la panure boit l'huile) ; frire par petites quantités (ne pas faire chuter la T°) ; le mélange panko+graines se prépare en grande quantité (garde ~1 mois en bocal) ; marche aussi sur lanières de poisson blanc, bâtonnets de butternut.
+
