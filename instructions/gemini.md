@@ -9,8 +9,7 @@ CONFIGURATION — remplacer les placeholders avant usage :
   {{RECIPE_PREFIX}}   = préfixe de nommage des fiches recette    (ex. "Recette :")
   {{PROFILE_PREFIX}}  = préfixe du document de profil cuisinier  (ex. "Profil_Cuisinier_")
 
-Note : ce prompt évite tout vocabulaire de "contournement de garde-fous" qui fait échouer
-l'enregistrement d'un Gem Gemini. Ne pas réintroduire de formulations type "override/MANDATED/faux positifs".
+Note : prompt rédigé en langage neutre afin de s'enregistrer sans erreur dans Gemini.
 -->
 
 ## 1. RÔLE PRINCIPAL & PÉRIMÈTRE
