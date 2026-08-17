@@ -283,6 +283,7 @@ Format : ingrédient A + B + C → registre culinaire
 - Les cuisines d'Amérique latine, d'Asie du Sud et d'Afrique sont sous-représentées.
 - Les intensités relatives (affinité forte vs faible) se basent sur les indications du Flavor Bible (MAJUSCULES dans l'original) et sur l'expérience culinaire documentée.
 - Pour les pairings de vin, le module n'est pas la bonne source.
+- Les ingrédients d'occasion ou rares (gibier, abats, foie gras, huîtres, truffe, yuzu, verjus…) ont été déplacés hors du Gem (fichier local `gem-7-annexe-occasions.md`) : si l'utilisateur demande une association absente d'ici, le signaler plutôt qu'extrapoler.
 
 ---
 
@@ -292,53 +293,17 @@ _Sources : The Flavor Bible, The Flavor Thesaurus. Élagué pour ne garder que l
 
 ### PROTÉINES
 
-### Caille
-Affinités fortes : **THYM**, **HUILE**, **VINAIGRE (balsamique, vin rouge, xérès)**
-Solides : ail, bacon, champignons sauvages, échalotes, estragon, figues, foie gras, grenade, marjolaine, oignons grelots, orange, pancetta/prosciutto, polenta, raisin, sauge, sumac
-Note : viande délicate — éviter le romarin (préférer lavande, sauge, thym, marjolaine). Cuisson rapide ou confit.
-Combos : caille + bacon + ail + citron / caille + figues + vinaigrette / caille + roquette + grenade
-
 ### Poitrine de porc / porc à mijoter
 Affinités fortes : ail, sauce soja, anis étoilé, gingembre, pommes
 Solides : agrumes, bacon, betteraves, carottes, céleri, cumin, fenouil, laurier, légumes racines, oignons, paprika, pommes de terre, saké, thym, vinaigre
 Note : morceau gras = cuisson lente (braisé, confit). Les saveurs vives (agrumes, vinaigre, anis, soja) coupent le gras.
 Combos : poitrine + soja + gingembre + anis étoilé / poitrine + pommes + fenouil
 
-### Foie de veau
-Affinités fortes : **OIGNONS**, **VINAIGRE** (balsamique, vin rouge, xérès)
-Solides : ail, bacon/pancetta, beurre, câpres, cerfeuil, ciboulette, crème, échalotes, figues, citron, persil, pommes, roquette, sauge
-Note : cuire très brièvement (~1 min/face), sinon durcit.
-Combos : foie de veau + oignons + beurre (à la lyonnaise) / foie de veau + sauge + beurre / foie de veau + figues + oignons + vinaigre
-
-### Foie (volaille, veau, agneau)
-Affinités fortes : **OIGNON**, **LARD/BACON**, **POMME**, **AIL**
-Solides : betterave, brandy/madère, paprika, persil, polenta, raisin, sauge, thym, yaourt + épices
-Note : partenaires robustes pour équilibrer le goût ferreux ; oignon fondu contraste l'amertume. Cuisson COURTE. Trempage 1 h dans du lait adoucit un foie trop fort.
-Combos : foie + oignons fondus + polenta (fegato alla veneziana) / foies de volaille + ail + thym + brandy (pâté)
-
 ### Boudin noir
 Affinités fortes : **POMME**, **OIGNON**, **POMME DE TERRE**, **LARD/BACON**
 Solides : chocolat noir, coquilles Saint-Jacques, foie, fèves, légumes-racines doux, œuf, poireau, porc, rhubarbe
 Note : saveurs automnales ; sert d'umami pour enrichir un plat de viande. Pomme/rhubarbe acidulées coupent sa richesse.
 Combos : boudin + pomme caramélisée + oignon / boudin + poireau + pomme de terre (galettes) / boudin + Saint-Jacques (terre-mer)
-
-### Lapin
-Affinités fortes : **AIL**, **MOUTARDE (Dijon)**, **BACON/LARD fumé**, **OIGNONS**, **POIVRE**, **THYM**, **VINAIGRE**, **VIN (rouge/blanc sec)**
-Solides : carottes, cidre, échalotes, estragon, haricots blancs, laurier, marjolaine, olives vertes, pancetta, pruneaux, romarin, sauge
-Note : viande maigre qui sèche vite — braiser/mijoter, larder. La moutarde est le grand classique français.
-Combos : lapin + moutarde + vin rouge / lapin + bacon + romarin / lapin + olives + échalotes + marjolaine
-
-### Gibier (chevreuil, sanglier, lièvre)
-Affinités fortes : genièvre, vin rouge, champignons sauvages, ail
-Solides : airelles/canneberges séchées, cannelle/quatre-épices, cayenne, cerises, châtaignes, chou rouge, clou de girofle, gin, lentilles, Madère, moutarde Dijon, oignons, persil, poivre noir, sirop d'érable, vinaigre
-Note : girofle = richesse, genièvre = épice signature. Un fruit aigre-doux (airelle, cerise) équilibre.
-Combos : gibier + genièvre + vin rouge / gibier + champignons sauvages + ail / gibier braisé + airelles + chou rouge
-
-### Foie gras (occasions)
-Affinités fortes : **POMMES**, fruits acidulés (poire, figue, cerise, abricot), vinaigre balsamique/cidre, poivre noir, Sauternes/porto
-Solides : Armagnac/cognac, brandy, cannelle/quatre-épices, endive, fraises, gingembre, poireaux, mangue, miso, oignon, pistache, prunes, raisin, rhubarbe, sel, truffe blanche
-Note : fruit acidulé + sel/acide tranchent le gras. Sucre en touche, pas en dominante.
-Combos : foie gras + cerises + balsamique / foie gras + fraises + poivre noir / foie gras + cerises + pistaches
 
 ### POISSONS & FRUITS DE MER
 
@@ -354,36 +319,7 @@ Solides : aïoli, amandes, anchois, basilic, câpres, chorizo, citron vert, ging
 Note : cuisson soit très courte (saisie, frit) soit très longue (mijoté) — entre les deux = caoutchouteux.
 Combos : calamars + ail + citron + persil (a la plancha) / calamars + aïoli + anchois (frits)
 
-### Huîtres
-Affinités fortes : **CITRON**, **POIREAUX**, **ÉCHALOTES**, **CRÈME**, **POIVRE**, **VINAIGRE (champagne, vin)**
-Solides : bacon, basilic, beurre, cerfeuil, champagne, ciboulette, citron vert, concombre, fenouil, gingembre, persil, piment, raifort, saumon fumé, épinards
-Note : crues, simple — citron ou mignonette (échalote + vinaigre + poivre). Chaudes : pochées/gratinées à la crème.
-Combos : huîtres + échalotes + vinaigre (mignonette) / huîtres + crème + raifort / huîtres + caviar + poireaux
-
-### Lotte (poissons fermes à chair blanche)
-Affinités fortes : **AIL**, **CITRON**, **VIN BLANC SEC**, **HUILE D'OLIVE**
-Solides : bacon/pancetta, basilic, beurre, câpres, chou, curry, fenouil, gingembre, haricots blancs, laurier, moules, olives vertes, oignons, paprika, persil, romarin, safran, thym, tomates
-Note : chair charnue qui supporte le braisé et les saveurs robustes (curry, bacon, chou).
-Combos : lotte + haricots blancs + fenouil + ail + safran + tomates / lotte + bacon + chou + pommes de terre / lotte + curry + moules + safran
-
-### Mérou / poisson blanc à griller
-Affinités fortes : citron/lime, ail, huile d'olive, tomates
-Solides : anchois, bacon, câpres, cayenne, cèpes, gingembre, olives picholine, persil, romarin, sauce soja, sauge, sésame, thym, vinaigre balsamique/xérès, vin blanc
-Note : registre méditerranéen ou asiatique (gingembre, soja, sésame) selon l'envie.
-Combos : mérou + ail + huile d'olive + tomates / mérou + gingembre + sauce soja + sésame
-
 ### LÉGUMES
-
-### Courge d'été / pâtisson
-Solides : ail, aubergine, basilic, beurre, chèvre, cannelle, coriandre, crème, cumin, aneth, gruyère, huile d'olive, maïs, menthe, mozzarella, noix, oignons, origan, parmesan, pacanes, persil, piment, romarin, sauge, saucisse italienne, thym, tomates, yaourt
-Note : se comporte comme la courgette — eau abondante, dégorger ou saisir vif.
-Combos : courge d'été + ail + basilic + parmesan / courge d'été + maïs + crème + piment / courge d'été + chèvre + menthe + tomates
-
-### Fleurs de courgette
-Affinités fortes : **RICOTTA / MOZZARELLA / CHÈVRE / PARMESAN**, **BASILIC**, **TOMATES**
-Solides : maïs, marjolaine, œufs, oignons, persil, pesto, sarriette, sauge
-Note : très fragiles — cuisiner le jour même. Frites, farcies, en omelette/risotto. Classique : farce ricotta + herbes.
-Combos : fleurs + ricotta + parmesan (farcies/frites) / fleurs + tomates + basilic
 
 ### Laitue tendre (Bibb, sucrine, beurre)
 Affinités fortes : **VINAIGRETTE CRÉMEUSE**, **CITRON**, **FINES HERBES** (cerfeuil, ciboulette, estragon, persil), **ÉCHALOTES**
@@ -403,23 +339,11 @@ Solides : agneau, ail rôti, anis étoilé, bœuf, jambon/porc, légumes-racines
 Note : chair dense, douce et poivrée. La carotte l'adoucit ; anis étoilé dans les braisés asiatiques.
 Combos : rutabaga + carotte + beurre + poivre blanc (purée) / rutabaga + muscade + beurre (neeps écossais)
 
-### Châtaignes d'eau
-Affinités fortes : **AIL**, **GINGEMBRE**, **SAUCE SOJA**, **SÉSAME**
-Solides : bacon, cébettes, poulet, sucre, vinaigre de riz
-Note : croquant qui résiste à la cuisson — atout texture des sautés et farces asiatiques. Ajouter en fin de sauté.
-Combos : châtaignes d'eau + ail + gingembre + sauce soja (sauté) / châtaignes d'eau + bacon (bouchées)
-
 ### Châtaignes / Marrons
 Affinités fortes : **POMMES (cidre, fruit, jus)**, **CRÈME / LAIT**, **BOUILLON DE VOLAILLE**
 Solides : bacon, beurre, chou de Bruxelles, céleri, cèpes, chocolat, gibier, jambon, miel, oignons, orange, poires, porc, sauge, thym, vanille
 Note : saveurs terreuses ; ÉVITER les fruits rouges. Excellent en velouté ou farce de volaille.
 Combos : châtaignes + pommes + crème (velouté) / châtaignes + bacon + fenouil / châtaignes + orange + poire (dessert)
-
-### Truffe
-Affinités fortes : **ŒUF**, **POMME DE TERRE**, **PÂTES/RIZ**, **BEURRE/GRAS**
-Solides : ail, bacon, chou, crustacés (homard, Saint-Jacques), foie/foie gras, fromage pâte molle, parmesan, viande
-Note : le gras porte son arôme — indispensable. Conserver fraîche avec des œufs (le jaune s'imprègne en 1-2 j).
-Combos : truffe + œuf (omelette, brouillade) / truffe + pomme de terre (gratin) / truffe + pâtes ou risotto + parmesan
 
 ### Cèpes / champignons sauvages (porcini)
 Affinités fortes : **AIL**, **HUILE D'OLIVE**, **PERSIL**, **PARMESAN**, **THYM**
@@ -434,18 +358,6 @@ Note : genièvre = signature. Acidité forte équilibrée par le gras des viande
 Combos : saucisses + moutarde + choucroute / choucroute + lardons + pommes + cidre
 
 ### HERBES
-
-### Lavande
-Affinités fortes : **MIEL**, **CRÈME / GLACE**, **POULET**, **AGNEAU**
-Solides : abricots, amandes, baies, citron, fruits (pêches, prunes), mascarpone, menthe, orange, romarin, thé noir, vanille
-Note : composant des herbes de Provence. Très puissante — "très peu" ou goût de savon. Sucré comme salé.
-Combos : lavande + crème + sucre (glace) / lavande + romarin (sablés, viandes) / lavande + miel + pêches
-
-### Sarriette (savory)
-Affinités fortes : **HARICOTS** (secs, fèves, verts, lima)
-Solides : agneau, ail, basilic, bœuf, champignons, chou/choux de Bruxelles, fenouil, fines herbes, chèvre, herbes de Provence, kale, lavande, lentilles, légumineuses, maquereau, marjolaine, menthe, muscade, œufs, oignons, olives, origan, paprika, persil, polenta, porc, pommes de terre, ragoûts, riz, romarin, sauge, thym, tomates, veau, vinaigre, vin rouge
-Note : herbe robuste qui supporte la cuisson longue ; sarriette d'été pour légumes d'été, d'hiver pour légumes d'hiver.
-Combos : sarriette + ail + tomates
 
 ### Cerfeuil
 Affinités fortes : œufs, poisson, crème (sauces, soupes), fines herbes
@@ -476,12 +388,6 @@ Solides : aneth, betteraves (bortsch), caviar, desserts, fruits, moutarde, papri
 Note : fraîche ou chauffée à basse température (tranche en bouillant). Adoucit les plats épicés. Signature Europe de l'Est (bortsch, goulash).
 Combos : crème aigre + paprika (goulash) / crème aigre + aneth + raifort + citron (sauce froide) / crème aigre + ciboulette + pomme de terre au four
 
-### Verjus
-Affinités fortes : **FRUITS**, **SALADES (fruit, vertes)**
-Solides : abricots, asperges, baies, canneberges, concombres, fenouil, foie gras, fromage de chèvre, fruits (melon, poires, pomme, coing), herbes (aneth, menthe, thym), moutarde Dijon, oignons, poisson, porc, agneau, volaille, caille, lapin, fruits de mer, grenade, épinards, sauce soja
-Note : jus de raisin vert acidulé-doux — remplace vinaigre/citron quand ils seraient trop agressifs (notamment avec un vin). Déglacer, monter une vinaigrette.
-Combos : verjus + fromage de chèvre + salade / verjus + poisson + herbes / verjus + melon (assaisonnement d'été)
-
 ### Mélasse / sucre roux
 Affinités fortes : **GINGEMBRE**, **CANNELLE**, **POMMES**, **SAUCE BARBECUE**, **PAIN D'ÉPICES**
 Solides : beurre, café, citron, crème, haricots blancs, noix, orange, prunes, vanille
@@ -500,25 +406,6 @@ Affinités fortes : ail, tomates, citron vert, porc
 Solides : avocat, haricots, chocolat, coriandre, mayonnaise, mélasse, oignons, orange, paprika, sucre, vinaigre blanc, citron
 Note : chaleur ET fumé en une fois — idéal en mayo, sauce barbecue, chili. Une pincée suffit.
 Combos : chipotle + mayonnaise + citron vert / chipotle + tomates + ail + oignons (sauce mexicaine) / chipotle + chocolat (mole)
-
-### AGRUMES & ALCOOLS
-
-### Citron Meyer
-Affinités fortes : **MIEL**, **CRÈME**, **VANILLE**, **ORANGE**, **SUCRE**
-Note : croisement citron/orange, plus doux et parfumé. Parfois trop sucré — relever avec un peu de citron normal/lime. Excellent en pâtisserie.
-Combos : citron Meyer + crème + vanille (tarte) / Meyer + miel + fruits rouges
-
-### Yuzu
-Affinités fortes : **POISSON / FRUITS DE MER**, **SAUCE SOJA**, **GINGEMBRE**, **AGRUMES**
-Solides : abricots, bœuf, carottes, mangue, mirin, miso, oignons verts, poulet, riz, saumon, Saint-Jacques, sésame, sucre, thé vert, tofu, vinaigre de riz
-Note : agrume japonais entre citron, mandarine et pamplemousse. À défaut : citron + citron vert + pointe de mandarine. Cru, en finition.
-Combos : yuzu + sauce soja + poisson cru (ponzu maison) / yuzu + caramel + pamplemousse + thé vert
-
-### Whisky (et bourbon)
-Affinités fortes : **FRUITS SECS / FIGUES**, **MIEL**, **CANNELLE**, **CRÈME**
-Solides : chocolat, citron, gingembre, orange (curaçao, zeste), patate douce, poires, vanille, anis étoilé, sucre roux, quatre-épices
-Note : cuisine surtout sucrée + flambage/déglaçage (brûler l'alcool, garder l'arôme). Desserts aux fruits secs, sauces caramel.
-Combos : whisky + cannelle + fruits secs + gingembre / whisky + citron + orange curaçao
 
 ### FROMAGES & PRODUITS LAITIERS
 
@@ -541,12 +428,6 @@ Affinités fortes : **POMMES**, **POIRES**, **FROMAGE (chèvre, manchego, ricott
 Solides : amandes, brandy/calvados, cannelle, cardamome, girofle, crème/glace, dattes, figues sèches, fruits secs, gingembre, mascarpone, miel, muscade, noisettes, orange, vanille, vin (rouge, blanc moelleux)
 Note : immangeable cru — peler et cuire longuement (poché, compote, pâte). Pâte de coing + fromage = duo ibérique.
 Combos : coing + pâte + manchego / coing poché + vanille + miel / coing + pommes + cannelle (tarte)
-
-### Goyave
-Affinités fortes : **BANANE**, lime, coco, fromage frais/mascarpone, rhum
-Solides : cajou, chocolat blanc, curry, fruit de la passion, gingembre, jambon, macadamia, miel, orange, porc, raisins secs, vanille, vinaigre blanc
-Note : classique latino "goyave + cream cheese". Acidité tropicale en dessert comme en sauce pour le porc.
-Combos : goyave + cream cheese / goyave + lime + rhum / goyave + coco + vanille
 
 ### Raisin (frais)
 Affinités fortes : **FROMAGE (bleu, vache, chèvre)**, noix/pécan, volaille et porc rôtis, romarin
@@ -571,11 +452,12 @@ Solides : ail, bœuf froid, café, cannelle, canard, chocolat, coriandre, fromag
 Note : moulues, elles épaississent et enrichissent sauces/ragoûts (circassien, fesenjan). Noix + grenade équilibre les viandes grasses (canard).
 Combos : noix moulues + ail + poulet poché (circassien) / noix + grenade + canard (fesenjan) / noix + bleu + poire + cresson
 
-### Cacahuète (cuisine salée)
-Affinités fortes : **PIMENT/CHILI**, **SAUCE SOJA**, **LAIT DE COCO**, **CITRON VERT**
-Solides : ail, bœuf, coriandre, gingembre, miel, nouilles, porc, sésame, sucre brun
+### Cacahuète / beurre de cacahuète (salé et sucré)
+Affinités fortes : **PIMENT/CHILI**, **SAUCE SOJA**, **LAIT DE COCO**, **CITRON VERT**, **CHOCOLAT (noir et au lait)**, **BANANE**
+Solides (salé/asiatique) : ail, basilic, bœuf, coriandre, crevettes, curry rouge thaï, gingembre, miel, nouilles, porc, poulet, sauce poisson thaï, sésame, sucre brun
+Solides (sucré) : caramel, miel, raisins secs, framboises, fraises, vanille, avoine
 Note : base crémeuse pour sauces et currys asiatiques (satay, penang). Moulue elle épaissit ; concassée elle apporte le croquant.
-Combos : cacahuète + soja + piment + porc haché + nouilles (dan dan) / cacahuète + lait de coco + chili + citron vert (satay)
+Combos : cacahuète + soja + piment + porc haché + nouilles (dan dan) / beurre de cacahuète + soja + lime + piment + ail (satay, poulet/nouilles) / + lait de coco + curry rouge / + chocolat + banane
 
 ### COMPLÉMENTS AUX ENTRÉES EXISTANTES
 
@@ -635,12 +517,6 @@ Solides : bacon, canneberges, cannelle, carottes, céleri, champignons sauvages,
 Note : viande maigre et discrète — la farce (sauge, oignons, châtaignes) et un fond gras (bacon, beurre) la subliment ; bien s'épice.
 Combos : dinde + sauge + oignons + châtaignes (farce) / dinde + canneberges + orange / dinde + cumin + garam masala + yaourt
 
-### Chevreuil / gibier (venaison)
-Affinités fortes : **BAIES DE GENIÈVRE**, **OIGNONS**, **POIRES**, **POIVRE**
-Solides : ail, bacon, baies (canneberges, cerises noires, myrtilles, airelles), brandy/cognac/gin, cannelle, champignons sauvages, chou rouge, courge, crème, marrons, moutarde, orange, panais, raifort, romarin, sauge, thym, vinaigre, vin rouge
-Note : viande maigre et puissante — équilibrer par le gras (bacon) et le sucré-acidulé (baies, poires, vin). Genièvre = signature.
-Combos : chevreuil + ail + genièvre + romarin / chevreuil + poires + romarin / chevreuil + romarin + tomates + vin rouge
-
 ### Tofu
 Affinités fortes : ail, gingembre, miso, shiitake, oignons verts, sésame, sauce soja, tamari, teriyaki
 Solides : asperges, chou napa, nouilles (soba, udon), riz sauté, soupes, vinaigrettes
@@ -652,12 +528,6 @@ Affinités fortes : **CIBOULETTE**, **CREAM CHEESE**, **ANETH**, **CITRON**, **P
 Solides : avocat, betteraves, câpres, caviar, concombre, crème fraîche, échalotes, oeufs brouillés, oignons rouges, pain (bagel, pumpernickel, blini), pommes de terre, raifort, roquette, sour cream, vinaigre
 Note : servir froid, ne pas cuire. Éviter la mayonnaise.
 Combos : saumon fumé + cream cheese + citron + échalotes (bagel) / saumon fumé + ciboulette + aneth + oeufs brouillés + pdt / saumon fumé + concombre + raifort
-
-### Espadon
-Affinités fortes : **HUILE D'OLIVE**
-Solides : ail, basilic, câpres, caponata, citron, citron confit, fenouil, lime, menthe, olives noires, orange, origan, persil, pignons, pdt, piment, romarin, safran, tomates, vin blanc sec
-Note : chair ferme façon steak — grill/poêle, ne pas trop cuire (sèche vite).
-Combos : espadon + citron + olives + câpres / espadon + tomates + ail + origan / espadon + safran + fenouil
 
 ### Truite
 Affinités fortes : amandes, beurre noisette, citron, persil, thym
@@ -717,11 +587,6 @@ Affinités fortes (vinaigrette) : **HUILE D'OLIVE**, **VINAIGRE**, **MOUTARDE DE
 Accompagnements : avocat, anchois, bacon, câpres, fromage (parmesan, feta, chèvre, bleu), croûtons, herbes (cerfeuil, ciboulette, estragon, persil), noix/noisettes, oignons rouges, oeufs durs
 Note : amertume des chicorées = équilibrer par gras (lardons, fromage), sucre (poire, raisins) ou acide.
 Combos : romaine + anchois + parmesan (César) / mesclun + chèvre + noisettes / chicorée + lardons + oeuf + vinaigre (frisée aux lardons)
-
-### Daikon
-Affinités : beurre, bœuf, carottes, chèvre/feta, ciboulette, concombre, canard, curry, gingembre, citron, menthe, miso, oignons verts, orange, persil, porc, saumon, huile de sésame, sauce soja, sucre, thon, vinaigre
-Note : plus doux/sucré/absorbant que navet ou radis ; ragoûts, marinades, cru râpé en salade ; bon avec saveurs riches (porc, bœuf, canard).
-Combos : daikon + gingembre + soja + sésame / daikon + canard ou porc (ragoût) / daikon + vinaigre de riz + sucre (pickle rapide)
 
 ---
 
@@ -837,10 +702,10 @@ Combos : sésame + miel + tahini + vanille / sésame + ail + soja + épinards
 ## FRUITS (desserts & sucré)
 
 ### Banane (desserts)
-Affinités fortes : **CARAMEL**, **CHOCOLAT**, **COCO / LAIT DE COCO**, **CRÈME / GLACE**, **CITRON**, **RHUM**, **SUCRE**
-Solides : amandes, beurre noisette, cacahuètes, cannelle, cardamome, cerises, dattes, figues sèches, fruits de la passion, gingembre, miel, noisettes, macadamia, pécan, orange
-Note : le sucre et la chaleur révèlent la banane (caramélisée). Pour cuire, choisir des bananes fermes.
-Combos : banane + caramel + chocolat / banane + coco + crème / banane + caramel + beurre noisette + agrumes + cacahuètes / banane-rhum + macadamia
+Affinités fortes : **CARAMEL/TOFFEE**, **CHOCOLAT**, **COCO / LAIT DE COCO**, **CRÈME / GLACE**, **CITRON**, **RHUM**, **CAFÉ**, **NOIX/CACAHUÈTE**, **SUCRE**
+Solides : amandes, bacon, beurre noisette, cannelle, cardamome, cerises, dattes, érable, figues sèches, fruits de la passion, gingembre, miel, noisettes, macadamia, pécan, orange, vanille, yaourt
+Note : le sucre et la chaleur révèlent la banane (caramélisée) ; bananes jaunes-fermes pour qu'elles tiennent à la cuisson. Mûre (peau tachetée) = notes de girofle, vanille, miel, rhum — d'où cannelle/vanille (banana bread) et saveurs torréfiées.
+Combos : banane + caramel + chocolat / banane + coco + crème / banane + caramel + beurre noisette + agrumes + cacahuètes / banane-rhum + macadamia / banane + caramel + café (banoffee) / banane + cannelle + vanille (banana bread) / banane + dattes + flocons d'avoine (sticky pudding)
 
 ### Abricot
 Affinités fortes : **AMANDES**, **VANILLE**, **SUCRE**, **CRÈME/GLACE**, citron, miel
@@ -884,15 +749,6 @@ Combos : yaourt + abricots + pistaches / yaourt + miel + noix / yaourt + caramel
 
 ---
 
-## CONDIMENTS (compléments)
-
-### Wasabi
-Affinités fortes : **POISSON CRU / SUSHI**, **SAUCE SOJA**, **GINGEMBRE**, **SÉSAME**
-Solides : avocat, bœuf, crabe, crème, crevettes, mirin, miso, oignons verts, riz, saumon, thon, tofu, vinaigre de riz
-Note : chaleur volatile qui monte au nez et s'estompe — ajouter au dernier moment, ne pas cuire. Au-delà du sushi : pointe dans une crème, purée ou mayo.
-Combos : wasabi + soja + poisson cru / wasabi + crème + saumon / wasabi + avocat + sésame
-
----
 
 ## BASES RÉGIONALES (compléments)
 
@@ -933,10 +789,11 @@ Combos : piment + coriandre + lait de coco / piment + curry + sauce de poisson /
 - **Coriandre fraîche + cumin torréfié (+ piment)** → base currys/dhals indiens et ragoûts mexicains ; réveille un guacamole, top sur œufs brouillés.
 
 ### Courge butternut / potimarron (et courges d'hiver)
-Affinités fortes : **BEURRE NOISETTE**, **SAUGE**, **PARMESAN** (Fontina, Gruyère, pecorino, ricotta)
-Solides : ail, amandes/noix, bacon/pancetta, cannelle, châtaignes, coriandre, crème fraîche, cumin, gingembre, lait de coco, laurier, miel, muscade, oignons rouges, orange, pommes vertes, romarin, sirop d'érable, thym, vinaigre
+Affinités fortes : **BEURRE NOISETTE**, **SAUGE**, **MUSCADE**, **PARMESAN** (Fontina, Gruyère, pecorino, ricotta, feta)
+Solides : ail, amandes/noix, bacon/pancetta, bouillon de volaille, cannelle, cardamome, cayenne, châtaignes, clou de girofle, coriandre, crème (fraîche), cumin, gingembre, lait de coco, laurier, miel, oignons rouges, orange, piment, pignons, pommes vertes, romarin, sirop d'érable, thym, vinaigre balsamique
 Applications : rôtie, soupe veloutée, purée, risotto, ravioli, gratin.
-Combos : butternut + risotto + sauge / butternut + bacon + érable + sauge (rôtie) / butternut + crème fraîche + muscade + sauge / butternut + coriandre + coco + gingembre (soupe)
+Notes : douce et fade, a besoin d'un réveil — rôtie huile d'olive + balsamique (2:1) + muscade râpée = déjà excellent. Le laurier renforce le goût "de courge". Épices douces marchent en sucré comme en salé.
+Combos : butternut + risotto + sauge / butternut + bacon + érable + sauge (rôtie) / butternut + crème fraîche + muscade + sauge / butternut + coriandre + coco + gingembre (soupe) / butternut + ricotta + muscade (raviolis) / beurre + ail + bouillon + thym (velouté) / beurre noisette + sauge + amaretti (ravioli) / miel + balsamique (rôtie)
 
 ---
 
@@ -980,12 +837,6 @@ Affinités fortes : **CITRON**, **MENTHE**, **AIL**, **HUILE D'OLIVE**
 Solides : agneau, bacon/pancetta, beurre, crème, crustacés (crabe, homard, crevettes), jambon cru, parmesan, pomme de terre, porc/saucisse, truffe
 Note : l'agneau adoucit son amertume mieux que le bœuf ou le porc. Citron = anti-oxydation + service. Difficile à marier au vin (cynarine).
 Combos : artichaut + ail + menthe + citron + huile d'olive (alla romana) / artichaut + agneau (ragoût) / artichaut + pancetta + parmesan + crème (pâtes)
-
-### Courge butternut
-Affinités fortes : **MUSCADE**, **BEURRE**, **SAUGE**, **PARMESAN/RICOTTA**
-Solides : ail, cannelle, crème, huile d'olive, oignon, piment, vinaigre balsamique
-Note : douce et fade, a besoin d'un réveil. Rôtie à l'huile d'olive + balsamique (2:1) + muscade râpée = déjà excellent.
-Combos : butternut + ricotta + muscade (raviolis) / butternut rôti + balsamique + muscade / butternut + sauge + beurre noisette
 
 ### Betterave
 Affinités fortes : **CHÈVRE/FETA**, **NOIX**, **ORANGE**, **VINAIGRE/BALSAMIQUE**
@@ -1231,12 +1082,6 @@ Solides : amande, concombre, fraise, raisin
 Note : la menthe est son vrai meilleur allié (oublier le gingembre). Parenté avec le concombre = salades/soupes fraîches. Forte teneur en eau = peu d'affinités.
 Combos : melon + jambon cru / melon + menthe (salade, soupe froide) / melon + concombre + menthe
 
-### Banane
-Affinités fortes : **CHOCOLAT**, **CARAMEL/TOFFEE**, **CAFÉ**, **NOIX/CACAHUÈTE**
-Solides : amande, bacon, cannelle, coco, rhum, vanille
-Note : mûre (peau tachetée) = notes de girofle, vanille, miel, rhum — d'où cannelle/vanille (banana bread) et saveurs torréfiées.
-Combos : banane + chocolat (au four) / banane + caramel + café (banoffee) / banane + cannelle + vanille (banana bread)
-
 ### Fruits tropicaux (mangue, ananas, papaye)
 Affinités fortes : **LIME**, **RHUM**, coco, gingembre, menthe
 Solides : banane, bourbon, caramel, chocolat (et blanc), citronnelle, cinq-épices, clou de girofle, coriandre, crème/glace, fruit de la passion, miel, orange, piment, sucre brun, vanille, yaourt
@@ -1408,12 +1253,6 @@ Affinités fortes : **MENTHE**, **BEURRE**, **CAROTTES**, **BASILIC**, **CRÈME*
 Solides : asperges, bacon/lardons, ciboulette, échalotes, jambon, laitue, oignons nouveaux, parmesan, pancetta, pâtes, ricotta, sauge, thym
 Surprenantes : champignons (morilles), curry, gingembre
 Combos : petits pois + menthe + morilles / + lardons + crème + échalotes / + carottes + beurre + sucre
-
-### Potiron / Courge d'hiver (butternut)
-Affinités fortes : **BEURRE**, **SAUGE**, **CANNELLE**, **MUSCADE**, **GINGEMBRE**, **CRÈME**, **CLOU DE GIROFLE**, **FROMAGE (feta, gruyère, parmesan)**
-Solides : ail, bouillon de volaille, cardamome, cayenne, lait de coco, miel, oignons, orange, pignons, pomme, romarin, érable, thym, balsamique
-Note : le laurier renforce le goût "de courge". Épices douces marchent en sucré comme en salé.
-Combos : courge + beurre + ail + bouillon + thym (velouté) / + beurre noisette + sauge + amaretti (ravioli) / + miel + balsamique (rôtie)
 
 ---
 
@@ -1595,12 +1434,6 @@ Solides : amandes, cardamome, céleri (sorbet), érable, fenouil, gingembre, mie
 Note : pour une tarte, mélanger 2-3 variétés (Granny pour la tenue, Golden/Gala pour le sucre). Citron + pincée de sel relèvent.
 Combos : pommes + cannelle + caramel / + caramel + noix / + raisins secs + rhum
 
-### Banane
-Affinités fortes : **CARAMEL**, **CHOCOLAT**, **NOIX DE COCO**, **CRÈME/GLACE**, **CITRON**, rhum, sucre
-Solides : cannelle, cardamome, dattes, érable, fruits de la passion, gingembre, miel, macadamia/pécan, vanille, yaourt
-Note : le sucre exalte la banane ; bananes jaunes-fermes pour qu'elles tiennent à la cuisson.
-Combos : banane + caramel + chocolat / + coco + crème / + dattes + flocons d'avoine (sticky pudding)
-
 ### Mangue
 Affinités fortes : **CITRON VERT**, **CORIANDRE**, **PIMENT**, **NOIX DE COCO**
 Solides : avocat, cardamome, crevettes, cumin, gingembre, menthe, oignon rouge, orange
@@ -1635,12 +1468,6 @@ Affinités fortes : **ABRICOT**, **CERISE**, **POIRE/POMME**, **CHOCOLAT**, **FR
 Solides : ail, asperges, banane, cannelle, café, citron, coco, figue, fraise, framboise, gingembre, lait, melon, orange, pêche, poisson, romarin, rose, safran
 Note : l'amande amère va avec les fruits de la famille de la rose (fruits à noyau, baies, pommes, poires). L'amande moulue adoucit l'acidité du citron en pâtisserie.
 Combos : amande + abricot (financier, crumble) / + cerise (clafoutis, bakewell) / effilée + asperges + beurre + citron
-
-### Cacahuètes / Beurre de cacahuète
-Affinités fortes : **CHOCOLAT**, **BANANES**, **PIMENT**, **LAIT DE COCO**, **SAUCE SOJA**
-Solides : ail, basilic, caramel, citron vert, coriandre, curry rouge thaï, gingembre, miel, nouilles, poulet, porc, sésame, sucre brun, crevettes
-Note : base satay et nouilles asiatiques (cacahuète + soja + piment + lime). Sucré : duo avec chocolat et banane.
-Combos : beurre de cacahuète + soja + lime + piment + ail (satay) / + lait de coco + curry rouge / + chocolat + banane
 
 ### Noix de coco (lait / crème)
 Affinités fortes : **CITRON VERT**, **PIMENT**, **CORIANDRE**, **GINGEMBRE**, **POISSON BLANC**
@@ -1787,12 +1614,6 @@ Note : saveur douce → en quantité ou en vedette ; apportent couleur et croqua
 Solides salés : poulet, porc, fromage de chèvre, courge butternut, riz sauvage, farces, salades, sautés, jambon/shiitakes
 Sucré (rappel) : **CARAMEL**, **SIROP D'ÉRABLE**, **SUCRE ROUX**, chocolat, banane, pomme, cannelle
 Note : torréfier pour réveiller le goût ; pincée de sel pour équilibrer le gras.
-
-### Cacahuète / beurre de cacahuète
-Affinités fortes : **CHOCOLAT (noir et au lait)**, **BANANE**
-Solides (sucré) : caramel, miel, raisins secs, framboises, fraises, vanille, sucre roux, avoine
-Solides (salé/asiatique) : poulet, porc, crevettes, nouilles, coriandre, ail, oignons, jalapeño, lime, citron, sauce soja, sauce poisson thaï, lait de coco, pâte de curry rouge
-Combos : satay = beurre de cacahuète + sauce soja + lime + piment + ail (poulet/nouilles) / chocolat au lait + cacahuètes / banane + chocolat + cacahuètes
 
 ---
 
